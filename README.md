@@ -1,4 +1,7 @@
+
+
 # 2023ChinaVis/Vast Challenge
+
 ## 3.4
 技术栈：dash+D3  (tableua) (R)
 
@@ -74,4 +77,28 @@ Excel   dash+D3（tableua）（R）
 |              |                             |      |
 |              |                             |      |
 |              |                             |      |
+
+
+
+## 3.23
+
+<img src="C:\Users\afo\AppData\Roaming\Typora\typora-user-images\image-20230323155445411.png" alt="image-20230323155445411" style="zoom:67%;" />  <img src="C:\Users\afo\AppData\Roaming\Typora\typora-user-images\image-20230323155636560.png" alt="image-20230323155636560" style="zoom:67%;" /><img src="C:\Users\afo\AppData\Roaming\Typora\typora-user-images\image-20230323155607579.png" alt="image-20230323155607579" style="zoom:50%;" />
+
+| 图                                                  | 人   | ddl               |
+| --------------------------------------------------- | ---- | ----------------- |
+| **地图**        折线图 柱状图 饼图 散点图 路径图    | wjf  | 3.30\|4.5         |
+| **关系图**    K线图 雷达图 热力图 树图 矩形树图     | ll   | 3.30\|4.5         |
+| **粒子动图** 旭日图 平行坐标系 桑基图 漏斗图 仪表盘 | ldy  | 3.30\|4.5(破题会) |
+
+| 交互       | 人   |      |
+| ---------- | ---- | ---- |
+| 弹窗       |      |      |
+| 全局的皮肤 |      |      |
+| 组件排版   | wjf  | 3.24 |
+| ppt        | ll   | 3.29 |
+| 论文       | ldy  | 3.29 |
+
+
+
+ 
 
