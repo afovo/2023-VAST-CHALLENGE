@@ -6,8 +6,10 @@ import './assets/global.css'
 import * as echarts from 'echarts';
 import 'echarts/extension/bmap/bmap'
 
+
 Vue.config.productionTip = false
 Vue.prototype.$echarts = echarts
+
 
 new Vue({
   router,
