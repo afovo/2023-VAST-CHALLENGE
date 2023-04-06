@@ -1,37 +1,20 @@
-
-
-# 2023ChinaVis/Vast Challenge
-
-## 3.4
-技术栈：dash+D3  (tableua) (R)
-
-第一次答辩前：封装一个模块齐全的可视化大屏 ：)
-
-**周一晚上**  7:30 一丹310
-
-
-
-## 3.18
-
-前端Vue+d3技术实现：看懂demo（群里陆陆），+d3
-
-数据准备+建模+机器学习：都学
-
-第一次答辩准备：写完proposal
-
-**周四下午**  2：30  开始做黑网吧
-
-
-
-
+# 2023 Vast Challenge 会议记录
 
 ## 学习笔记
 
 ### 腾讯文档link
 
 [ChinaVis 破题 (qq.com)](https://docs.qq.com/doc/DRElLemNFU2Z4V2Z5?u=9ccd436263224792aed1e201d311483d)
+【腾讯文档】VAST CHALLENGE 往届题 https://docs.qq.com/doc/DWE1SWGFWdFdveE5y
 
-
+### 分工
+| 任务         | 描述                        |  人    |
+| ------------ | --------------------------- | ---- |
+| 数据处理  |  |      |
+| 开发+讲数据故事 | 构思并搭建框架，连接前后端                  |      |
+| 前端     | 前端可视化          |      |
+| 论文     |                             |      |
+|              |                             |      |
 
 ### 破题Tips
 
@@ -39,7 +22,6 @@
 2. 列举不同维度的特征寻找关系（e.g.中文姓，男女对地区的偏好）
 3. 客观事实（e.g.地理实际位置&商圈，身份证区号变化，老人上网时长）
 4. 可视化信息量浓缩（拓扑图中节点大小表示流量）
-
 
 
 ### 数据处理流程Tips
@@ -56,7 +38,7 @@
 
 ### 技术栈
 
-Excel   dash+D3（tableua）（R）
+Vue   D3   Echarts
 
 **可视化**
 
@@ -80,6 +62,27 @@ Excel   dash+D3（tableua）（R）
 
 
 
+## 3.4
+技术栈：dash+D3  (tableua) (R)
+
+第一次答辩前：封装一个模块齐全的可视化大屏 ：)
+
+**周一晚上**  7:30 一丹310
+
+
+
+## 3.18
+
+前端Vue+d3技术实现：看懂demo（群里陆陆），+d3
+
+数据准备+建模+机器学习：都学
+
+第一次答辩准备：写完proposal
+
+**周四下午**  2：30  开始做黑网吧
+
+
+
 ## 3.23
 
 <img src="C:\Users\afo\AppData\Roaming\Typora\typora-user-images\image-20230323155445411.png" alt="image-20230323155445411" style="zoom:67%;" />  <img src="C:\Users\afo\AppData\Roaming\Typora\typora-user-images\image-20230323155636560.png" alt="image-20230323155636560" style="zoom:67%;" /><img src="C:\Users\afo\AppData\Roaming\Typora\typora-user-images\image-20230323155607579.png" alt="image-20230323155607579" style="zoom:50%;" />
@@ -99,6 +102,9 @@ Excel   dash+D3（tableua）（R）
 | 论文       | ldy  | 3.29 |
 
 
-
+# 4.6
+1. 分工
+2. 比赛概览
+3. 备赛计划
  
 
