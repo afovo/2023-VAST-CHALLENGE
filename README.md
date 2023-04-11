@@ -106,5 +106,17 @@ Vue   D3   Echarts
 1. 分工
 2. 比赛概览
 3. 备赛计划
- 
+
+模拟题：2021  mini challenge2.4
+| 任务       | 人   |  备注  |
+| ---------- | ---- | ---- |
+| *数据清洗+透视分析 |-| car-assignment.csv, gps.csv   |
+| *数据故事设计+布局设计| - | 复现 |
+| 地图可视化           | wjf  |      |
+| 车辆轨迹可视化+calender | yf  | +gps.csv |
+| 人物关系+聚集行为数据分析 | ldy  |      |
+| 人物关系+聚集行为可视化 | txy  |      |
+| 往届调研             | wjf, ldy, cl|         |
+| 技术准备完善         | pny(tableu放网页), cl做关系图, wjf,ldy完善图库|      |
+
 
