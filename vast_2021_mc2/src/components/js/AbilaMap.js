@@ -17,19 +17,34 @@ export const allBaseObject = []  // 返回所有基础模型
 
 var material = new LineBasicMaterial( { color: 0xA5B1D2 , lineWidth: 20} );
 /*
-125版本就不再支持这个api了，如果还需要就用他的子类BufferGeometry。
+1.2.5版本就不再支持这个api了，如果还需要就用他的子类BufferGeometry。
 var geometry = new THREE.Geometry();
 */
 
-let xScale = d3.scaleLinear().domain([20,30]).range([-1035,1095]);
+let xScale = d3.scaleLinear().domain([20,30]).range([-1035,1095]);//地图太小了 比例尺放大
 let yScale = d3.scaleLinear().domain([30,40]).range([-1290,840]);
+let xmin = 100;
+let xmax = 0;
+let ymin = 100;
+let ymax = 0;
+// let xMid = 0;
+// let yMid = 0;
+// let cnt = 0;
 abilbaJson.features.forEach(elem => {
     const geometry = new BufferGeometry();
     const pointsArray = [];
     if (elem.geometry != null) {
         const coordinates = elem.geometry.coordinates;
         for (let i = 0; i < coordinates.length; i++) {
-            pointsArray.push(new Vector3(xScale(coordinates[i][0]), 0, -yScale(coordinates[i][1])));
+            if(coordinates[i][0]<xmin) xmin=coordinates[i][0];
+            if(coordinates[i][0]>xmax) xmax=coordinates[i][0];
+
+            if(coordinates[i][1]<ymin) ymin=coordinates[i][1];
+            if(coordinates[i][1]>ymax) ymax=coordinates[i][1];
+            // xMid += coordinates[i][0];
+            // yMid += coordinates[i][1];
+            // cnt ++;
+            pointsArray.push(new Vector3(xScale(coordinates[i][0]), 0, yScale(coordinates[i][1])));
         }
     }
     geometry.setFromPoints(pointsArray);
@@ -49,7 +64,10 @@ abilbaJson.features.forEach(elem => {
     })
     allBaseObject.push(line);  // 添加到模型数组
 })
-
+console.log(xmin,xmax)
+console.log(ymin,ymax)
+// console.log(xMid/cnt)
+// console.log(yMid/cnt)
 var font2dMaterial = new MeshLambertMaterial({
     color: 0x912CEE,
     side: DoubleSide
@@ -59,7 +77,7 @@ var loader = new FontLoader();
 
 loader.load( 'Microsoft YaHei_Regular.json', function ( font ) {
 
-    let textGeometry = new TextGeometry('您好,three.js！', {
+    let textGeometry = new TextGeometry('???????????????', {
         font: font,
         size: 200,
         height: 0.1,
@@ -68,4 +86,5 @@ loader.load( 'Microsoft YaHei_Regular.json', function ( font ) {
     let mesh = new Mesh(textGeometry, font2dMaterial);
     mesh.position.set(-8, 0, 0);
     allBaseObject.push(mesh)
+    console.log(allBaseObject)
 });
