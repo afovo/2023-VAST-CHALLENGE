@@ -1,27 +1,26 @@
 <template>
-<!--  <china-map></china-map>-->
-<echart-map style="position:absolute;width: 100%;height: 100%"></echart-map>
-</template>
+<!--<chinaMap></chinaMap>-->
+  <abila-map></abila-map>
+  </template>
 
-<script>
-// import chinaMap from "@/components/myMap/chinaMap";
-import echartMap from "@/components/echartMap";
-export default {
-  name: 'App',
-  components: {
-    // chinaMap
-    echartMap
+  <script>
+  // import chinaMap from "@/components/chinaMap"
+  import abilaMap from "@/components/abilaMap"
+  export default {
+    name: 'App',
+    components: {
+      abilaMap,
+      // chinaMap
+    }
   }
-}
-</script>
+  </script>
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>
+  <style>
+  #app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2c3e50;
+  }
+  </style>

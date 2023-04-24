@@ -4,7 +4,7 @@
 
 <script>
 const echarts = require('echarts')
-import jsonData from '../assets/Abila1.json' //引入josn文件
+import jsonData from '../assets/Abila.json' //引入josn文件
 
 export default {
   name: 'AreaEchart',
