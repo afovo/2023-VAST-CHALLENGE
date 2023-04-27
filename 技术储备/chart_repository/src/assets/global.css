@@ -1,0 +1,44 @@
+.four_p1 {
+    position:absolute;
+    width: 30%;
+    height: 50%;
+    border: 1px solid #2F86F6;
+    left: 0;
+    top: 10%;
+}
+.four_p2 {
+    position:absolute;
+    width: 70%;
+    height: 50%;
+    border: 1px solid #2F86F6;
+    left: 30%;
+    top: 10%;
+}
+.four_p3 {
+    position:absolute;
+    width: 70%;
+    height: 50%;
+    border: 1px solid #2F86F6;
+    left: 0;
+    top: 60%;
+}
+.four_p4 {
+    position:absolute;
+    width: 30%;
+    height: 50%;
+    border: 1px solid #2F86F6;
+    left: 70%;
+    top: 60%;
+}
+
+.three_p1 {
+
+}
+
+.three_p2 {
+
+}
+
+.three_p3 {
+
+}
