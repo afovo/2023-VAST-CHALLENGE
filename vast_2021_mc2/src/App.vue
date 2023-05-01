@@ -3,7 +3,8 @@
 <!--    <d3-abila-map></d3-abila-map>-->
 <!--  <echart-map></echart-map>-->
   <!--  <d3-china-map></d3-china-map>-->
-<dash-board></dash-board>
+<!-- <dash-board></dash-board> -->
+<ThreeDashBoard></ThreeDashBoard>
 </template>
 
   <script>
@@ -12,7 +13,8 @@
   // import echartMap from "@/components/echartMap"; //echart map of abila
   // import d3ChinaMap from "@/components/d3ChinaMap";  //just a china map demo
 
-  import dashBoard from "@/view/dashBoard";
+  // import dashBoard from "@/view/dashBoard";
+  import ThreeDashBoard from './view/ThreeDashBoard.vue';
 
   export default {
     name: 'App',
@@ -21,7 +23,8 @@
       // d3AbilaMap,
       // echartMap,
       // d3ChinaMap,
-      dashBoard
+      // dashBoard
+      ThreeDashBoard
     }
   }
   </script>

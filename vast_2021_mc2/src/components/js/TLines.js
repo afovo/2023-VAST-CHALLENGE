@@ -16,10 +16,6 @@ import * as d3 from "d3";
 export const allTrackLines = []
 
 var material = new LineBasicMaterial({ color: 0xFF0000 });
-/*
-1.2.5版本就不再支持这个api了，如果还需要就用他的子类BufferGeometry。
-var geometry = new THREE.Geometry();
-*/
 
 let xScale = d3.scaleLinear().domain([20, 30]).range([-1035, 1095]);//地图太小了 比例尺放大
 let yScale = d3.scaleLinear().domain([30, 40]).range([-1290, 840]);

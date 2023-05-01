@@ -156,6 +156,9 @@ export default {
     },
   },
   watch: {//监听器，数据一旦改变就重新调用
+    colorMap(colorMap){
+      console.log("Color map in map", colorMap);
+    },
     pathCoordsToSend(pathCoordsToSend){
       if(typeof pathCoordsToSend !== "undefined"){
         if(this.rangeH!==""){
@@ -167,11 +170,14 @@ export default {
             all_path.set(arr[0].PathId, arr);
           })
           console.log("path to send", all_path)
+          // console.log("path coordinates to send", this.pathCoordsToSend.get("98.0"))
+          // console.log("color map", this.colorMap.get("1.0"))
           all_path.forEach((value, key) => {//key: pathID   value[0]: labels  value[1]:coordinates
-            console.log(this.colorMap[key])//ToDo: 这里的颜色不知道为啥是undefined呜呜呜呜呜呜呜
+            console.log(this.colorMap[0])
+            console.log(this.colorMap[parseFloat(key)])//ToDo: 这里的颜色不知道为啥是undefined呜呜呜呜呜呜呜
             let name = "CarID: "+value[0]["CarID"] + "Employer: "+value[0]["Employer"]
             value[1].forEach(coor => {
-              this.addPathDot(coor[1],coor[0],name,this.colorMap[key])
+              this.addPathDot(coor[1],coor[0],name,this.colorMap.get(key))
             })
           })
         }
@@ -183,9 +189,9 @@ export default {
         this.disp = {}
       }
     },
-    colorMap(colorMap){
-      console.log("Color map in map", colorMap);
-    },
+    // colorMap(colorMap){
+    //   console.log("Color map in map", colorMap);
+    // },
     rangeToAbilia(rangeToAbilia){
       if(rangeToAbilia) {
         this.rangeH = rangeToAbilia;
