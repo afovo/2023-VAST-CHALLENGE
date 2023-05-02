@@ -332,13 +332,14 @@ export default {
           path_coords.delete(k);
         }
       }
-      console.log(path_coords)
+      console.log("pth",path_coords)
       for (let k of path_coords.keys()){
        
         let path=path_coords.get(k);
-        // console.log("path left", path);
+        console.log("path left", path);
         if(path[0].range_hour !== this.rangeSelected){
-          path_coords.delete(k);
+          if(this.rangeSelected!=="0-24")
+            path_coords.delete(k);
         }
         if(path[0].Day !== this.daySelected){
           path_coords.delete(k);
