@@ -4,9 +4,10 @@
       <ForceDirectedGraph></ForceDirectedGraph>
     </div>
     <div class="four_p2">
-
+      <BarChartI></BarChartI>
     </div>
     <div class="four_p3">
+      <LineChartI></LineChartI>
     </div>
     <div class="four_p4">
 
@@ -17,6 +18,9 @@
 <script>
 import '../assets/global.css'
 import ForceDirectedGraph from "@/components/ForceDirectedGraph";
+import BarChartI from "@/components/BarChartI.vue";
+import LineChartI from "@/components/LineChartI.vue";
+
 export default {
   name: 'App',
   data(){
@@ -24,7 +28,10 @@ export default {
     }
   },
   components:{
-    ForceDirectedGraph
+    LineChartI,
+
+    BarChartI,
+    ForceDirectedGraph,
   },
   methods:{
   },
@@ -44,6 +51,7 @@ html{
   height:100%;
   width: 100%;
 }
+
 body{
   background-color: #303243;
   height:100%;
