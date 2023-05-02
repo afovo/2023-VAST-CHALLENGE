@@ -1,7 +1,8 @@
 <template>
   <d3-abila-map
-    :path-coords-to-send="this.pathCoordsToSend" :range-to-abilia="rangeToAbila" :color-map="colorMap"></d3-abila-map>
-  <a-select v-model="rangeSelected"
+    :path-coords-to-send="this.pathCoordsToSend" :range-to-abilia="rangeToAbila" :color-map="colorMap"></d3-abila-map> -->
+   <!-- <three-abila-map :path-coords-to-send="this.pathCoordsToSend" :range-to-abilia="rangeToAbila" :color-map="colorMap"></three-abila-map> -->
+    <a-select v-model="rangeSelected"
             style="position:absolute; top:83%;"
             placeholder="Please select a Range Hour ..."
             @change="changeRange"
@@ -21,7 +22,7 @@
       :employers_lst="this.employers_to_send"
   ></employee-list>
 
-<!--  <three-abila-map style="top:100%;"></three-abila-map>-->
+ <!-- <three-abila-map style="top:100%;"></three-abila-map> -->
 </template>
 
 <script>
@@ -82,7 +83,7 @@ export default {
   components: {
     employeeList,
     d3AbilaMap,
-    // threeAbilaMap
+    // threeAbilaMap,
   },
   data() {
     return {
@@ -562,7 +563,7 @@ export default {
     /* Given a List of selected Employers filter the Map */
     filterEmployers(employers_list){
       this.employers_sel = employers_list;
-      // console.log("selectedDay", this.selectedDay.length);
+      console.log("selectedDay", this.selectedDay.length);
 
       /* Given a list of employers filters Stack GPS and Map */
         this.selected_all = false;
