@@ -1,0 +1,60 @@
+{
+  "name": "vast_2021_mc2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@arco-design/web-vue": "^2.45.3",
+    "@babel/plugin-transform-react-jsx": "^7.21.0",
+    "@tweenjs/tween.js": "^18.6.4",
+    "axios": "^1.3.6",
+    "core-js": "^3.8.3",
+    "d3": "^7.8.4",
+    "d3-geo": "^3.1.0",
+    "echarts": "^5.4.2",
+    "mapbox-gl": "^2.13.0",
+    "ol": "^7.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.136.0",
+    "three-orbitcontrols-ts": "^0.1.2",
+    "topojson-client": "^3.1.0",
+    "vue": "^3.2.13",
+    "vuera": "^0.2.7"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/eslint-parser": "^7.12.16",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "eslint": "^7.32.0",
+    "eslint-plugin-vue": "^8.0.3",
+    "node-sass": "^8.0.0",
+    "sass-loader": "^13.2.2"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/vue3-essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "@babel/eslint-parser"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}
