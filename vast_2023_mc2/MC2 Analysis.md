@@ -37,7 +37,7 @@ Using visual analytics, can you help FishEye identify companies that may be enga
 
 KG, directed multi-graph
 
-34552 nodes 
+34552 nodes
 
 5464092 directed edges (from shipper to receiver) 
 

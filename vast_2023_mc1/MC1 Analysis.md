@@ -67,7 +67,7 @@ At the root-level, it is a dictionary with graph-level properties specified as k
 
 - **Id** – Unique identifier of the node, usually the name of the entity, some numeric
 - ***type**—{person, organization, company, political_organization, <u>location</u>, vessel, <u>event</u>, <u>movement</u>}
-- ***country**—Country associated with the entity.
+- ***country**—Country associated with the entity
 - **dataset** – ‘MC1’
 
 **Edge Attributes:**  
@@ -111,11 +111,18 @@ At the root-level, it is a dictionary with graph-level properties specified as k
 
 
 
+- 画一些小图insight
+  - 点形状不同，边颜色不同
+- 把数据摊平，每个类型，每条边两边的关系都做一个分析
+
+
+
 ## Time Line
 
-| DDL  | Task                                                         | Member              |
-| ---- | ------------------------------------------------------------ | ------------------- |
-| 5.18 | 1. d3知识图谱可视化，目标实体标注<br>2. 对目标实体进行各维度数据分析<br>3. 调研 | 1. yf, wjf, txy<br> |
-| 5.25 | 1.                                                           |                     |
-|      |                                                              |                     |
-|      |                                                              |                     |
+| DDL  | Task                                                         | Member                                       |
+| ---- | ------------------------------------------------------------ | -------------------------------------------- |
+| 5.18 | 1. MC1,2 netv.js<br>2. hierarchical-edge-bundling知识图谱可视化，目标实体标注<br>3. 小图分开画，各维度数据分析<br>4. 调研 (知识图谱分析的先例，非法渔业指标，图数据挖掘) | 1. yf<br>2. wjf, txy<br>3. pny<br>4. ldy, ll |
+| 5.25 | 1.                                                           |                                              |
+|      |                                                              |                                              |
+|      |                                                              |                                              |
+
