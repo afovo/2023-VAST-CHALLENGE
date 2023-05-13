@@ -1,26 +1,13 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+<!--    <d3demo />-->
+<!--  <netdemo />-->
+  <d3-force-graph></d3-force-graph>
 </template>
-
-<script>
-import HelloWorld from './components/HelloWorld.vue'
-
-export default {
-  name: 'App',
-  components: {
-    HelloWorld
-  }
-}
-</script>
-
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+<style scoped>
 </style>
+<script setup>
+import d3demo from "./components/d3demo.vue";
+import netdemo from "./components/netdemo.vue";
+import d3ForceGraph from "./components/d3ForceGraph.vue"
+import D3ForceGraph from "./components/d3ForceGraph.vue";
+</script>
