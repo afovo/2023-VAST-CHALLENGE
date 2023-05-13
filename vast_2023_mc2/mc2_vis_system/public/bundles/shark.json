@@ -1,0 +1,2659 @@
+{
+   "directed": true,
+   "multigraph": true,
+   "graph": {},
+   "nodes": [
+      {
+         "shpcountry": "Utoporiana",
+         "dataset": "MC2",
+         "id": "Jammu Limited Liability Company"
+      },
+      {
+         "rcvcountry": "Oceanus",
+         "dataset": "MC2",
+         "id": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "shpcountry": "Playa Solis",
+         "dataset": "MC2",
+         "id": "Mar del Norte OJSC"
+      },
+      {
+         "rcvcountry": "Oceanus",
+         "dataset": "MC2",
+         "id": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "shpcountry": "Vesperanda",
+         "dataset": "MC2",
+         "id": "Lake Nakuru  Co Freight "
+      },
+      {
+         "rcvcountry": "Azurionix",
+         "dataset": "MC2",
+         "id": "h\u01cei d\u01cen Corporation Wharf"
+      },
+      {
+         "rcvcountry": "Azurionix",
+         "dataset": "MC2",
+         "id": "ReefRider Foods Ltd. Corporation Family"
+      },
+      {
+         "rcvcountry": "Azurionix",
+         "dataset": "MC2",
+         "id": "Costa de la Felicidad Shipping"
+      },
+      {
+         "rcvcountry": "Azurionix",
+         "dataset": "MC2",
+         "id": "Coral Cove BV Delivery"
+      },
+      {
+         "rcvcountry": "Oceanus",
+         "dataset": "MC2",
+         "id": "Kilimanjaro fishery Limited Liability Company"
+      },
+      {
+         "shpcountry": "Marebak",
+         "rcvcountry": "Oceanus",
+         "dataset": "MC2",
+         "id": "Zambezi Delta  Inc Brothers"
+      }
+   ],
+   "links": [
+      {
+         "arrivaldate": "2034-07-15",
+         "hscode": 920710,
+         "volumeteu": 0.0,
+         "weightkg": 2435,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-04-16",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 2675,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-05-19",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 2710,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-09-23",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 3995,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-02-18",
+         "hscode": 920790,
+         "volumeteu": 5.0,
+         "weightkg": 7085,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-09-23",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 3995,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-11-04",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 1560,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-07-15",
+         "hscode": 920710,
+         "volumeteu": 0.0,
+         "weightkg": 2435,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-05-19",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 2710,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-11-04",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 1560,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-04-16",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 2675,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-07-15",
+         "hscode": 920710,
+         "volumeteu": 0.0,
+         "weightkg": 2435,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-09-23",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 3995,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-07-15",
+         "hscode": 920710,
+         "volumeteu": 0.0,
+         "weightkg": 2435,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-07-15",
+         "hscode": 920710,
+         "volumeteu": 0.0,
+         "weightkg": 2435,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-11-04",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 1560,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-09-23",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 3995,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-09-23",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 3995,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-07-15",
+         "hscode": 920710,
+         "volumeteu": 0.0,
+         "weightkg": 2435,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-05-19",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 2710,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-04-16",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 2675,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-09-23",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 3995,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-04-16",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 2675,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-05-19",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 2710,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-09-23",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 3995,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-07-15",
+         "hscode": 920710,
+         "volumeteu": 0.0,
+         "weightkg": 2435,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-09-23",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 3995,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-07-15",
+         "hscode": 920710,
+         "volumeteu": 0.0,
+         "weightkg": 2435,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-05-19",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 2710,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-11-04",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 1560,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-09-23",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 3995,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-07-15",
+         "hscode": 920710,
+         "volumeteu": 0.0,
+         "weightkg": 2435,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-02-18",
+         "hscode": 920790,
+         "volumeteu": 5.0,
+         "weightkg": 7085,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-05-19",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 2710,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-11-04",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 1560,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-11-04",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 1560,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-09-23",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 3995,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-05-19",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 2710,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-05-19",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 2710,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-11-04",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 1560,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-05-19",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 2710,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-07-15",
+         "hscode": 920710,
+         "volumeteu": 0.0,
+         "weightkg": 2435,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-11-04",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 1560,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-11-04",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 1560,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-09-23",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 3995,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-11-04",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 1560,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-07-15",
+         "hscode": 920710,
+         "volumeteu": 0.0,
+         "weightkg": 2435,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-09-23",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 3995,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-07-15",
+         "hscode": 920710,
+         "volumeteu": 0.0,
+         "weightkg": 2435,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-11-04",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 1560,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-05-19",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 2710,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-07-15",
+         "hscode": 920710,
+         "volumeteu": 0.0,
+         "weightkg": 2435,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-04-16",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 2675,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-11-04",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 1560,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-05-19",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 2710,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-11-04",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 1560,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-11-04",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 1560,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-09-23",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 3995,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-05-19",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 2710,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-05-19",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 2710,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-11-04",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 1560,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-04-16",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 2675,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-07-15",
+         "hscode": 920710,
+         "volumeteu": 0.0,
+         "weightkg": 2435,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-07-15",
+         "hscode": 920710,
+         "volumeteu": 0.0,
+         "weightkg": 2435,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-04-16",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 2675,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-02-18",
+         "hscode": 920790,
+         "volumeteu": 5.0,
+         "weightkg": 7085,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-09-23",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 3995,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-07-15",
+         "hscode": 920710,
+         "volumeteu": 0.0,
+         "weightkg": 2435,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-02-18",
+         "hscode": 920790,
+         "volumeteu": 5.0,
+         "weightkg": 7085,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-11-04",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 1560,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-11-04",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 1560,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-05-19",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 2710,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-11-04",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 1560,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-04-16",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 2675,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-05-19",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 2710,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-09-23",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 3995,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-02-18",
+         "hscode": 920790,
+         "volumeteu": 5.0,
+         "weightkg": 7085,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-11-04",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 1560,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-05-19",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 2710,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-11-04",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 1560,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-09-23",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 3995,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-05-19",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 2710,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-05-19",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 2710,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-07-15",
+         "hscode": 920710,
+         "volumeteu": 0.0,
+         "weightkg": 2435,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-04-16",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 2675,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-07-15",
+         "hscode": 920710,
+         "volumeteu": 0.0,
+         "weightkg": 2435,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-09-23",
+         "hscode": 920590,
+         "volumeteu": 0.0,
+         "weightkg": 3995,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Jammu Limited Liability Company",
+         "target": "Coral del Sur Ltd. Corporation Investment"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 210,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 51100,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 210,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 210,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 210,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 51100,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 51100,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 51100,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 210,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 51100,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 210,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 210,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 210,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 210,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 51100,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 51100,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 210,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 51100,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 210,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 51100,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 210,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 51100,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 210,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 51100,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 51100,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 51100,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 210,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 51100,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 210,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 210,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 210,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 210,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-11-24",
+         "hscode": 845490,
+         "volumeteu": 0.0,
+         "weightkg": 51100,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Fisherman's Bounty Oyj International"
+      },
+      {
+         "arrivaldate": "2034-08-16",
+         "hscode": 847720,
+         "volumeteu": 0.0,
+         "weightkg": 8425,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Costa de la Felicidad Shipping"
+      },
+      {
+         "arrivaldate": "2034-08-16",
+         "hscode": 847720,
+         "volumeteu": 0.0,
+         "weightkg": 8425,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Costa de la Felicidad Shipping"
+      },
+      {
+         "arrivaldate": "2034-08-16",
+         "hscode": 847720,
+         "volumeteu": 0.0,
+         "weightkg": 8425,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Costa de la Felicidad Shipping"
+      },
+      {
+         "arrivaldate": "2034-08-16",
+         "hscode": 847720,
+         "volumeteu": 0.0,
+         "weightkg": 8425,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Costa de la Felicidad Shipping"
+      },
+      {
+         "arrivaldate": "2034-08-16",
+         "hscode": 847720,
+         "volumeteu": 0.0,
+         "weightkg": 8425,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Costa de la Felicidad Shipping"
+      },
+      {
+         "arrivaldate": "2034-08-16",
+         "hscode": 847720,
+         "volumeteu": 0.0,
+         "weightkg": 8425,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Costa de la Felicidad Shipping"
+      },
+      {
+         "arrivaldate": "2034-08-16",
+         "hscode": 847720,
+         "volumeteu": 0.0,
+         "weightkg": 8425,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Costa de la Felicidad Shipping"
+      },
+      {
+         "arrivaldate": "2034-08-16",
+         "hscode": 847720,
+         "volumeteu": 0.0,
+         "weightkg": 8425,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Costa de la Felicidad Shipping"
+      },
+      {
+         "arrivaldate": "2034-08-16",
+         "hscode": 847720,
+         "volumeteu": 0.0,
+         "weightkg": 8425,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Costa de la Felicidad Shipping"
+      },
+      {
+         "arrivaldate": "2034-08-16",
+         "hscode": 847720,
+         "volumeteu": 0.0,
+         "weightkg": 8425,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Costa de la Felicidad Shipping"
+      },
+      {
+         "arrivaldate": "2034-08-16",
+         "hscode": 847720,
+         "volumeteu": 0.0,
+         "weightkg": 8425,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Costa de la Felicidad Shipping"
+      },
+      {
+         "arrivaldate": "2034-08-16",
+         "hscode": 847720,
+         "volumeteu": 0.0,
+         "weightkg": 8425,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Costa de la Felicidad Shipping"
+      },
+      {
+         "arrivaldate": "2034-08-16",
+         "hscode": 847720,
+         "volumeteu": 0.0,
+         "weightkg": 8425,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Costa de la Felicidad Shipping"
+      },
+      {
+         "arrivaldate": "2034-08-16",
+         "hscode": 847720,
+         "volumeteu": 0.0,
+         "weightkg": 8425,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Costa de la Felicidad Shipping"
+      },
+      {
+         "arrivaldate": "2034-08-16",
+         "hscode": 847720,
+         "volumeteu": 0.0,
+         "weightkg": 8425,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Costa de la Felicidad Shipping"
+      },
+      {
+         "arrivaldate": "2034-10-07",
+         "hscode": 846694,
+         "volumeteu": 0.0,
+         "weightkg": 750,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Coral Cove BV Delivery"
+      },
+      {
+         "arrivaldate": "2034-10-07",
+         "hscode": 846694,
+         "volumeteu": 0.0,
+         "weightkg": 750,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Coral Cove BV Delivery"
+      },
+      {
+         "arrivaldate": "2034-10-07",
+         "hscode": 846694,
+         "volumeteu": 0.0,
+         "weightkg": 750,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Coral Cove BV Delivery"
+      },
+      {
+         "arrivaldate": "2034-10-07",
+         "hscode": 846694,
+         "volumeteu": 0.0,
+         "weightkg": 750,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Coral Cove BV Delivery"
+      },
+      {
+         "arrivaldate": "2034-10-07",
+         "hscode": 846694,
+         "volumeteu": 0.0,
+         "weightkg": 750,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Coral Cove BV Delivery"
+      },
+      {
+         "arrivaldate": "2034-10-07",
+         "hscode": 846694,
+         "volumeteu": 0.0,
+         "weightkg": 750,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Coral Cove BV Delivery"
+      },
+      {
+         "arrivaldate": "2034-10-07",
+         "hscode": 846694,
+         "volumeteu": 0.0,
+         "weightkg": 750,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Coral Cove BV Delivery"
+      },
+      {
+         "arrivaldate": "2034-10-07",
+         "hscode": 846694,
+         "volumeteu": 0.0,
+         "weightkg": 750,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Coral Cove BV Delivery"
+      },
+      {
+         "arrivaldate": "2034-10-07",
+         "hscode": 846694,
+         "volumeteu": 0.0,
+         "weightkg": 750,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Coral Cove BV Delivery"
+      },
+      {
+         "arrivaldate": "2034-10-07",
+         "hscode": 846694,
+         "volumeteu": 0.0,
+         "weightkg": 750,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Coral Cove BV Delivery"
+      },
+      {
+         "arrivaldate": "2034-10-07",
+         "hscode": 846694,
+         "volumeteu": 0.0,
+         "weightkg": 750,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Coral Cove BV Delivery"
+      },
+      {
+         "arrivaldate": "2034-10-07",
+         "hscode": 846694,
+         "volumeteu": 0.0,
+         "weightkg": 750,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Coral Cove BV Delivery"
+      },
+      {
+         "arrivaldate": "2034-10-07",
+         "hscode": 846694,
+         "volumeteu": 0.0,
+         "weightkg": 750,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Coral Cove BV Delivery"
+      },
+      {
+         "arrivaldate": "2034-10-07",
+         "hscode": 846694,
+         "volumeteu": 0.0,
+         "weightkg": 750,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Coral Cove BV Delivery"
+      },
+      {
+         "arrivaldate": "2034-10-07",
+         "hscode": 846694,
+         "volumeteu": 0.0,
+         "weightkg": 750,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Coral Cove BV Delivery"
+      },
+      {
+         "arrivaldate": "2034-04-04",
+         "hscode": 720449,
+         "volumeteu": 0.0,
+         "weightkg": 1105,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Kilimanjaro fishery Limited Liability Company"
+      },
+      {
+         "arrivaldate": "2034-04-04",
+         "hscode": 720449,
+         "volumeteu": 0.0,
+         "weightkg": 1105,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Kilimanjaro fishery Limited Liability Company"
+      },
+      {
+         "arrivaldate": "2034-04-04",
+         "hscode": 720449,
+         "volumeteu": 0.0,
+         "weightkg": 1105,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Kilimanjaro fishery Limited Liability Company"
+      },
+      {
+         "arrivaldate": "2034-04-04",
+         "hscode": 720449,
+         "volumeteu": 0.0,
+         "weightkg": 1105,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Kilimanjaro fishery Limited Liability Company"
+      },
+      {
+         "arrivaldate": "2034-04-04",
+         "hscode": 720449,
+         "volumeteu": 0.0,
+         "weightkg": 1105,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Kilimanjaro fishery Limited Liability Company"
+      },
+      {
+         "arrivaldate": "2034-04-04",
+         "hscode": 720449,
+         "volumeteu": 0.0,
+         "weightkg": 1105,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Kilimanjaro fishery Limited Liability Company"
+      },
+      {
+         "arrivaldate": "2034-04-04",
+         "hscode": 720449,
+         "volumeteu": 0.0,
+         "weightkg": 1105,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Kilimanjaro fishery Limited Liability Company"
+      },
+      {
+         "arrivaldate": "2034-04-04",
+         "hscode": 720449,
+         "volumeteu": 0.0,
+         "weightkg": 1105,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Kilimanjaro fishery Limited Liability Company"
+      },
+      {
+         "arrivaldate": "2034-04-04",
+         "hscode": 720449,
+         "volumeteu": 0.0,
+         "weightkg": 1105,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Kilimanjaro fishery Limited Liability Company"
+      },
+      {
+         "arrivaldate": "2034-04-04",
+         "hscode": 720449,
+         "volumeteu": 0.0,
+         "weightkg": 1105,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Kilimanjaro fishery Limited Liability Company"
+      },
+      {
+         "arrivaldate": "2034-04-04",
+         "hscode": 720449,
+         "volumeteu": 0.0,
+         "weightkg": 1105,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Kilimanjaro fishery Limited Liability Company"
+      },
+      {
+         "arrivaldate": "2034-04-04",
+         "hscode": 720449,
+         "volumeteu": 0.0,
+         "weightkg": 1105,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Kilimanjaro fishery Limited Liability Company"
+      },
+      {
+         "arrivaldate": "2034-04-04",
+         "hscode": 720449,
+         "volumeteu": 0.0,
+         "weightkg": 1105,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Mar del Norte OJSC",
+         "target": "Kilimanjaro fishery Limited Liability Company"
+      },
+      {
+         "arrivaldate": "2034-04-14",
+         "hscode": 620630,
+         "valueofgoods_omu": 282215.0,
+         "volumeteu": 0.0,
+         "weightkg": 8490,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "h\u01cei d\u01cen Corporation Wharf"
+      },
+      {
+         "arrivaldate": "2034-04-14",
+         "hscode": 620630,
+         "valueofgoods_omu": 282215.0,
+         "volumeteu": 0.0,
+         "weightkg": 8490,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "h\u01cei d\u01cen Corporation Wharf"
+      },
+      {
+         "arrivaldate": "2034-04-14",
+         "hscode": 620630,
+         "valueofgoods_omu": 282215.0,
+         "volumeteu": 0.0,
+         "weightkg": 8490,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "h\u01cei d\u01cen Corporation Wharf"
+      },
+      {
+         "arrivaldate": "2034-04-14",
+         "hscode": 620630,
+         "valueofgoods_omu": 282215.0,
+         "volumeteu": 0.0,
+         "weightkg": 8490,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "h\u01cei d\u01cen Corporation Wharf"
+      },
+      {
+         "arrivaldate": "2034-04-14",
+         "hscode": 620630,
+         "valueofgoods_omu": 282215.0,
+         "volumeteu": 0.0,
+         "weightkg": 8490,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "h\u01cei d\u01cen Corporation Wharf"
+      },
+      {
+         "arrivaldate": "2034-04-14",
+         "hscode": 620630,
+         "valueofgoods_omu": 282215.0,
+         "volumeteu": 0.0,
+         "weightkg": 8490,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "h\u01cei d\u01cen Corporation Wharf"
+      },
+      {
+         "arrivaldate": "2034-04-01",
+         "hscode": 610910,
+         "valueofgoods_omu": 87265.0,
+         "volumeteu": 0.0,
+         "weightkg": 3865,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "h\u01cei d\u01cen Corporation Wharf"
+      },
+      {
+         "arrivaldate": "2034-04-01",
+         "hscode": 610910,
+         "valueofgoods_omu": 87265.0,
+         "volumeteu": 0.0,
+         "weightkg": 3865,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "h\u01cei d\u01cen Corporation Wharf"
+      },
+      {
+         "arrivaldate": "2034-04-01",
+         "hscode": 610910,
+         "valueofgoods_omu": 87265.0,
+         "volumeteu": 0.0,
+         "weightkg": 3865,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "h\u01cei d\u01cen Corporation Wharf"
+      },
+      {
+         "arrivaldate": "2034-04-14",
+         "hscode": 620630,
+         "valueofgoods_omu": 282215.0,
+         "volumeteu": 0.0,
+         "weightkg": 8490,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "h\u01cei d\u01cen Corporation Wharf"
+      },
+      {
+         "arrivaldate": "2034-04-14",
+         "hscode": 620630,
+         "valueofgoods_omu": 282215.0,
+         "volumeteu": 0.0,
+         "weightkg": 8490,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "h\u01cei d\u01cen Corporation Wharf"
+      },
+      {
+         "arrivaldate": "2034-04-01",
+         "hscode": 610910,
+         "valueofgoods_omu": 87265.0,
+         "volumeteu": 0.0,
+         "weightkg": 3865,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "h\u01cei d\u01cen Corporation Wharf"
+      },
+      {
+         "arrivaldate": "2034-04-14",
+         "hscode": 620630,
+         "valueofgoods_omu": 282215.0,
+         "volumeteu": 0.0,
+         "weightkg": 8490,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "h\u01cei d\u01cen Corporation Wharf"
+      },
+      {
+         "arrivaldate": "2034-04-14",
+         "hscode": 620630,
+         "valueofgoods_omu": 282215.0,
+         "volumeteu": 0.0,
+         "weightkg": 8490,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "h\u01cei d\u01cen Corporation Wharf"
+      },
+      {
+         "arrivaldate": "2034-11-26",
+         "hscode": 611020,
+         "valueofgoods_omu": 283215.0,
+         "volumeteu": 5.0,
+         "weightkg": 15000,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "ReefRider Foods Ltd. Corporation Family"
+      },
+      {
+         "arrivaldate": "2034-11-26",
+         "hscode": 611020,
+         "valueofgoods_omu": 283215.0,
+         "volumeteu": 5.0,
+         "weightkg": 15000,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "ReefRider Foods Ltd. Corporation Family"
+      },
+      {
+         "arrivaldate": "2034-11-26",
+         "hscode": 611020,
+         "valueofgoods_omu": 283215.0,
+         "volumeteu": 5.0,
+         "weightkg": 15000,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "ReefRider Foods Ltd. Corporation Family"
+      },
+      {
+         "arrivaldate": "2034-11-26",
+         "hscode": 611020,
+         "valueofgoods_omu": 283215.0,
+         "volumeteu": 5.0,
+         "weightkg": 15000,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "ReefRider Foods Ltd. Corporation Family"
+      },
+      {
+         "arrivaldate": "2034-11-26",
+         "hscode": 611020,
+         "valueofgoods_omu": 283215.0,
+         "volumeteu": 5.0,
+         "weightkg": 15000,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "ReefRider Foods Ltd. Corporation Family"
+      },
+      {
+         "arrivaldate": "2034-11-26",
+         "hscode": 611020,
+         "valueofgoods_omu": 283215.0,
+         "volumeteu": 5.0,
+         "weightkg": 15000,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "ReefRider Foods Ltd. Corporation Family"
+      },
+      {
+         "arrivaldate": "2034-11-26",
+         "hscode": 611020,
+         "valueofgoods_omu": 283215.0,
+         "volumeteu": 5.0,
+         "weightkg": 15000,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "ReefRider Foods Ltd. Corporation Family"
+      },
+      {
+         "arrivaldate": "2034-11-26",
+         "hscode": 611020,
+         "valueofgoods_omu": 283215.0,
+         "volumeteu": 5.0,
+         "weightkg": 15000,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "ReefRider Foods Ltd. Corporation Family"
+      },
+      {
+         "arrivaldate": "2034-11-26",
+         "hscode": 611020,
+         "valueofgoods_omu": 283215.0,
+         "volumeteu": 5.0,
+         "weightkg": 15000,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "ReefRider Foods Ltd. Corporation Family"
+      },
+      {
+         "arrivaldate": "2034-11-26",
+         "hscode": 611020,
+         "valueofgoods_omu": 283215.0,
+         "volumeteu": 5.0,
+         "weightkg": 15000,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "ReefRider Foods Ltd. Corporation Family"
+      },
+      {
+         "arrivaldate": "2034-11-26",
+         "hscode": 611020,
+         "valueofgoods_omu": 283215.0,
+         "volumeteu": 5.0,
+         "weightkg": 15000,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "ReefRider Foods Ltd. Corporation Family"
+      },
+      {
+         "arrivaldate": "2034-11-26",
+         "hscode": 611020,
+         "valueofgoods_omu": 283215.0,
+         "volumeteu": 5.0,
+         "weightkg": 15000,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "ReefRider Foods Ltd. Corporation Family"
+      },
+      {
+         "arrivaldate": "2034-11-26",
+         "hscode": 611020,
+         "valueofgoods_omu": 283215.0,
+         "volumeteu": 5.0,
+         "weightkg": 15000,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "ReefRider Foods Ltd. Corporation Family"
+      },
+      {
+         "arrivaldate": "2034-11-26",
+         "hscode": 611020,
+         "valueofgoods_omu": 283215.0,
+         "volumeteu": 5.0,
+         "weightkg": 15000,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "ReefRider Foods Ltd. Corporation Family"
+      },
+      {
+         "arrivaldate": "2034-11-26",
+         "hscode": 611020,
+         "valueofgoods_omu": 283215.0,
+         "volumeteu": 5.0,
+         "weightkg": 15000,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "ReefRider Foods Ltd. Corporation Family"
+      },
+      {
+         "arrivaldate": "2034-11-26",
+         "hscode": 611020,
+         "valueofgoods_omu": 283215.0,
+         "volumeteu": 5.0,
+         "weightkg": 15000,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "ReefRider Foods Ltd. Corporation Family"
+      },
+      {
+         "arrivaldate": "2034-11-26",
+         "hscode": 611020,
+         "valueofgoods_omu": 283215.0,
+         "volumeteu": 5.0,
+         "weightkg": 15000,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "ReefRider Foods Ltd. Corporation Family"
+      },
+      {
+         "arrivaldate": "2034-11-26",
+         "hscode": 611020,
+         "valueofgoods_omu": 283215.0,
+         "volumeteu": 5.0,
+         "weightkg": 15000,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "ReefRider Foods Ltd. Corporation Family"
+      },
+      {
+         "arrivaldate": "2034-11-26",
+         "hscode": 611020,
+         "valueofgoods_omu": 283215.0,
+         "volumeteu": 5.0,
+         "weightkg": 15000,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "ReefRider Foods Ltd. Corporation Family"
+      },
+      {
+         "arrivaldate": "2034-11-26",
+         "hscode": 611020,
+         "valueofgoods_omu": 283215.0,
+         "volumeteu": 5.0,
+         "weightkg": 15000,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Lake Nakuru  Co Freight ",
+         "target": "ReefRider Foods Ltd. Corporation Family"
+      },
+      {
+         "arrivaldate": "2034-04-23",
+         "hscode": 950300,
+         "volumeteu": 0.0,
+         "weightkg": 1290,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-05-23",
+         "hscode": 854442,
+         "volumeteu": 0.0,
+         "weightkg": 1845,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-06",
+         "hscode": 850690,
+         "volumeteu": 0.0,
+         "weightkg": 1160,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-27",
+         "hscode": 851769,
+         "volumeteu": 0.0,
+         "weightkg": 120,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-06",
+         "hscode": 850690,
+         "volumeteu": 0.0,
+         "weightkg": 1160,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-27",
+         "hscode": 851769,
+         "volumeteu": 0.0,
+         "weightkg": 120,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-06",
+         "hscode": 850690,
+         "volumeteu": 0.0,
+         "weightkg": 1160,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-27",
+         "hscode": 851769,
+         "volumeteu": 0.0,
+         "weightkg": 120,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-05-23",
+         "hscode": 854442,
+         "volumeteu": 0.0,
+         "weightkg": 1845,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-27",
+         "hscode": 851769,
+         "volumeteu": 0.0,
+         "weightkg": 120,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-04-09",
+         "hscode": 840991,
+         "volumeteu": 0.0,
+         "weightkg": 925,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-04-23",
+         "hscode": 950300,
+         "volumeteu": 0.0,
+         "weightkg": 1290,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-06",
+         "hscode": 850690,
+         "volumeteu": 0.0,
+         "weightkg": 1160,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-04-23",
+         "hscode": 950300,
+         "volumeteu": 0.0,
+         "weightkg": 1290,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-27",
+         "hscode": 851769,
+         "volumeteu": 0.0,
+         "weightkg": 120,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-05-23",
+         "hscode": 854442,
+         "volumeteu": 0.0,
+         "weightkg": 1845,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-04-09",
+         "hscode": 840991,
+         "volumeteu": 0.0,
+         "weightkg": 925,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-27",
+         "hscode": 851769,
+         "volumeteu": 0.0,
+         "weightkg": 120,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-27",
+         "hscode": 851769,
+         "volumeteu": 0.0,
+         "weightkg": 120,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-06",
+         "hscode": 850690,
+         "volumeteu": 0.0,
+         "weightkg": 1160,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-06",
+         "hscode": 850690,
+         "volumeteu": 0.0,
+         "weightkg": 1160,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-06",
+         "hscode": 850690,
+         "volumeteu": 0.0,
+         "weightkg": 1160,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-06",
+         "hscode": 850690,
+         "volumeteu": 0.0,
+         "weightkg": 1160,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-04-23",
+         "hscode": 950300,
+         "volumeteu": 0.0,
+         "weightkg": 1290,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-05-23",
+         "hscode": 854442,
+         "volumeteu": 0.0,
+         "weightkg": 1845,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-04-23",
+         "hscode": 950300,
+         "volumeteu": 0.0,
+         "weightkg": 1290,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-27",
+         "hscode": 851769,
+         "volumeteu": 0.0,
+         "weightkg": 120,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-06",
+         "hscode": 850690,
+         "volumeteu": 0.0,
+         "weightkg": 1160,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-27",
+         "hscode": 851769,
+         "volumeteu": 0.0,
+         "weightkg": 120,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-05-23",
+         "hscode": 854442,
+         "volumeteu": 0.0,
+         "weightkg": 1845,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-05-23",
+         "hscode": 854442,
+         "volumeteu": 0.0,
+         "weightkg": 1845,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-27",
+         "hscode": 851769,
+         "volumeteu": 0.0,
+         "weightkg": 120,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-05-23",
+         "hscode": 854442,
+         "volumeteu": 0.0,
+         "weightkg": 1845,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-27",
+         "hscode": 851769,
+         "volumeteu": 0.0,
+         "weightkg": 120,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-04-23",
+         "hscode": 950300,
+         "volumeteu": 0.0,
+         "weightkg": 1290,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-06",
+         "hscode": 850690,
+         "volumeteu": 0.0,
+         "weightkg": 1160,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-27",
+         "hscode": 851769,
+         "volumeteu": 0.0,
+         "weightkg": 120,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-27",
+         "hscode": 851769,
+         "volumeteu": 0.0,
+         "weightkg": 120,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-27",
+         "hscode": 851769,
+         "volumeteu": 0.0,
+         "weightkg": 120,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-27",
+         "hscode": 851769,
+         "volumeteu": 0.0,
+         "weightkg": 120,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-27",
+         "hscode": 851769,
+         "volumeteu": 0.0,
+         "weightkg": 120,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-04-23",
+         "hscode": 950300,
+         "volumeteu": 0.0,
+         "weightkg": 1290,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-06",
+         "hscode": 850690,
+         "volumeteu": 0.0,
+         "weightkg": 1160,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-04-23",
+         "hscode": 950300,
+         "volumeteu": 0.0,
+         "weightkg": 1290,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-06",
+         "hscode": 850690,
+         "volumeteu": 0.0,
+         "weightkg": 1160,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-27",
+         "hscode": 851769,
+         "volumeteu": 0.0,
+         "weightkg": 120,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-27",
+         "hscode": 851769,
+         "volumeteu": 0.0,
+         "weightkg": 120,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-05-23",
+         "hscode": 854442,
+         "volumeteu": 0.0,
+         "weightkg": 1845,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-04-23",
+         "hscode": 950300,
+         "volumeteu": 0.0,
+         "weightkg": 1290,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-27",
+         "hscode": 851769,
+         "volumeteu": 0.0,
+         "weightkg": 120,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-06",
+         "hscode": 850690,
+         "volumeteu": 0.0,
+         "weightkg": 1160,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-05-23",
+         "hscode": 854442,
+         "volumeteu": 0.0,
+         "weightkg": 1845,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-05-23",
+         "hscode": 854442,
+         "volumeteu": 0.0,
+         "weightkg": 1845,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-04-23",
+         "hscode": 950300,
+         "volumeteu": 0.0,
+         "weightkg": 1290,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-04-23",
+         "hscode": 950300,
+         "volumeteu": 0.0,
+         "weightkg": 1290,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-04-09",
+         "hscode": 840991,
+         "volumeteu": 0.0,
+         "weightkg": 925,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-27",
+         "hscode": 851769,
+         "volumeteu": 0.0,
+         "weightkg": 120,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-11-06",
+         "hscode": 850690,
+         "volumeteu": 0.0,
+         "weightkg": 1160,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      },
+      {
+         "arrivaldate": "2034-05-23",
+         "hscode": 854442,
+         "volumeteu": 0.0,
+         "weightkg": 1845,
+         "generated_by": "shark",
+         "dataset": "MC2",
+         "source": "Zambezi Delta  Inc Brothers",
+         "target": "Zambezi Delta  Inc Brothers"
+      }
+   ]
+}
