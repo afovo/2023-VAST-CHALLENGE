@@ -15,7 +15,16 @@
 import cytoscape from "cytoscape";
 import coseBilkent from "cytoscape-cose-bilkent";
 import * as d3 from "d3";
-let data = $ref();
+let data = $ref([
+  { data: { id: 1 } },
+  { data: { id: 2 } },
+  { data: { id: 3 } },
+  { data: { id: "1_2", source: 1, target: 2 } },
+  { data: { id: "1_3", source: 1, target: 3 } },
+  { data: { id: "2_3", source: 2, target: 3 } },
+]);
+let min = $ref(6);
+let max = $ref(7);
 // 初始化Cytoscape.js实例
 const init_cyto = function () {
   cytoscape.use(coseBilkent);
@@ -43,7 +52,6 @@ const init_cyto = function () {
       },
     ],
   });
-
   document
     .getElementById("layoutButton")
     .addEventListener("click", function () {
@@ -52,7 +60,7 @@ const init_cyto = function () {
         name: "cose-bilkent",
         animate: "end",
         animationEasing: "ease-out",
-        animationDuration: 1000 * 5,
+        animationDuration: 1000 * 2,
         randomize: true,
       });
 
@@ -61,17 +69,56 @@ const init_cyto = function () {
 };
 // 读取json，存入nodes和edges数据
 const init_data = function () {
-  data = [];
-  d3.json("/mini.json").then(function (res) {
-    var nodes = res.nodes;
-    var links = res.links;
-    nodes.forEach((e) => data.push({ data: { id: e.id.toString() } }));
+  var nodes, links, from, to;
+  var node_degree = {};
+  d3.json("/MC1.json").then(function (raw_data) {
+    nodes = raw_data.nodes;
+    links = raw_data.links;
+    // 统计每个节点的出入度
     links.forEach((e) => {
-      var from = e.source.toString();
-      var to = e.target.toString();
-      var id = from + "_" + to;
-      data.push({ data: { id: id, source: from, target: to } });
+      from = e.source.toString();
+      to = e.target.toString();
+      from in node_degree
+        ? node_degree[from].out_degree++
+        : ((node_degree[from] = {}),
+          (node_degree[from].out_degree = node_degree[from].in_degree = 0));
+      to in node_degree
+        ? node_degree[to].in_degree++
+        : ((node_degree[to] = {}),
+          (node_degree[to].out_degree = node_degree[to].in_degree = 0));
     });
+    // 遍历原始nodes，去重并筛选需要的节点
+    data = [];
+    var idSet = new Set();
+    nodes.forEach((node) => {
+      var id = node.id.toString();
+      // 第一个加入，后续重复的不管
+      if (!idSet.has(id)) {
+        if (id in node_degree) {
+          var out_d = node_degree[id].out_degree;
+          if (min <= out_d && out_d <= max) {
+            // res.nodes.push(node);
+            data.push({ data: { id: id } });
+            idSet.add(id);
+          }
+        }
+      }
+    });
+    links.forEach((link) => {
+      from = link.source.toString();
+      to = link.target.toString();
+      if (idSet.has(from) && idSet.has(to)) {
+        data.push({
+          data: {
+            id: from + "_" + to,
+            source: from,
+            target: to,
+          },
+        });
+      }
+    });
+    // view data
+    console.log(data);
   });
 };
 
