@@ -70,6 +70,7 @@ const cut_net_by_min_max = function () {
   console.log(`nodes:${temp_nodes.length}`);
   console.log(`links:${temp_links.length}`);
   graph = { nodes: temp_nodes, links: temp_links };
+  console.log(graph);
   render_net();
 };
 

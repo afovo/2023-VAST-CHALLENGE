@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "cytoscape": "^3.24.0",
+    "cytoscape-cose-bilkent": "^4.1.0",
     "d3": "^7.8.4",
     "element-plus": "^2.3.4",
     "netv": "^1.1.10",
