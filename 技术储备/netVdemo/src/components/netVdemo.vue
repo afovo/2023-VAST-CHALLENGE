@@ -1,6 +1,7 @@
 <template>
   <div id="main"></div>
 </template>
+
 <style scoped></style>
 <script setup>
 import NetV from "netv";
@@ -64,10 +65,9 @@ const init_data = function () {
       }
     });
     // view data
-    console.log(data);
+    // console.log(data);
   });
 };
-
 const init_net = function () {
   const div = document.getElementById("main");
   const netV = new NetV({
@@ -83,14 +83,6 @@ const init_net = function () {
       },
     },
   });
-  // data.nodes = data.nodes.slice(0, 100);
-  // data = NetV.Utils.transformGraphPosition(
-  //   netV.loadDataset("miserables"),
-  //   500,
-  //   400,
-  //   300
-  // );
-  // console.log(data);
   data.nodes.forEach((node) => {
     // NOTE: build-in dataset contains position, random it
     node.x = Math.random() * 500 + 150; // scale and offset to center
