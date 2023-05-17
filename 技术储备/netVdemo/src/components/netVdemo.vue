@@ -1,8 +1,17 @@
 <template>
-  <div id="main"></div>
+  <div id="main" style="border: solid"></div>
 </template>
 
-<style scoped></style>
+<style scoped>
+#main {
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  height: 90vh;
+  margin-top: 3vh;
+  margin-bottom: 3vh;
+}
+</style>
 <script setup>
 import NetV from "netv";
 import * as d3 from "d3";
@@ -70,8 +79,13 @@ const init_data = function () {
 };
 const init_net = function () {
   const div = document.getElementById("main");
+  const width = div.clientWidth;
+  const height = div.clientHeight;
+
   const netV = new NetV({
     container: div,
+    width: width,
+    height: height,
     node: {
       style: {
         r: 8,
@@ -92,9 +106,6 @@ const init_net = function () {
 
   netV.on("zoom", () => {});
   netV.on("pan", () => {});
-
-  const width = 800;
-  const height = 600;
 
   const simulation = d3
     .forceSimulation(data.nodes)
@@ -117,5 +128,5 @@ const init_net = function () {
 };
 
 setTimeout(init_data, 1);
-setTimeout(init_net, 1000);
+setTimeout(init_net, 500);
 </script>
