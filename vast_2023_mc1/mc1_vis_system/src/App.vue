@@ -1,8 +1,9 @@
 <template>
 <!--    <d3demo />-->
 <!--  <netdemo />-->
-  <d3-force-graph></d3-force-graph>
+<!--  <d3-force-graph></d3-force-graph>-->
 <!--  <d3-disjoint-force></d3-disjoint-force>-->
+  <d3-selective-graph></d3-selective-graph>
 </template>
 <style scoped>
 </style>
@@ -11,4 +12,5 @@ import d3demo from "./components/d3demo.vue";
 import netdemo from "./components/netdemo.vue";
 import D3ForceGraph from "./components/d3ForceGraph.vue"
 import D3DisjointForce from "./components/d3DisjointForce.vue";
+import D3SelectiveGraph from "./components/d3SelectiveGraph.vue"
 </script>
