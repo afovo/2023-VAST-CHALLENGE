@@ -1,8 +1,8 @@
 <template>
 <!--    <d3demo />-->
 <!--  <netdemo />-->
-<!--  <d3-force-graph></d3-force-graph>-->
-  <d3-disjoint-force></d3-disjoint-force>
+  <d3-force-graph></d3-force-graph>
+<!--  <d3-disjoint-force></d3-disjoint-force>-->
 </template>
 <style scoped>
 </style>

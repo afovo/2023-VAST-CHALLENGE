@@ -29,7 +29,8 @@ const render = function() {
   // let graph = data.data;
   let graph = {
     "links": [
-      { "source": "18470926", "target": "10097404", "type": "CITED_BY" }
+      { "source": "18470926", "target": "10097404", "type": "CITED_BY" },
+      { "source": "184709261", "target": "184709262", "type": "CITED_BY" }
     ],
     "nodes": [
       {
@@ -39,7 +40,15 @@ const render = function() {
       {
         "label": "Article",
         "id": "10097404"
-      }
+      },
+      {
+        "label": "Article",
+        "id": "184709261"
+      },
+      {
+        "label": "Article",
+        "id": "184709262"
+      },
     ]
   };
   const simulation = d3.forceSimulation(graph.nodes)
