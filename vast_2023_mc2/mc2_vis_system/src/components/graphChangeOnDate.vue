@@ -61,21 +61,17 @@ const chart = function(){
   }
   return Object.assign(svg.node(), {
     update(nodes,links) {
-      console.log("hey")
-
       // Make a shallow copy to protect against mutation, while
       // recycling old nodes to preserve position and velocity.
       const old = new Map(node.data().map(d => [d.id, d]));
       nodes = nodes.map(d => Object.assign(old.get(d.id) || {}, d));
       links = links.map(d => Object.assign({}, d));
-
       node = node
           .data(nodes, d => d.id)
           .join(enter => enter.append("circle")
               .attr("r", 5)
               .call(drag(simulation))
               .call(node => node.append("title").text(d => d.id)));
-      console.log(node.data())
       link = link
           .data(links, d => [d.source, d.target])
           .join("line");
@@ -89,12 +85,14 @@ const chart = function(){
 }
 
 const init = function(){
-  d3.json("/mc2_challenge_graph.json").then((res)=>{
+  d3.json("./bundles/chub_mackerel.json").then((res)=>{
     // const data = res
     const data = JSON.parse(JSON.stringify(res), (key, value) => key === "arrivaldate"? new Date(value) : value)
     console.log(data)
     function update(){
-      const links = data.links.filter(d => d.arrivaldate===times[index.value]);
+      console.log(data.links)
+      const links = data.links.filter(d => d.arrivaldate.toString().substring(0,15) === times[index.value].toString().substring(0,15));
+      // console.log(links)
       const nodes = data.nodes;
       chart().update(nodes,links);
     }
@@ -102,12 +100,22 @@ const init = function(){
         (newValue, OldValue) => {
           update();
         })
-    times = d3.scaleTime()
-        .domain([d3.min(data.links, d => d.arrivaldate), d3.max(data.links, d => d.arrivaldate)])
-        .ticks(1000);
-        // .filter(time => data.nodes.some(d => contains(d, time)));
+    let map = new Map()
+
+    data.links.forEach(function getUniqueTime(d){
+      if (map.get(d.arrivaldate.toString()) == null) {
+        map.set(d.arrivaldate.toString(),1)
+        times.push(d.arrivaldate)
+      }
+    })
+    // times = d3.scaleTime()
+    //     .domain([d3.min(data.links, d => d.arrivaldate), d3.max(data.links, d => d.arrivaldate)])
+    //     .ticks(1000);
+    //     // .filter(time => data.nodes.some(d => contains(d, time)));
     max = times.length-1
+    console.log("times")
     console.log(times)
+    console.log(times[index.value].toString())
   })
 }
 const drag = simulation => {
