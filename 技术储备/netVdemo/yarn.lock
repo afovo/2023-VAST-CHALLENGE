@@ -694,10 +694,10 @@ nanoid@^3.3.6:
   resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.6.tgz#443380c856d6e9f9824267d960b4236ad583ea4c"
   integrity sha512-BGcqMMJuToF7i1rt+2PWSNVnWIkGCU78jBG3RxO/bZlnZPK2Cmi2QaffxGO/2RvWi9sL+FAiRiXMgsyxQ1DIDA==
 
-netv@^1.1.10:
-  version "1.1.10"
-  resolved "https://registry.yarnpkg.com/netv/-/netv-1.1.10.tgz#eec65bd6caa63fd16526c20ee6a7118998cea074"
-  integrity sha512-15/HaplD0VL61WiVyLqqxxtnwNUYUYEG3z/JE7DOVAuZU6l/z3VuQ34g+v255WeH9+0DtVlWbUaCn3baBYlmjQ==
+netv@^1.1.11:
+  version "1.1.11"
+  resolved "https://registry.yarnpkg.com/netv/-/netv-1.1.11.tgz#f84a521da450e42dab47f5fc03e2a8a0b25ed27e"
+  integrity sha512-1U0YnKqrsbvpp9mstS5l12B3Q+5h/toviNRsDt+AC16HPb/ryufYU0DPu5m8s+EcKGXski+3t68ZvBHFPqpXJA==
 
 normalize-wheel-es@^1.2.0:
   version "1.2.0"
