@@ -1,8 +1,6 @@
 <template>
-  <div class="slider-demo-block">
-    <span class="demonstration">TimeLine</span>
-    <el-slider v-model="index" :min="min" :max="max" :step="1" :format-tooltip="function(value){return times[value];}" show-stops />
-  </div>
+  {{node_id}}
+  <button @click="selectId">Mar de la Vida OJSC</button>
   <div id="forceGraph" ></div>
 </template>
 
@@ -11,22 +9,9 @@ import * as d3 from "d3";
 import {ref, watch} from 'vue'
 const width = window.innerWidth;
 const height = window.innerHeight;
-let times = [];
-let min=0;
-let max=100;
-let index = ref(0);
-const increase = () => {
-  index.value ++;
-  if (index.value >= times.length) {
-    index.value = times.length-1
-  }
-}
-const decrease = () => {
-  index.value--;
-  if (index.value < 0) {
-    index.value = 0
-  }
-}
+let node_id = ref(0);
+let layer = ref(1);
+
 const chart = function(){
   console.log("chart")
   d3.select("svg").remove();
@@ -60,9 +45,8 @@ const chart = function(){
         .attr("y2", d => d.target.y);
   }
   return Object.assign(svg.node(), {
-    update(nodes,links) {
-      // Make a shallow copy to protect against mutation, while
-      // recycling old nodes to preserve position and velocity.
+    update(nodes,links) {//用chart().update调用
+      // 浅拷贝，复用相对位置和力
       const old = new Map(node.data().map(d => [d.id, d]));
       nodes = nodes.map(d => Object.assign(old.get(d.id) || {}, d));
       links = links.map(d => Object.assign({}, d));
@@ -79,45 +63,34 @@ const chart = function(){
       simulation.nodes(nodes);
       simulation.force("link").links(links);
       simulation.alpha(1).restart().tick();
-      ticked(); // render now!
+      ticked(); // 立即渲染
     }
   });
 }
-
+const selectId = function (){
+  node_id.value = "Mar de la Vida OJSC";
+}
 const init = function(){
-  d3.json("./bundles/chub_mackerel.json").then((res)=>{
-    // const data = res
-    const data = JSON.parse(JSON.stringify(res), (key, value) => key === "arrivaldate"? new Date(value) : value)
+  d3.json("./MC1.json").then((res)=>{
+    const data = res
     console.log(data)
-    function update(){
-      console.log(data.links)
-      const links = data.links.filter(d => d.arrivaldate.toString().substring(0,15) === times[index.value].toString().substring(0,15));
-      // console.log(links)
-      const nodes = data.nodes;
-      chart().update(nodes,links);
-    }
-    watch(()=>index.value,
+    //监听node_id
+    watch(()=>node_id.value,
         (newValue, OldValue) => {
-          update();
-        })
-    let map = new Map()
-
-    data.links.forEach(function getUniqueTime(d){
-      if (map.get(d.arrivaldate.toString()) == null) {
-        map.set(d.arrivaldate.toString(),1)
-        times.push(d.arrivaldate)
-      }
+          console.log(data.links)
+          const links = data.links.filter(d => d.source === node_id.value || d.target === node_id.value);
+          // console.log(links)
+          let map = new Map()
+          links.forEach(function getNodes(d){
+            map.set(d.source, 1);
+            map.set(d.target, 1);
+          })
+          const nodes = data.nodes.filter(d => map.get(d.id)!=null);
+          chart().update(nodes,links);
     })
-    // times = d3.scaleTime()
-    //     .domain([d3.min(data.links, d => d.arrivaldate), d3.max(data.links, d => d.arrivaldate)])
-    //     .ticks(1000);
-    //     // .filter(time => data.nodes.some(d => contains(d, time)));
-    max = times.length-1
-    console.log("times")
-    console.log(times)
-    console.log(times[index.value].toString())
   })
 }
+//拖拽
 const drag = simulation => {
   function dragstarted(event, d) {
     if (!event.active) simulation.alphaTarget(0.3).restart();
@@ -145,27 +118,4 @@ setTimeout(init,0)
 </script>
 
 <style scoped>
-.slider-demo-block {
-  position: absolute;
-  left: 10%;
-  top:5%;
-  width: 80%;
-}
-.slider-demo-block .el-slider {
-  margin-top: 0;
-  margin-left: 12px;
-}
-.slider-demo-block .demonstration {
-  font-size: 14px;
-  color: var(--el-text-color-secondary);
-  line-height: 44px;
-  flex: 1;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-  margin-bottom: 0;
-}
-.slider-demo-block .demonstration + .el-slider {
-  flex: 0 0 70%;
-}
 </style>
