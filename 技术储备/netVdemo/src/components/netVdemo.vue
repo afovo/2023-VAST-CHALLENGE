@@ -17,7 +17,8 @@ import NetV from "netv";
 import * as d3 from "d3";
 let data = $ref({ nodes: [], links: [] });
 let min = $ref(3);
-let max = $ref(200);
+let max = $ref(400);
+
 // 读取json，存入nodes和links数据
 const init_data = function () {
   let nodes, links, from, to, source, target;
@@ -39,6 +40,18 @@ const init_data = function () {
         : ((node_degree[to] = {}),
           (node_degree[to].out_degree = node_degree[to].in_degree = 0));
     });
+    // 统计最大出入度
+    var in_d = (d) => {
+      return d.in_degree;
+    };
+    var out_d = (d) => {
+      return d.out_degree;
+    };
+
+    var arr = Object.values(node_degree);
+    console.log("out: " + d3.extent(arr, out_d));
+    console.log("in: " + d3.extent(arr, in_d));
+
     // 遍历原始nodes,去重,并根据出度,筛选需要的节点
     idSet = new Set();
     nodes.forEach((node) => {
@@ -74,13 +87,15 @@ const init_data = function () {
       }
     });
     // view data
-    // console.log(data);
+    // console.log(max_out_degree, max_in_degree);
   });
 };
 const init_net = function () {
   const div = document.getElementById("main");
   const width = div.clientWidth;
   const height = div.clientHeight;
+
+  const colorScale = null;
 
   const netV = new NetV({
     container: div,
@@ -101,6 +116,7 @@ const init_net = function () {
     // NOTE: build-in dataset contains position, random it
     node.x = Math.random() * 500 + 150; // scale and offset to center
     node.y = Math.random() * 500;
+    node.color = "#fff";
   });
   netV.data(data);
 
