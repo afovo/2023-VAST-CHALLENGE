@@ -16,7 +16,7 @@
         :label="type"
       />
     </el-form-item>
-    <el-form-item label="Hierarchy">
+    <el-form-item label="Hierarchy" v-if="filter.select_id != ''">
       <el-switch
         v-model="filter.show1"
         active-text="First-Order"
@@ -82,19 +82,28 @@ const clear = function () {
     select_id: "",
   };
 };
+
 // let nodes, links;
 // d3.json("/MC1.json").then((data) => {
 //   nodes = data.nodes;
 //   links = data.links;
-//   // 遍历nodes
+//   // 遍历 nodes
 //   nodes.forEach((node) => {
 //     node.type !== undefined ? node_types.add(node.type) : {};
 //   });
 //   console.log(Array.from(node_types));
-//   // 遍历links
+//   // 遍历 links
 //   links.forEach((link) => {
 //     link.type !== undefined ? link_types.add(link.type) : {};
 //   });
 //   console.log(Array.from(link_types));
 // });
+
+const props = defineProps({
+  cnt: {
+    type: Number,
+    required: true,
+  },
+});
+console.log(props);
 </script>
