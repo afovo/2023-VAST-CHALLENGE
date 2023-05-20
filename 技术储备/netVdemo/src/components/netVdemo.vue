@@ -49,8 +49,8 @@ const init_data = function () {
     };
 
     var arr = Object.values(node_degree);
-    console.log("out: " + d3.extent(arr, out_d));
-    console.log("in: " + d3.extent(arr, in_d));
+    // console.log("out: " + d3.extent(arr, out_d));
+    // console.log("in: " + d3.extent(arr, in_d));
 
     // 遍历原始nodes,去重,并根据出度,筛选需要的节点
     idSet = new Set();
