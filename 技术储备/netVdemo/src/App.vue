@@ -4,16 +4,16 @@
     <el-collapse-item title="Filter" name="Filter">
       <Filter />
     </el-collapse-item>
-    <!-- d3 net demo -->
-    <el-collapse-item title="netVdemo" name="netVdemo">
-      <netVdemo />
+    <!-- ego net demo -->
+    <el-collapse-item title="EgoNet" name="EgoNet">
+      <EgoNet />
     </el-collapse-item>
   </el-collapse>
 </template>
 <style scoped></style>
 <script setup>
-import netVdemo from "./components/netVdemo.vue";
+import EgoNet from "./components/ego.vue";
 import Filter from "./components/filter.vue";
 
-let activeNames = $ref(["Filter", "netVdemo"]);
+let activeNames = $ref(["Filter", "EgoNet"]);
 </script>
