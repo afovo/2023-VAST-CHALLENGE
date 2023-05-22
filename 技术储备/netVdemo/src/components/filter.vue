@@ -1,5 +1,5 @@
 <template>
-  <el-form :model="filter" label-width="120px">
+  <el-form :v-model="filter" label-width="120px">
     <el-form-item label="Search by ID" prop="">
       <el-input placeholder="input node id" v-model="filter.select_id" />
     </el-form-item>

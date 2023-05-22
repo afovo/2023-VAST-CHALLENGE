@@ -4,7 +4,7 @@
 
 <script setup>
 import * as d3 from 'd3'
-let colorMap = new Map()//colorMap for links
+let colorMap = new Map()//colorMap for links_data
 colorMap.set("membership","#B0D6F7")
 colorMap.set("partnership","#C1F7B0")
 colorMap.set("ownership","#E0B0F7")
@@ -13,21 +13,21 @@ colorMap.set("","#aaaaaa")
 
 
 
-d3.json("../public/mini.json").then(function (raw_data) {
+d3.json("/mini.json").then(function (raw_data) {
   let target = raw_data["8327"];
-  let nodes = [{id:"8327"}];
+  let nodes_data = [{id:"8327"}];
   target["first"].forEach(function(d){
-    nodes.push({id:d,type:"membership"})
+    nodes_data.push({id:d,type:"membership"})
   });
   target["second"].forEach(function(d){
-    nodes.push({id:d,type:""})
+    nodes_data.push({id:d,type:""})
   });
-  let links = target["first_link"].concat(target["second_link"])
-  console.log(nodes)
+  let links_data = target["first_link"].concat(target["second_link"])
+  console.log(nodes_data)
   // DATA FORMATTING
-  links.forEach(function(link) {
-    var same = links.filter((l)=>{return l.source === link.source && l.target === link.target});
-    var sameAlt = links.filter((l)=>{return l.source === link.target && l.target === link.source});
+  links_data.forEach(function(link) {
+    var same = links_data.filter((l)=>{return l.source === link.source && l.target === link.target});
+    var sameAlt = links_data.filter((l)=>{return l.source === link.target && l.target === link.source});
     var sameAll = same.concat(sameAlt);
 
     sameAll.forEach(function(s, i) {
@@ -50,18 +50,18 @@ d3.json("../public/mini.json").then(function (raw_data) {
       }
     })
   });
-  var maxSame = links.sort(function(a, b) {
+  var maxSame = links_data.sort(function(a, b) {
     return a.sameTotal - b.sameTotal;
   }).pop().sameTotal;
-  links.forEach(function(link) {
+  links_data.forEach(function(link) {
     link.maxSameHalf = Math.floor(maxSame / 2);
   });
 
 
   var width = 960,
       height = 500;
-  var simulation = d3.forceSimulation(nodes)
-      .force("link", d3.forceLink(links).id(function(d) {return d.id; }).distance(50).strength(1))
+  var simulation = d3.forceSimulation(nodes_data)
+      .force("link", d3.forceLink(links_data).id(function(d) {return d.id; }).distance(50).strength(1))
       .force("center", d3.forceCenter(width / 2, height / 2))
       .force('charge', d3.forceManyBody().strength(-10))
       // 碰撞力 防止节点重叠
@@ -87,8 +87,8 @@ d3.json("../public/mini.json").then(function (raw_data) {
       .attr("d", "M0,-5L10,0L0,5")//箭头的路径
       .attr('fill','gray');
 
-  let link = svg.selectAll("path")
-      .data(links)
+  let links = svg.selectAll("path")
+      .data(links_data)
       .enter()
       .append("path")
       .attr("class", function(d) { return "link " + d.type; })
@@ -96,24 +96,24 @@ d3.json("../public/mini.json").then(function (raw_data) {
       .style("stroke", 'green')
       .attr("fill", "none");
 
-  const node = svg.append("g")
+  const nodes = svg.append("g")
       .selectAll("g")
-      .data(nodes)
+      .data(nodes_data)
       .enter().append("g");
 
-  node.append("circle")
+  nodes.append("circle")
       .attr("r", 5)
       .attr("fill", (d)=>{return colorMap.get(d.type)})
-  node.call(
+  nodes.call(
       d3.drag()
           .on("start", dragstarted)
           .on("drag", dragged)
           .on("end", dragended)
   );
   function tick() {
-    link.attr("d", linkArc);
-    node.call(updateNode);
-    link.call(updateLink);
+    links.attr("d", linkArc);
+    nodes.call(updateNode);
+    links.call(updateLink);
   }
 
   function linkArc(d) {
@@ -167,27 +167,27 @@ d3.json("../public/mini.json").then(function (raw_data) {
     d.fy = null;
   }
 });
-// var nodes = [{id:0}, {id:1}, {id:2}, {id:3}, {id:4}, {id:5}];
-// var links = [
+// var nodes_data = [{id:0}, {id:1}, {id:2}, {id:3}, {id:4}, {id:5}];
+// var links_data = [
 //   // one link
 //   { source: 0, target: 1 },
 //
-//   // two links
+//   // two links_data
 //   { source: 2, target: 1 },
 //   { source: 1, target: 2 },
 //
-//   //three links
+//   //three links_data
 //   { source: 3, target: 2 },
 //   { source: 2, target: 3 },
 //   { source: 2, target: 3 },
 //
-//   // four links
+//   // four links_data
 //   { source: 3, target: 4 },
 //   { source: 3, target: 4 },
 //   { source: 3, target: 4 },
 //   { source: 3, target: 4 },
 //
-//   // five links
+//   // five links_data
 //   { source: 4, target: 5 },
 //   { source: 4, target: 5 },
 //   { source: 4, target: 5 },
