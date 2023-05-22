@@ -1,16 +1,23 @@
 <template>
-<!--    <d3demo />-->
-<!--  <netdemo />-->
-<!--  <d3-force-graph></d3-force-graph>-->
-<!--  <d3-disjoint-force></d3-disjoint-force>-->
-  <d3-selective-graph></d3-selective-graph>
+  <el-collapse v-model="activeNames">
+    <!-- filter -->
+    <el-collapse-item title="Filter" name="Filter">
+      <Filter :cnt="cnt" />
+    </el-collapse-item>
+    <!-- d3 net demo -->
+    <el-collapse-item title="netVdemo" name="netVdemo">
+      <d3MultiForce :data="{nodes:[{id:1,type:1},{id:2,type:2}],links:[{start:1, target:2}]}"></d3MultiForce>
+<!--      <netVdemo />-->
+    </el-collapse-item>
+  </el-collapse>
 </template>
-<style scoped>
-</style>
+<style scoped></style>
 <script setup>
-import d3demo from "./components/d3demo.vue";
-import netdemo from "./components/netdemo.vue";
-import D3ForceGraph from "./components/d3ForceGraph.vue"
-import D3DisjointForce from "./components/d3DisjointForce.vue";
-import D3SelectiveGraph from "./components/d3SelectiveGraph.vue"
+import d3MultiForce from "./components/d3MultiForce.vue";
+import netVdemo from "./components/netVdemo.vue";
+import Filter from "./components/filter.vue";
+
+let activeNames = $ref(["Filter", "netVdemo", "d3MultiForce"]);
+let cnt = $ref(9);
+d3.json
 </script>

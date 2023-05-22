@@ -1,0 +1,21 @@
+{
+  "nodes": [
+    {
+      "type": "company",
+      "dataset": "MC1",
+      "country": "Nalakond",
+      "id": "Spanish Shrimp  Carriers"
+    },
+    { "type": "organization", "dataset": "MC1", "id": 12744 }
+  ],
+  "links": [
+    {
+      "type": "ownership",
+      "weight": 0.90013963,
+      "dataset": "MC1",
+      "source": "Spanish Shrimp  Carriers",
+      "target": 12744,
+      "key": 0
+    }
+  ]
+}

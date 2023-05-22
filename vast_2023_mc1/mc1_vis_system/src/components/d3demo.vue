@@ -1,3 +1,4 @@
+<!--柱状图-->
 <template>
   <div class="chart-wrapper">
     <div id="line-chart" class="chart"></div>
