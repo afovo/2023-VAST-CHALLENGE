@@ -37,6 +37,7 @@ const chart = function(){
       .attr("stroke", "#999")
       .attr("stroke-opacity", 0.6)
       .selectAll("line");
+
   console.log(link)
   let node = svg.append("g")
       .attr("stroke", "#fff")
@@ -118,6 +119,7 @@ const init = function(){
     console.log(times[index.value].toString())
   })
 }
+
 const drag = simulation => {
   function dragstarted(event, d) {
     if (!event.active) simulation.alphaTarget(0.3).restart();
