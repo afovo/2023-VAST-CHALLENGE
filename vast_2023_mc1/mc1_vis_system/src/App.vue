@@ -23,6 +23,7 @@ let activeNames = $ref(["Filter", "EgoNet"]);
 //接收filter传值
 let select_id, show1, show2;
 let filter_nodes = ref([]), filter_links = ref([])
+let duplicate = new Map()
 const submit=(filter)=>{
   console.log(filter);
   select_id = filter.select_id;
@@ -30,6 +31,7 @@ const submit=(filter)=>{
   show2 = filter.show2;
   filter_nodes.value = [];
   filter_links.value = [];
+  duplicate.clear();
   //test
 //   filter_nodes.value = [{dataset: 'MC1', id: 'Oceanfront Oasis Inc Carriers'},{type: 'organization', dataset: 'MC1', id: 2262},
 //   {type: 'organization', dataset: 'MC1', id: 8787}, {type: 'organization', dataset: 'MC1', id: 979893388},{type: 'organization', dataset: 'MC1', id: 'FishEye International'}]
@@ -69,8 +71,8 @@ const submit=(filter)=>{
 //     }
 // ]
   dfs(select_id, show2?2:1)
-  console.log(filter_nodes)
-  console.log(filter_links)
+  console.log(filter_nodes.value)
+  console.log(filter_links.value)
 }
 
 //过滤目标节点
@@ -79,16 +81,10 @@ let links = {}
 let graph = {}
 let rgraph = {}
 d3.json("/MC1.json").then(function (raw_data) {
-  for (let i = 0; i < raw_data.nodes.length; i++) {
-    nodes[raw_data.nodes[i].id] = raw_data.nodes[i]
-    if (raw_data.nodes[i].id === 23){
-      console.log(nodes[23])
-    }
-    if (raw_data.nodes[i].id === '23'){
-      console.log(nodes['23'])
-    }
-  }
-  console.log(nodes[23])
+  nodes = raw_data.nodes;
+  // for (let i = 0; i < raw_data.nodes.length; i++) {
+  //   nodes[raw_data.nodes[i].id] = raw_data.nodes[i]
+  // }
   for (let i = 0; i < raw_data.links.length; i++) {
     let link = raw_data.links[i]
 
@@ -119,11 +115,10 @@ d3.json("/MC1.json").then(function (raw_data) {
 });
 
 function dfs(id, depth) {
-  if (id === 23) {
-    console.log("23ishereeeeeeeeeeeeeeeeeeeeeeee")
-    console.log(nodes[23])
+  if (duplicate.get(id) == null) {
+    filter_nodes.value.push(nodes.filter((d)=>d.id === id)[0])
+    duplicate.set(id,1)
   }
-  filter_nodes.value.push(nodes[id])
   if (depth === 0) {
     return;
   }

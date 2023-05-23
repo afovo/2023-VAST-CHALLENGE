@@ -43,6 +43,8 @@ const {linksRawData} =toRefs(props)
 //   // DATA FORMATTING
 const draw = function () {
   d3.select("svg").remove();
+
+  //数据格式转换
   let nodes_data = [...nodesRawData.value]
   for (let i = 0; i<nodes_data.length; i++) {
     nodes_data[i] = JSON.parse(JSON.stringify(nodes_data[i]))
@@ -52,56 +54,9 @@ const draw = function () {
   for (let i = 0; i<links_data.length; i++) {
     links_data[i] = JSON.parse(JSON.stringify(links_data[i]))
   }
-  console.log(nodes_data)
-  console.log(links_data)
 
 
   //test data
-  // let nodes_data = [{dataset: 'MC1', id: 'Oceanfront Oasis Inc Carriers'},{type: 'organization', dataset: 'MC1', id: 2262},
-  //   {type: 'organization', dataset: 'MC1', id: 8787}, {type: 'organization', dataset: 'MC1', id: 979893388},{type: 'organization', dataset: 'MC1', id: 'FishEye International'}]
-  // let links_data = [
-  //   {
-  //     "type": "ownership",
-  //     "weight": 0.8363937,
-  //     "dataset": "MC1",
-  //     "source": 979893388,
-  //     "target": "Oceanfront Oasis Inc Carriers",
-  //     "key": 0
-  //   },
-  //   {
-  //     "type": "ownership",
-  //     "weight": 0.8363937,
-  //     "dataset": "MC1",
-  //     "source": 979893388,
-  //     "target": "Oceanfront Oasis Inc Carriers",
-  //     "key": 0
-  //   },
-  //   {
-  //     "type": "membership",
-  //     "weight": 0.4461,
-  //     "dataset": "MC1",
-  //     "source": "FishEye International",
-  //     "target": "Oceanfront Oasis Inc Carriers",
-  //     "key": 0
-  //   },
-  //   {
-  //     "type": "family_relationship",
-  //     "weight": 0.8220089,
-  //     "dataset": "MC1",
-  //     "source": 8787,
-  //     "target": "Oceanfront Oasis Inc Carriers",
-  //     "key": 0
-  //   },
-  //   {
-  //     "type": "family_relationship",
-  //     "weight": 0.83553725,
-  //     "dataset": "MC1",
-  //     "source": 2262,
-  //     "target": "Oceanfront Oasis Inc Carriers",
-  //     "key": 0
-  //   }
-  // ]
-
   //   nodes_data = [{id:0}, {id:1}, {id:2}, {id:3}, {id:4}, {id:5}];
 //   links_data = [
 //   // one link
@@ -167,7 +122,7 @@ const draw = function () {
 
   // console.log(nodes_data)
   // console.log(links_data)
-  let width = 960,
+  let width = window.innerWidth,
       height = 500;
   let simulation = d3.forceSimulation()
       .nodes(nodes_data)
