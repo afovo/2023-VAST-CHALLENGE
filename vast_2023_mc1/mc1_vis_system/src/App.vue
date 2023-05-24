@@ -11,7 +11,7 @@
     <!--  Analysis Charts  -->
     <el-collapse-item title="Analysis" name="Analysis">
       <BarChart :title="'Neighbour Types'" :raw-data="node_type_data"></BarChart>
-      <BarChart :title="'Edge Types'" :raw-data="x"></BarChart>
+      <BarChart :title="'Edge Types'" :raw-data="direct_neighbor_edge"></BarChart>
     </el-collapse-item>
   </el-collapse>
 </template>
@@ -29,7 +29,7 @@ let activeNames = $ref(["Filter", "EgoNet", "BarChart"]);
 let select_id, show1, show2;
 let filter_nodes = ref([]), filter_links = ref([])
 let node_type_data = new Map()
-let x;
+let direct_neighbor_edge;
 let n_level
 
 let node_type_map = new Map()//id=>type 用来做邻居类型统计&节点去重
@@ -42,7 +42,7 @@ const submit = (filter) => {
   filter_links.value = [];
   node_type_data = new Map();
   node_type_map = new Map();
-  x = new Map();
+  direct_neighbor_edge = new Map();
   n_level = [];
 
   //test
@@ -93,7 +93,7 @@ const submit = (filter) => {
   console.log("filter_links ++", filter_links.value.length)
   statistic()
   // x = [{ name: 'a', value: 1 }]
-  console.log("x", x)
+  console.log("x", direct_neighbor_edge)
 }
 
 //数据预处理
@@ -190,12 +190,12 @@ function getNeighborConnection(n_lev_nodes) {
         if (n_lev_nodes.indexOf(to) >= 0) {
           filter_links.value = filter_links.value.concat(links[[ele, to]])
           var type = links[[ele, to]][0].type
-          var num = x.get(type)
+          var num = direct_neighbor_edge.get(type)
           if (num != null) {
             // console.log("numm", num)
-            x.set(type, num + 1)
+            direct_neighbor_edge.set(type, num + 1)
           } else {
-            x.set(type, 1)
+            direct_neighbor_edge.set(type, 1)
           }
         }
       })
@@ -217,14 +217,14 @@ function getNeighborConnection(n_lev_nodes) {
     // }
 
   })
-  var keys = Array.from(x.keys())//edgetypes
-  var values = Array.from(x.values())//numbers of each type
+  var keys = Array.from(direct_neighbor_edge.keys())//edgetypes
+  var values = Array.from(direct_neighbor_edge.values())//numbers of each type
 
-  x = []
+  direct_neighbor_edge = []
   for (let i = 0; i < keys.length; i++) {
-    x.push({ name: keys[i], value: values[i] })
+    direct_neighbor_edge.push({ name: keys[i], value: values[i] })
   }
-  x.sort(function (a, b) {
+  direct_neighbor_edge.sort(function (a, b) {
     if (a.name < b.name) {
       return -1;
     }
