@@ -31,6 +31,13 @@ import {ref} from 'vue';
 import * as d3 from 'd3';
 
 let activeNames = $ref(["Filter", "EgoNet", "BarChart", "StackedColumnChart"]);
+let suspicious = new Set([
+  "Mar de la Vida OJSC",
+  979893388,
+  "Oceanfront Oasis Inc Carriers",
+  8327,
+]);
+
 
 //接收filter传值
 let select_id, show1, show2;
@@ -54,45 +61,6 @@ const submit = (filter) => {
   direct_neighbor_edge = new Map();
   n_level = [];
 
-
-  //test
-//   filter_nodes.value = [{dataset: 'MC1', id: 'Oceanfront Oasis Inc Carriers'},{type: 'organization', dataset: 'MC1', id: 2262},
-//   {type: 'organization', dataset: 'MC1', id: 8787}, {type: 'organization', dataset: 'MC1', id: 979893388},{type: 'organization', dataset: 'MC1', id: 'FishEye International'}]
-//   filter_links.value = [
-//
-//     {
-//       "type": "ownership",
-//       "weight": 0.8363937,
-//       "dataset": "MC1",
-//       "source": 979893388,
-//       "target": "Oceanfront Oasis Inc Carriers",
-//       "key": 0
-//     },
-//     {
-//       "type": "membership",
-//       "weight": 0.4461,
-//       "dataset": "MC1",
-//       "source": "FishEye International",
-//       "target": "Oceanfront Oasis Inc Carriers",
-//       "key": 0
-//     },
-//     {
-//       "type": "family_relationship",
-//       "weight": 0.8220089,
-//       "dataset": "MC1",
-//       "source": 8787,
-//       "target": "Oceanfront Oasis Inc Carriers",
-//       "key": 0
-//     },
-//     {
-//       "type": "family_relationship",
-//       "weight": 0.83553725,
-//       "dataset": "MC1",
-//       "source": 2262,
-//       "target": "Oceanfront Oasis Inc Carriers",
-//       "key": 0
-//     }
-// ]
   dfs(select_id, show2 ? 2 : 1)
   console.log(filter_nodes)
   console.log("filter_links", filter_links.value.length)
@@ -114,8 +82,9 @@ let links = {}//[source_id, target_id]=>[link对象1, link对象1...]
 let graph = new Map()//id=>[出边指向的邻居节点id1, id2...]
 let rgraph = new Map()//id=>[入边指向的邻居节点id1, id2...]
 d3.json("/MC1.json").then(function (raw_data) {
-  //ToDo:需要测试‘1’和1作为key值可以用map存吗？或者字典用[]取值是不是有问题？
   for (let i = 0; i < raw_data.nodes.length; i++) {
+    if (suspicious.has(raw_data.nodes[i].id))
+      raw_data.nodes[i].color = '#FF6374'
     nodes.set(raw_data.nodes[i].id, raw_data.nodes[i]);
   }
   for (let i = 0; i < raw_data.links.length; i++) {
@@ -126,15 +95,6 @@ d3.json("/MC1.json").then(function (raw_data) {
     } else {
       links[[link.source, link.target]] = [link]
     }
-    // if (links.has({s:link.source, t:link.target})) {
-    //   let arr = links.get({s:link.source, t:link.target})
-    //   arr.push(link)
-    //   links.set({s:link.source, t:link.target}, arr)
-    //   // console.log(links.get([link.source, link.target]))
-    // } else {
-    //   links.set({s:'shit'},'fuck')
-    //   console.log(links.get({s:'shit'}))
-    // }
 
     if (graph.has(link.source)) {
       let arr = graph.get(link.source)
@@ -198,7 +158,8 @@ function getNeighborConnection(n_lev_nodes) {
       graph.get(ele).forEach(function (to) {
 
         if (n_lev_nodes.indexOf(to) >= 0) {
-          filter_links.value = filter_links.value.concat(links[[ele, to]])
+          //ToDo:先不画邻居间的边提升一下性能
+          // filter_links.value = filter_links.value.concat(links[[ele, to]])
           var type = links[[ele, to]][0].type
           var num = direct_neighbor_edge.get(type)
           if (num != null) {
