@@ -1,9 +1,9 @@
 <template>
   <div id="graph" ></div>
-  <h4>nodes:</h4>
-  <div>{{nodesRawData}}</div>
-  <h4>links:</h4>
-  <div>{{linksRawData}}</div>
+<!--  <h4>nodes:</h4>-->
+<!--  <div>{{nodesRawData}}</div>-->
+<!--  <h4>links:</h4>-->
+<!--  <div>{{linksRawData}}</div>-->
 </template>
 
 <script setup>
@@ -42,7 +42,7 @@ const {linksRawData} =toRefs(props)
 //   console.log(nodes_data)
 //   // DATA FORMATTING
 const draw = function () {
-  d3.select("svg").remove();
+  d3.selectAll("svg").remove();
 
   //数据格式转换
   let nodes_data = [...nodesRawData.value]
@@ -253,7 +253,7 @@ const draw = function () {
 
 setTimeout(draw, 10)
 watch(nodesRawData, (newValue, oldValue) => {
-  console.log('hey')
+  console.log('ego update')
   draw()
 });
 
