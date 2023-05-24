@@ -11,7 +11,7 @@
     <!--  Analysis Charts  -->
     <el-collapse-item title="Analysis" name="Analysis">
       <BarChart :title="'Neighbour Types'" :raw-data="node_type_data"></BarChart>
-      <BarChart :title="'Edge Types'" :raw-data="x"></BarChart>
+      <BarChart :title="'Edge Types'" :raw-data="direct_neighbor_edge_data"></BarChart>
     </el-collapse-item>
   </el-collapse>
 </template>
@@ -42,7 +42,7 @@ const submit = (filter) => {
   filter_links.value = [];
   node_type_data = new Map();
   node_type_map = new Map();
-  x = new Map();
+  direct_neighbor_edge_data = new Map();
   n_level = [];
 
   //test
@@ -93,7 +93,7 @@ const submit = (filter) => {
   console.log("filter_links ++", filter_links.value.length)
   statistic()
   // x = [{ name: 'a', value: 1 }]
-  console.log("x", x)
+  console.log("x", direct_neighbor_edge_data)
 }
 
 //数据预处理
@@ -165,7 +165,6 @@ function dfs(id, depth) {
     if (graph.has(id)) {//出度
       graph.get(id).forEach(function (to) {
         console.log(links[[id, to]])
-        // depth=1的时候第一次做dfs的时候n_level一定还是空的?
 
         filter_links.value = filter_links.value.concat(links[[id, to]])
 
@@ -190,7 +189,7 @@ function getNeighborConnection(n_lev_nodes) {
         if (n_lev_nodes.indexOf(to) >= 0) {
           filter_links.value = filter_links.value.concat(links[[ele, to]])
           var type = links[[ele, to]][0].type
-          var num = x.get(type)
+          var num = direct_neighbor_edge_data.get(type)
           if (num != null) {
             // console.log("numm", num)
             x.set(type, num + 1)
@@ -217,14 +216,14 @@ function getNeighborConnection(n_lev_nodes) {
     // }
 
   })
-  var keys = Array.from(x.keys())//edgetypes
-  var values = Array.from(x.values())//numbers of each type
+  var keys = Array.from(direct_neighbor_edge_data.keys())//edgetypes
+  var values = Array.from(direct_neighbor_edge_data.values())//numbers of each type
 
-  x = []
+  direct_neighbor_edge_data = []
   for (let i = 0; i < keys.length; i++) {
-    x.push({ name: keys[i], value: values[i] })
+    direct_neighbor_edge_data.push({ name: keys[i], value: values[i] })
   }
-  x.sort(function (a, b) {
+  direct_neighbor_edge_data.sort(function (a, b) {
     if (a.name < b.name) {
       return -1;
     }
