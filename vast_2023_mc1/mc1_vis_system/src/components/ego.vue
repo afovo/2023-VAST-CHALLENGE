@@ -1,9 +1,7 @@
 <template>
+  <div id="nodes-legend" style="position: absolute;left: 10%"></div>
+  <div id="links-legend" style="position: absolute;left: 30%"></div>
   <div id="graph" ></div>
-<!--  <h4>nodes:</h4>-->
-<!--  <div>{{nodesRawData}}</div>-->
-<!--  <h4>links:</h4>-->
-<!--  <div>{{linksRawData}}</div>-->
 </template>
 
 <script setup>
@@ -15,7 +13,49 @@ colorMap.set("membership","#B0D6F7")
 colorMap.set("partnership","#C1F7B0")
 colorMap.set("ownership","#E0B0F7")
 colorMap.set("family_relationship","#F7F3B0")
-colorMap.set("","#000000")
+colorMap.set("undefined","#888888")
+
+const person = function(){return d3.symbol().type((d) => {
+  return {
+    draw: (context, size) => {
+      const r = Math.sqrt(2*size / 3);
+      const x = -r / 2;
+      const y = -r / 2;
+      context.moveTo(x + r / 2, y);
+      context.arc(x, y, r / 2, 0, Math.PI * 2);
+      context.moveTo(x + r / 2, y + r);
+      context.arc(x, y + r, r * 0.8, Math.PI, Math.PI * 2);
+    }
+  };
+})};
+const wye = function(){return d3.symbol().type(d3.symbolWye).size(80)};
+const square = function(){return d3.symbol().type(d3.symbolSquare).size(80)};
+const cross = function(){return d3.symbol().type(d3.symbolCross).size(80)};
+const circle = function(){return d3.symbol().type(d3.symbolCircle).size(80)};
+const semi = function(){return d3.symbol().type((d) => {
+  return {
+    draw: (context, size)=> {
+      let r = Math.sqrt(2 * size / 3);
+      let orgin = (4 * r) / (3 * Math.PI); //the orgin of the circle, not of the symbol
+      context.arc(0, -orgin, r, Math.PI, 2 * Math.PI, true);
+      context.closePath();
+    }
+  };
+})};
+const star = function(){return d3.symbol().type(d3.symbolStar).size(80)};
+const triangle = function(){return d3.symbol().type(d3.symbolTriangle).size(80)};
+const diamond = function(){return d3.symbol().type(d3.symbolDiamond).size(80)};
+
+let shapeMap = new Map()//shapeMap for nodes_data
+shapeMap.set("person", person());
+shapeMap.set("organization", wye());
+shapeMap.set("company", square());
+shapeMap.set("political_organization", cross());
+shapeMap.set("location", circle());
+shapeMap.set("vessel", semi());
+shapeMap.set("event", star());
+shapeMap.set("movement", triangle());
+shapeMap.set("undefined", diamond());
 
 
 const props = defineProps({
@@ -28,23 +68,59 @@ const {nodesRawData} =toRefs(props)
 const {linksRawData} =toRefs(props)
 
 
-//
-// d3.json("/mini.json").then(function (raw_data) {
-//   let target = raw_data["8327"];
-//   let nodes_data = [{id:"8327"}];
-//   target["first"].forEach(function(d){
-//     nodes_data.push({id:d,type:"membership"})
-//   });
-//   target["second"].forEach(function(d){
-//     nodes_data.push({id:d,type:""})
-//   });
-//   let links_data = target["first_link"].concat(target["second_link"])
-//   console.log(nodes_data)
-//   // DATA FORMATTING
 const draw = function () {
   d3.selectAll("svg").remove();
 
-  //数据格式转换
+  ///////////图例///////////
+  {
+    const legend1 = d3.select("#nodes-legend")
+        .append("svg")
+        .attr("width", 400)
+        .attr("height", 200);
+
+    const legendItems1 = legend1.selectAll(".legend-item1")
+        .data([...shapeMap])
+        .enter()
+        .append("g")
+        .attr("class", "legend-item1")
+        .attr("transform", (d, i) => `translate(9, ${i * 20+20})`);
+
+    legendItems1.append("path")
+        .attr("d", d=>d[1]())
+        .style("fill", "#000")
+        .style("stroke", "#000");
+
+    legendItems1.append("text")
+        .attr("x", 20)
+        .attr("y", 10)
+        .text(d => d[0]);
+
+
+    const legend2 = d3.select("#links-legend")
+        .append("svg")
+        .attr("width", 100)
+        .attr("height", 100);
+
+    const legendItems = legend2.selectAll(".legend-item")
+        .data([...colorMap])
+        .enter()
+        .append("g")
+        .attr("class", "legend-item")
+        .attr("transform", (d, i) => `translate(0, ${i * 20})`);
+
+    legendItems.append("rect")
+        .attr("width", 10)
+        .attr("height", 10)
+        .style("fill", d => d[1]);
+
+    legendItems.append("text")
+        .attr("x", 20)
+        .attr("y", 10)
+        .text(d => d[0]);
+  }
+
+
+  ///////////数据格式转换///////////
   let nodes_data = [...nodesRawData.value]
   for (let i = 0; i<nodes_data.length; i++) {
     nodes_data[i] = JSON.parse(JSON.stringify(nodes_data[i]))
@@ -55,36 +131,7 @@ const draw = function () {
     links_data[i] = JSON.parse(JSON.stringify(links_data[i]))
   }
 
-
-  //test data
-  //   nodes_data = [{id:0}, {id:1}, {id:2}, {id:3}, {id:4}, {id:5}];
-//   links_data = [
-//   // one link
-//   { source: 0, target: 1 },
-//
-//   // two links
-//   { source: 2, target: 1 },
-//   { source: 1, target: 2 },
-//
-//   //three links
-//   { source: 3, target: 2 },
-//   { source: 2, target: 3 },
-//   { source: 2, target: 3 },
-//
-//   // four links
-//   { source: 3, target: 4 },
-//   { source: 3, target: 4 },
-//   { source: 3, target: 4 },
-//   { source: 3, target: 4 },
-//
-//   // five links
-//   { source: 4, target: 5 },
-//   { source: 4, target: 5 },
-//   { source: 4, target: 5 },
-//   { source: 4, target: 5 },
-//   { source: 4, target: 5 }
-// ];
-
+  //////////多边弧线预处理START///////////
   links_data.forEach(function (link) {
     let same = links_data.filter((l) => {
       return l.source === link.source && l.target === link.target
@@ -119,9 +166,19 @@ const draw = function () {
   links_data.forEach(function (link) {
     link.maxSameHalf = Math.floor(maxSame / 2);
   });
+  function linkArc(d) {
+    let dx = (d.target.x - d.source.x),
+        dy = (d.target.y - d.source.y),
+        dr = Math.sqrt(dx * dx + dy * dy),
+        unevenCorrection = (d.sameUneven ? 0 : 0.5),
+        arc = ((dr * d.maxSameHalf) / (d.sameIndexCorrected - unevenCorrection));
+    if (d.sameMiddleLink) {
+      arc = 0;
+    }
+    return "M" + d.source.x + "," + d.source.y + "A" + arc + "," + arc + " 0 0," + d.sameArcDirection + " " + d.target.x + "," + d.target.y;
+  }
+  //////////多边弧线预处理END///////////
 
-  // console.log(nodes_data)
-  // console.log(links_data)
   let width = window.innerWidth,
       height = 500;
   let simulation = d3.forceSimulation()
@@ -140,7 +197,7 @@ const draw = function () {
       .attr("width", width)
       .attr("height", height);
 
-  let arrow = svg.append("defs")
+  let arrow = svg.append("defs")//箭头
       .append("marker")
       .attr('id', 'arrow')
       .attr("markerUnits", "userSpaceOnUse")
@@ -155,7 +212,7 @@ const draw = function () {
       .attr("d", "M0,-5L10,0L0,5")//箭头的路径
       .attr('fill', 'gray');
 
-  console.log(links_data)
+  ///////////边///////////
   let links = svg.append("g")
       .selectAll("path")
       .data(links_data)
@@ -170,23 +227,30 @@ const draw = function () {
       })
       .attr("fill", "none");
 
+  ///////////节点///////////
   const nodes = svg.append("g")
-      .selectAll("g")
+      .attr("class", "nodes")
+      .selectAll(".node")
       .data(nodes_data)
       .enter().append("g")
-      .call(node => node.append("title").text(d => d.id));
-
-  nodes.append("circle")
-      .attr("r", 5)
-      .attr("fill", 'black')/*(d) => {
-        return colorMap.get(d.type)
-      }*/
-  nodes.call(
+      .attr("class", function(d) {
+        return d.type == null?"undefined node":d.type+" node";
+      })
+      .call(node => node.append("title").text(d => d.id))//鼠标hover显示title
+      .call(//拖拽事件
       d3.drag()
           .on("start", dragstarted)
           .on("drag", dragged)
           .on("end", dragended)
-  );
+      );
+
+  for (let [key, value] of shapeMap) {//节点形状
+    d3.selectAll('.'+key).append("path")
+        .attr('d', value)
+        .style("fill", d => {return d.color==null?'#666666':d.color});
+  }
+
+
 
   function tick() {
     links.attr("d", linkArc);
@@ -194,17 +258,7 @@ const draw = function () {
     links.call(updateLink);
   }
 
-  function linkArc(d) {
-    let dx = (d.target.x - d.source.x),
-        dy = (d.target.y - d.source.y),
-        dr = Math.sqrt(dx * dx + dy * dy),
-        unevenCorrection = (d.sameUneven ? 0 : 0.5),
-        arc = ((dr * d.maxSameHalf) / (d.sameIndexCorrected - unevenCorrection));
-    if (d.sameMiddleLink) {
-      arc = 0;
-    }
-    return "M" + d.source.x + "," + d.source.y + "A" + arc + "," + arc + " 0 0," + d.sameArcDirection + " " + d.target.x + "," + d.target.y;
-  }
+
 
 
   function fixna(x) {
@@ -251,7 +305,9 @@ const draw = function () {
   }
 }
 
-setTimeout(draw, 10)
+
+
+// setTimeout(draw, 10)
 watch(nodesRawData, (newValue, oldValue) => {
   console.log('ego update')
   draw()
