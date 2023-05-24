@@ -152,9 +152,9 @@ function getNeighborConnection(n_lev_nodes) {
           var num = direct_neighbor_edge_data.get(type)
           if (num != null) {
             // console.log("numm", num)
-            direct_neighbor_edge_data.set(type, num + 1)
+            x.set(type, num + 1)
           } else {
-            direct_neighbor_edge_data.set(type, 1)
+            x.set(type, 1)
           }
         }
       })
