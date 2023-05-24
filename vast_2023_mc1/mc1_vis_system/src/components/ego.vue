@@ -1,6 +1,6 @@
 <template>
-  <div id="nodes-legend" style="position: absolute;left: 2%"></div>
-  <div id="links-legend" style="position: absolute;left: 18%"></div>
+  <div id="nodes-legend" style="position: absolute;left: 10%"></div>
+  <div id="links-legend" style="position: absolute;left: 30%"></div>
   <div id="graph" ></div>
 </template>
 
