@@ -1,5 +1,7 @@
 <template>
-  <div id="bar-container"> </div>
+  <div id="bar-container" >
+    <h4>{{title}}</h4>
+  </div>
 </template>
 <script setup>
 import * as d3 from 'd3'
