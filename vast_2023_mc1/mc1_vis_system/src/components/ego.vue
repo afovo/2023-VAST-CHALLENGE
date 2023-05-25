@@ -182,6 +182,7 @@ const draw = function () {
   let width = window.innerWidth,
       height = 500;
   let simulation = d3.forceSimulation()
+      .alphaDecay(0.4)
       .nodes(nodes_data)
       .force("link", d3.forceLink(links_data).id(function (d) {
         return d.id;
@@ -290,7 +291,7 @@ const draw = function () {
 //////////////dragging////////////////////////
   function dragstarted(event, d) {
     event.sourceEvent.stopPropagation();
-    if (!event.active) simulation.alphaTarget(0.3).restart();
+    if (!event.active) simulation.alphaTarget(0.01).restart();
     d.fx = d.x;
     d.fy = d.y;
   }
