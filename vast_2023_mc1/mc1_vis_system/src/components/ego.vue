@@ -180,14 +180,14 @@ const draw = function () {
   //////////多边弧线预处理END///////////
 
   let width = window.innerWidth,
-      height = 500;
+      height = 900;
   let simulation = d3.forceSimulation()
       .alphaDecay(0.4)
       .nodes(nodes_data)
       .force("link", d3.forceLink(links_data).id(function (d) {
         return d.id;
       }).distance(50).strength(1))
-      .force("center", d3.forceCenter(width / 2, height / 2))
+      .force("center", d3.forceCenter(width / 2-100, height / 2))
       .force('charge', d3.forceManyBody().strength(-10))
       // 碰撞力 防止节点重叠
       .force('collide', d3.forceCollide().radius(20).iterations(2))
