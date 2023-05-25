@@ -82,9 +82,8 @@ const chart = function (){
   }
 }
 
-setTimeout(chart, 0)
 watch(rawData, (newValue, oldValue) => {
-  console.log('bar chart update')
+  console.log(title.value,' chart update')
   chart()
 });
 

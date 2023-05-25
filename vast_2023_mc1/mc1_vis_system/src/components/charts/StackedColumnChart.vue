@@ -1,9 +1,10 @@
 <template>
-  <e-charts :option="option"></e-charts>
+  <div ref="main" style="width: 400px; height: 400px"></div>
 </template>
 
-<script>
-import {defineProps, toRefs} from "vue";
+<script setup>
+import {defineProps, ref, toRefs, watch} from "vue";
+import * as echarts from "echarts";
 //
 const props = defineProps({
   //子组件接收父组件传递过来的值
@@ -13,223 +14,216 @@ const props = defineProps({
 //使用父组件传递过来的值
 const {inData} = toRefs(props)
 const {outData} = toRefs(props)
+const main = ref()
+console.log(inData)
+console.log(outData)
 
-export default {
-  props: {
-    inData: {
-      type: Map,
-      required: true
+let myChart = null;
+function updateOption(){
+  myChart = echarts.init(main.value);
+  myChart.setOption({
+    tooltip: {
+      trigger: 'axis',
+      axisPointer: {
+        type: 'shadow'
+      }
     },
-    outData: {
-      type: Map,
-      required: true
+    legend: {},
+    grid: {
+      left: '3%',
+      right: '4%',
+      bottom: '3%',
+      containLabel: true
+    },
+    xAxis: [
+      {
+        type: 'category',
+        data: ['membership', 'partnership', 'ownership', 'family_relationship', 'undefined']
+      }
+    ],
+    yAxis: [
+      {
+        type: 'value'
+      }
+    ],
+    series: [
+      {
+        name: 'person',
+        type: 'bar',
+        stack: 'out-degree',
+        emphasis: {
+          focus: 'series'
+        },
+        data: outData.value.get("person")
+      },
+      {
+        name: 'organization',
+        type: 'bar',
+        stack: 'out-degree',
+        emphasis: {
+          focus: 'series'
+        },
+        data: outData.value.get("organization")
+      },
+      {
+        name: 'company',
+        type: 'bar',
+        stack: 'out-degree',
+        emphasis: {
+          focus: 'series'
+        },
+        data: outData.value.get("company")
+      },
+      {
+        name: 'political_organization',
+        type: 'bar',
+        stack: 'out-degree',
+        emphasis: {
+          focus: 'series'
+        },
+        data: outData.value.get("political_organization")
+      },
+      {
+        name: 'location',
+        type: 'bar',
+        stack: 'out-degree',
+        data: outData.value.get("location"),
+        emphasis: {
+          focus: 'series'
+        }
+      },
+      {
+        name: 'vessel',
+        type: 'bar',
+        stack: 'out-degree',
+        emphasis: {
+          focus: 'series'
+        },
+        data: outData.value.get("vessel")
+      },
+      {
+        name: 'event',
+        type: 'bar',
+        stack: 'out-degree',
+        emphasis: {
+          focus: 'series'
+        },
+        data: outData.value.get("event")
+      },
+      {
+        name: 'movement',
+        type: 'bar',
+        stack: 'out-degree',
+        emphasis: {
+          focus: 'series'
+        },
+        data: outData.value.get("movement")
+      },
+      {
+        name: 'undefined',
+        type: 'bar',
+        stack: 'out-degree',
+        emphasis: {
+          focus: 'series'
+        },
+        data: outData.value.get("undefined")
+      },
+
+
+      {
+        name: 'person',
+        type: 'bar',
+        stack: 'in-degree',
+        emphasis: {
+          focus: 'series'
+        },
+        data: inData.value.get("person")
+      },
+      {
+        name: 'organization',
+        type: 'bar',
+        stack: 'in-degree',
+        emphasis: {
+          focus: 'series'
+        },
+        data: inData.value.get("organization")
+      },
+      {
+        name: 'company',
+        type: 'bar',
+        stack: 'in-degree',
+        emphasis: {
+          focus: 'series'
+        },
+        data: inData.value.get("company")
+      },
+      {
+        name: 'political_organization',
+        type: 'bar',
+        stack: 'in-degree',
+        emphasis: {
+          focus: 'series'
+        },
+        data: inData.value.get("political_organization")
+      },
+      {
+        name: 'location',
+        type: 'bar',
+        stack: 'in-degree',
+        data: inData.value.get("location"),
+        emphasis: {
+          focus: 'series'
+        }
+      },
+      {
+        name: 'vessel',
+        type: 'bar',
+        stack: 'in-degree',
+        emphasis: {
+          focus: 'series'
+        },
+        data: inData.value.get("vessel")
+      },
+      {
+        name: 'event',
+        type: 'bar',
+        stack: 'in-degree',
+        emphasis: {
+          focus: 'series'
+        },
+        data: inData.value.get("event")
+      },
+      {
+        name: 'movement',
+        type: 'bar',
+        stack: 'in-degree',
+        emphasis: {
+          focus: 'series'
+        },
+        data: inData.value.get("movement")
+      },
+      {
+        name: 'undefined',
+        type: 'bar',
+        stack: 'in-degree',
+        emphasis: {
+          focus: 'series'
+        },
+        data: inData.value.get("undefined")
+      }
+    ]
+  })
+}
+
+watch(() =>({"in": inData,"out":outData}),
+    (newVal, oldVal) => {
+      console.log('stacked chart update')
+      updateOption()
+    },
+    {
+      deep: true,
     }
-  },
-  name: "StackedColumnChart",
-  setup(props) {
-    const {inData, outData} = toRefs(props);
-    console.log('aaaaaaaaaaaaaajiuming')
-    console.log(inData)
-    console.log(outData)
-    const option = {
-      tooltip: {
-        trigger: 'axis',
-        axisPointer: {
-          type: 'shadow'
-        }
-      },
-      legend: {},
-      grid: {
-        left: '3%',
-        right: '4%',
-        bottom: '3%',
-        containLabel: true
-      },
-      xAxis: [
-        {
-          type: 'category',
-          data: ['membership', 'partnership', 'ownership', 'family_relationship', 'undefined']
-        }
-      ],
-      yAxis: [
-        {
-          type: 'value'
-        }
-      ],
-      series: [
-        {
-          name: 'person',
-          type: 'bar',
-          stack: 'out-degree',
-          emphasis: {
-            focus: 'series'
-          },
-          data: outData.value.get("person")
-        },
-        {
-          name: 'organization',
-          type: 'bar',
-          stack: 'out-degree',
-          emphasis: {
-            focus: 'series'
-          },
-          data: outData.value.get("organization")
-        },
-        {
-          name: 'company',
-          type: 'bar',
-          stack: 'out-degree',
-          emphasis: {
-            focus: 'series'
-          },
-          data: outData.value.get("company")
-        },
-        {
-          name: 'political_organization',
-          type: 'bar',
-          stack: 'out-degree',
-          emphasis: {
-            focus: 'series'
-          },
-          data: outData.value.get("political_organization")
-        },
-        {
-          name: 'location',
-          type: 'bar',
-          stack: 'out-degree',
-          data: outData.value.get("location"),
-          emphasis: {
-            focus: 'series'
-          }
-        },
-        {
-          name: 'vessel',
-          type: 'bar',
-          stack: 'out-degree',
-          emphasis: {
-            focus: 'series'
-          },
-          data: outData.value.get("vessel")
-        },
-        {
-          name: 'event',
-          type: 'bar',
-          stack: 'out-degree',
-          emphasis: {
-            focus: 'series'
-          },
-          data: outData.value.get("event")
-        },
-        {
-          name: 'movement',
-          type: 'bar',
-          stack: 'out-degree',
-          emphasis: {
-            focus: 'series'
-          },
-          data: outData.value.get("movement")
-        },
-        {
-          name: 'undefined',
-          type: 'bar',
-          stack: 'out-degree',
-          emphasis: {
-            focus: 'series'
-          },
-          data: outData.value.get("undefined")
-        },
-
-
-        {
-          name: 'person',
-          type: 'bar',
-          stack: 'in-degree',
-          emphasis: {
-            focus: 'series'
-          },
-          data: inData.value.get("person")
-        },
-        {
-          name: 'organization',
-          type: 'bar',
-          stack: 'in-degree',
-          emphasis: {
-            focus: 'series'
-          },
-          data: inData.value.get("organization")
-        },
-        {
-          name: 'company',
-          type: 'bar',
-          stack: 'in-degree',
-          emphasis: {
-            focus: 'series'
-          },
-          data: inData.value.get("company")
-        },
-        {
-          name: 'political_organization',
-          type: 'bar',
-          stack: 'in-degree',
-          emphasis: {
-            focus: 'series'
-          },
-          data: inData.value.get("political_organization")
-        },
-        {
-          name: 'location',
-          type: 'bar',
-          stack: 'in-degree',
-          data: inData.value.get("location"),
-          emphasis: {
-            focus: 'series'
-          }
-        },
-        {
-          name: 'vessel',
-          type: 'bar',
-          stack: 'in-degree',
-          emphasis: {
-            focus: 'series'
-          },
-          data: inData.value.get("vessel")
-        },
-        {
-          name: 'event',
-          type: 'bar',
-          stack: 'in-degree',
-          emphasis: {
-            focus: 'series'
-          },
-          data: inData.value.get("event")
-        },
-        {
-          name: 'movement',
-          type: 'bar',
-          stack: 'in-degree',
-          emphasis: {
-            focus: 'series'
-          },
-          data: inData.value.get("movement")
-        },
-        {
-          name: 'undefined',
-          type: 'bar',
-          stack: 'in-degree',
-          emphasis: {
-            focus: 'series'
-          },
-          data: inData.value.get("undefined")
-        }
-
-      ]
-
-    };
-
-    return {
-      option
-    };
-  }
+)
   // computed: {
   //   option() {
   //     return {
@@ -411,7 +405,6 @@ export default {
   //     }
   //   }
   // }
-}
 </script>
 
 <style scoped>

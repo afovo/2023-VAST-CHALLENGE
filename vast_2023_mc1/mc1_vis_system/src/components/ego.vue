@@ -60,8 +60,8 @@ shapeMap.set("undefined", diamond());
 
 const props = defineProps({
   //子组件接收父组件传递过来的值
-  nodesRawData: Array,
-  linksRawData: Array
+  nodesRawData: Set,
+  linksRawData: Set
 })
 //使用父组件传递过来的值
 const {nodesRawData} =toRefs(props)
@@ -69,7 +69,7 @@ const {linksRawData} =toRefs(props)
 
 
 const draw = function () {
-  d3.selectAll("svg").remove();
+  d3.selectAll("svg").remove();//ToDo:这里把所有svg都清空了，后面可能会有问题
 
   ///////////图例///////////
   {
@@ -307,12 +307,15 @@ const draw = function () {
 
 
 
-// setTimeout(draw, 10)
-watch(nodesRawData, (newValue, oldValue) => {
-  console.log('ego update')
-  draw()
-});
-
+watch(() =>({"nodes": nodesRawData,"links":linksRawData}),
+    (newVal, oldVal) => {
+      console.log('ego update')
+      draw()
+    },
+    {
+      deep: true,
+    }
+)
 
 
 </script>
