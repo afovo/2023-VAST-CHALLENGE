@@ -13,7 +13,7 @@
       <BarChart :title="'Neighbour Types'" :raw-data="node_type_data"></BarChart>
       <!--      <BarChart :title="'Edge Types'" :raw-data="x"></BarChart>-->
       <StackedColumnChart
-          style="width: 800px; height: 500px"
+          style="width: 1000px; height: 500px"
           :in-data="in_data"
           :out-data="out_data"
       ></StackedColumnChart>

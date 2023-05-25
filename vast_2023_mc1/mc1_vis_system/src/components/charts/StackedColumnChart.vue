@@ -129,6 +129,15 @@ export default {
           },
           data: outData.value.get("movement")
         },
+        {
+          name: 'undefined',
+          type: 'bar',
+          stack: 'out-degree',
+          emphasis: {
+            focus: 'series'
+          },
+          data: outData.value.get("undefined")
+        },
 
 
         {
@@ -202,6 +211,15 @@ export default {
             focus: 'series'
           },
           data: inData.value.get("movement")
+        },
+        {
+          name: 'undefined',
+          type: 'bar',
+          stack: 'in-degree',
+          emphasis: {
+            focus: 'series'
+          },
+          data: inData.value.get("undefined")
         }
 
       ]
