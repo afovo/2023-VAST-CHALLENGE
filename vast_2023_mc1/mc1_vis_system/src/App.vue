@@ -38,7 +38,7 @@ let suspicious = new Set([
   "Oceanfront Oasis Inc Carriers",
   8327,
 ]);
-
+let unmodified_id = new Set(["23", "38", "626", "621", "77", "90", "16", "98", "93", "96"]);
 
 //接收filter传值
 let select_id, show1, show2;
@@ -118,11 +118,18 @@ d3.json("/MC1.json").then(function (raw_data) {
 });
 ////////数据预处理end///////////////////
 
-
+// 对纯数字id进行转换
+function id_translation(id) {
+  if (typeof (id) == "string" && !isNaN(id))
+    if (id.charAt(0) !== "0" && !unmodified_id.has(id))   // 待处理的node单独拿出来了 // 如果字符串为纯数字且开头不为0（有个“07”），转格式
+      id = parseInt(id)
+  return id
+}
 
 //dfs过滤目标节点ego_data
 //并且把 n level neighbor存起来
 function dfs(id, depth) {
+  id = id_translation(id)
   let n = nodes.get(id)
   if (!filter_nodes.has(n)) {//如果当前节点没被添加过
     filter_nodes.add(n)
@@ -238,6 +245,7 @@ function createEmptyMap() {
 }
 
 function directEdgeStatistic(id) {
+  id = id_translation(id)
   if (graph.has(id)) {//出度
     graph.get(id).forEach(function (to) {
           for (let i = 0; i < links[[id, to]].length; i++) {
