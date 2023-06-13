@@ -113,9 +113,9 @@ let filter = $ref({
 });
 let entities = new Set([
   "Mar de la Vida OJSC",
-  979893388,
+  "979893388",
   "Oceanfront Oasis Inc Carriers",
-  8327,
+  "8327",
 ]);
 
 const clear = function () {
