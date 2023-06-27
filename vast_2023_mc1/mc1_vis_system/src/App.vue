@@ -78,7 +78,7 @@ let nodes = new Map()//id=>node对象
 let links = {}//[source_id, target_id]=>[link对象1, link对象1...]
 let graph = new Map()//id=>[出边指向的邻居节点id1, id2...]
 let rgraph = new Map()//id=>[入边指向的邻居节点id1, id2...]
-d3.json("/MC1.json").then(function (raw_data) {
+d3.json("../public/MC1.json").then(function (raw_data) {
   for (let i = 0; i < raw_data.nodes.length; i++) {
     if (suspicious.has(raw_data.nodes[i].id))
       raw_data.nodes[i].color = '#FF6374'
