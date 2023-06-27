@@ -34,11 +34,11 @@ import * as d3 from 'd3';
 let activeNames = $ref(["Filter", "EgoNet", "BarChart", "StackedColumnChart"]);
 let suspicious = new Set([
   "Mar de la Vida OJSC",
-  979893388,
+  "979893388",
   "Oceanfront Oasis Inc Carriers",
-  8327,
+  "8327",
 ]);
-
+let unmodified_id = new Set(["23", "38", "626", "621", "77", "90", "16", "98", "93", "96"]);
 
 //接收filter传值
 let select_id, show1, show2;
@@ -117,7 +117,6 @@ d3.json("../public/MC1.json").then(function (raw_data) {
   console.log(graph)
 });
 ////////数据预处理end///////////////////
-
 
 
 //dfs过滤目标节点ego_data
