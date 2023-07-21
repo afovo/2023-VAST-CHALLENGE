@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../:\Grade3\创新实践2\2023-VAST-CHALLENGE\vast_2023_mc1\Summary\全局检测算法&聚类\源码\Interactive_Anomaly_Detection\Data\forFrontEnd\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

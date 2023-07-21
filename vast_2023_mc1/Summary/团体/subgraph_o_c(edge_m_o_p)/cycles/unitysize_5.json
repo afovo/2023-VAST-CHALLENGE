@@ -1,0 +1,50 @@
+{
+  "0": [
+    "unity_company_own0",
+    "unity_organization_own0",
+    "unity_organization_own5",
+    "unity_organization_own1",
+    "unity_organization_own2"
+  ],
+  "1": [
+    "unity_company_own0",
+    "unity_organization_own0",
+    "unity_organization_own5",
+    "unity_organization_own1"
+  ],
+  "2": [
+    "unity_company_own0",
+    "unity_organization_own0"
+  ],
+  "3": [
+    "unity_company_own0",
+    "unity_organization_own1",
+    "unity_organization_own2"
+  ],
+  "4": [
+    "unity_company_own0",
+    "unity_organization_own1",
+    "unity_organization_own0"
+  ],
+  "5": [
+    "unity_company_own0",
+    "unity_organization_own1"
+  ],
+  "6": [
+    "unity_organization_own1",
+    "unity_organization_own26"
+  ],
+  "7": [
+    "unity_organization_own1",
+    "unity_organization_own5"
+  ],
+  "8": [
+    "unity_organization_own1",
+    "unity_organization_own2"
+  ],
+  "9": [
+    "unity_organization_own1",
+    "unity_organization_own0",
+    "unity_organization_own5"
+  ]
+}

@@ -1,0 +1,6319 @@
+{
+    "18 wheelers": {
+        "relationships": [
+            [
+                "Playa del Cielo Kga",
+                "family_relationship",
+                "18 wheelers"
+            ],
+            [
+                "Playa del Cielo Kga",
+                "membership",
+                "18 wheelers"
+            ]
+        ],
+        "statistics": {
+            "family_relationship": 1,
+            "membership": 1
+        },
+        "correlated_entities": [
+            "Playa del Cielo Kga"
+        ]
+    },
+    "19": {
+        "relationships": [
+            [
+                "341411",
+                "membership",
+                "19"
+            ],
+            [
+                "png xi  Line",
+                "ownership",
+                "19"
+            ],
+            [
+                "Mar del Oeste Pic",
+                "membership",
+                "19"
+            ],
+            [
+                "Dana Goodwin",
+                "ownership",
+                "19"
+            ],
+            [
+                "505943",
+                "partnership",
+                "19"
+            ],
+            [
+                "56126935",
+                "membership",
+                "19"
+            ],
+            [
+                "Gabriela Graham",
+                "family_relationship",
+                "19"
+            ],
+            [
+                "Joseph Newman",
+                "family_relationship",
+                "19"
+            ],
+            [
+                "Mark Norton",
+                "membership",
+                "19"
+            ],
+            [
+                "19",
+                "partnership",
+                "48"
+            ],
+            [
+                "19",
+                "ownership",
+                "93865"
+            ],
+            [
+                "19",
+                "membership",
+                "Daniel Vasquez"
+            ],
+            [
+                "19",
+                "membership",
+                "William James"
+            ],
+            [
+                "19",
+                "membership",
+                "Suzanne Reed"
+            ],
+            [
+                "19",
+                "membership",
+                "Faroe Islands Shrimp Shark"
+            ],
+            [
+                "19",
+                "ownership",
+                "903311212"
+            ],
+            [
+                "19",
+                "membership",
+                "903311212"
+            ],
+            [
+                "19",
+                "membership",
+                "Mar del Oeste Pic"
+            ]
+        ],
+        "statistics": {
+            "membership": 10,
+            "ownership": 4,
+            "partnership": 2,
+            "family_relationship": 2
+        },
+        "correlated_entities": [
+            "48",
+            "341411",
+            "93865",
+            "William James",
+            "Faroe Islands Shrimp Shark",
+            "Dana Goodwin",
+            "Mar del Oeste Pic",
+            "56126935",
+            "Mark Norton",
+            "903311212",
+            "Daniel Vasquez",
+            "Suzanne Reed",
+            "png xi  Line",
+            "Joseph Newman",
+            "505943",
+            "Gabriela Graham"
+        ]
+    },
+    "629": {
+        "relationships": [
+            [
+                "21538",
+                "membership",
+                "629"
+            ],
+            [
+                "7691",
+                "membership",
+                "629"
+            ],
+            [
+                "Sierra Smith",
+                "membership",
+                "629"
+            ],
+            [
+                "629",
+                "membership",
+                "43685541"
+            ],
+            [
+                "629",
+                "membership",
+                "Amanda Contreras"
+            ]
+        ],
+        "statistics": {
+            "membership": 5
+        },
+        "correlated_entities": [
+            "Amanda Contreras",
+            "Sierra Smith",
+            "43685541",
+            "21538",
+            "7691"
+        ]
+    },
+    "ARA Bouchard": {
+        "relationships": [
+            [
+                "7548555",
+                "membership",
+                "ARA Bouchard"
+            ]
+        ],
+        "statistics": {
+            "membership": 1
+        },
+        "correlated_entities": [
+            "7548555"
+        ]
+    },
+    "ARA Contraalmirante Cordero": {
+        "relationships": [
+            [
+                "979893388",
+                "partnership",
+                "ARA Contraalmirante Cordero"
+            ],
+            [
+                "7548555",
+                "ownership",
+                "ARA Contraalmirante Cordero"
+            ]
+        ],
+        "statistics": {
+            "partnership": 1,
+            "ownership": 1
+        },
+        "correlated_entities": [
+            "979893388",
+            "7548555"
+        ]
+    },
+    "Aerial": {
+        "relationships": [
+            [
+                "8787",
+                "partnership",
+                "Aerial"
+            ]
+        ],
+        "statistics": {
+            "partnership": 1
+        },
+        "correlated_entities": [
+            "8787"
+        ]
+    },
+    "Aine": {
+        "relationships": [
+            [
+                "903311212",
+                "membership",
+                "Aine"
+            ]
+        ],
+        "statistics": {
+            "membership": 1
+        },
+        "correlated_entities": [
+            "903311212"
+        ]
+    },
+    "Amphibious Warships": {
+        "relationships": [
+            [
+                "222848436",
+                "partnership",
+                "Amphibious Warships"
+            ],
+            [
+                "903311212",
+                "partnership",
+                "Amphibious Warships"
+            ]
+        ],
+        "statistics": {
+            "partnership": 2
+        },
+        "correlated_entities": [
+            "903311212",
+            "222848436"
+        ]
+    },
+    "Bulk Carrier": {
+        "relationships": [
+            [
+                "903311212",
+                "partnership",
+                "Bulk Carrier"
+            ]
+        ],
+        "statistics": {
+            "partnership": 1
+        },
+        "correlated_entities": [
+            "903311212"
+        ]
+    },
+    "Chinook": {
+        "relationships": [
+            [
+                "555217629",
+                "partnership",
+                "Chinook"
+            ]
+        ],
+        "statistics": {
+            "partnership": 1
+        },
+        "correlated_entities": [
+            "555217629"
+        ]
+    },
+    "Coast Guard Cutter Edgar Culbertson": {
+        "relationships": [
+            [
+                "435054320",
+                "partnership",
+                "Coast Guard Cutter Edgar Culbertson"
+            ],
+            [
+                "Abigail Foster",
+                "partnership",
+                "Coast Guard Cutter Edgar Culbertson"
+            ],
+            [
+                "555217629",
+                "partnership",
+                "Coast Guard Cutter Edgar Culbertson"
+            ]
+        ],
+        "statistics": {
+            "partnership": 3
+        },
+        "correlated_entities": [
+            "435054320",
+            "Abigail Foster",
+            "555217629"
+        ]
+    },
+    "Craft\u00e2\u0080\u0093Law": {
+        "relationships": [
+            [
+                "435054320",
+                "ownership",
+                "Craft\u00e2\u0080\u0093Law"
+            ],
+            [
+                "Craft\u00e2\u0080\u0093Law",
+                "family_relationship",
+                "Ryan Perez"
+            ],
+            [
+                "Craft\u00e2\u0080\u0093Law",
+                "family_relationship",
+                "6567453"
+            ]
+        ],
+        "statistics": {
+            "family_relationship": 2,
+            "ownership": 1
+        },
+        "correlated_entities": [
+            "435054320",
+            "Ryan Perez",
+            "6567453"
+        ]
+    },
+    "Cutter": {
+        "relationships": [
+            [
+                "435054320",
+                "membership",
+                "Cutter"
+            ],
+            [
+                "40213337",
+                "membership",
+                "Cutter"
+            ],
+            [
+                "13249468",
+                "membership",
+                "Cutter"
+            ]
+        ],
+        "statistics": {
+            "membership": 3
+        },
+        "correlated_entities": [
+            "435054320",
+            "40213337",
+            "13249468"
+        ]
+    },
+    "CutterOliverHenry": {
+        "relationships": [
+            [
+                "Andre Phillips",
+                "ownership",
+                "CutterOliverHenry"
+            ]
+        ],
+        "statistics": {
+            "ownership": 1
+        },
+        "correlated_entities": [
+            "Andre Phillips"
+        ]
+    },
+    "Cutters": {
+        "relationships": [
+            [
+                "21538",
+                "ownership",
+                "Cutters"
+            ],
+            [
+                "435054320",
+                "membership",
+                "Cutters"
+            ]
+        ],
+        "statistics": {
+            "ownership": 1,
+            "membership": 1
+        },
+        "correlated_entities": [
+            "21538",
+            "435054320"
+        ]
+    },
+    "DDG": {
+        "relationships": [
+            [
+                "891",
+                "ownership",
+                "DDG"
+            ]
+        ],
+        "statistics": {
+            "ownership": 1
+        },
+        "correlated_entities": [
+            "891"
+        ]
+    },
+    "Deepwater Horizon": {
+        "relationships": [
+            [
+                "380",
+                "partnership",
+                "Deepwater Horizon"
+            ],
+            [
+                "23",
+                "partnership",
+                "Deepwater Horizon"
+            ],
+            [
+                "Patricia Hunter",
+                "partnership",
+                "Deepwater Horizon"
+            ],
+            [
+                "455617",
+                "partnership",
+                "Deepwater Horizon"
+            ]
+        ],
+        "statistics": {
+            "partnership": 4
+        },
+        "correlated_entities": [
+            "Patricia Hunter",
+            "23",
+            "380",
+            "455617"
+        ]
+    },
+    "Explorer": {
+        "relationships": [
+            [
+                "Jeremy Cordova",
+                "family_relationship",
+                "Explorer"
+            ]
+        ],
+        "statistics": {
+            "family_relationship": 1
+        },
+        "correlated_entities": [
+            "Jeremy Cordova"
+        ]
+    },
+    "FV Snake": {
+        "relationships": [
+            [
+                "Gary Crawford PhD",
+                "partnership",
+                "FV Snake"
+            ],
+            [
+                "FV Snake",
+                "partnership",
+                "Amanda Mckenzie"
+            ]
+        ],
+        "statistics": {
+            "partnership": 2
+        },
+        "correlated_entities": [
+            "Amanda Mckenzie",
+            "Gary Crawford PhD"
+        ]
+    },
+    "FV Thunder": {
+        "relationships": [
+            [
+                "Gary Crawford PhD",
+                "partnership",
+                "FV Thunder"
+            ],
+            [
+                "FV Thunder",
+                "partnership",
+                "Amanda Mckenzie"
+            ]
+        ],
+        "statistics": {
+            "partnership": 2
+        },
+        "correlated_entities": [
+            "Amanda Mckenzie",
+            "Gary Crawford PhD"
+        ]
+    },
+    "FV Viking": {
+        "relationships": [
+            [
+                "Gary Crawford PhD",
+                "partnership",
+                "FV Viking"
+            ]
+        ],
+        "statistics": {
+            "partnership": 1
+        },
+        "correlated_entities": [
+            "Gary Crawford PhD"
+        ]
+    },
+    "Feng": {
+        "relationships": [
+            [
+                "380",
+                "membership",
+                "Feng"
+            ],
+            [
+                "Brooke Garza",
+                "membership",
+                "Feng"
+            ]
+        ],
+        "statistics": {
+            "membership": 2
+        },
+        "correlated_entities": [
+            "380",
+            "Brooke Garza"
+        ]
+    },
+    "Gulf": {
+        "relationships": [
+            [
+                "Playa del Cielo Kga",
+                "membership",
+                "Gulf"
+            ],
+            [
+                "891",
+                "ownership",
+                "Gulf"
+            ],
+            [
+                "Gulf",
+                "membership",
+                "Christopher Cunningham"
+            ]
+        ],
+        "statistics": {
+            "membership": 2,
+            "ownership": 1
+        },
+        "correlated_entities": [
+            "Playa del Cielo Kga",
+            "Christopher Cunningham",
+            "891"
+        ]
+    },
+    "HMS": {
+        "relationships": [
+            [
+                "Erin Simmons",
+                "membership",
+                "HMS"
+            ],
+            [
+                "HMS",
+                "membership",
+                "John Campbell"
+            ]
+        ],
+        "statistics": {
+            "membership": 2
+        },
+        "correlated_entities": [
+            "Erin Simmons",
+            "John Campbell"
+        ]
+    },
+    "HMS Medway": {
+        "relationships": [
+            [
+                "Jason Cameron",
+                "partnership",
+                "HMS Medway"
+            ],
+            [
+                "80737369",
+                "membership",
+                "HMS Medway"
+            ]
+        ],
+        "statistics": {
+            "partnership": 1,
+            "membership": 1
+        },
+        "correlated_entities": [
+            "Jason Cameron",
+            "80737369"
+        ]
+    },
+    "HMS Montrose": {
+        "relationships": [
+            [
+                "7505050",
+                "membership",
+                "HMS Montrose"
+            ]
+        ],
+        "statistics": {
+            "membership": 1
+        },
+        "correlated_entities": [
+            "7505050"
+        ]
+    },
+    "Hang": {
+        "relationships": [
+            [
+                "Dylan Roberts",
+                "membership",
+                "Hang"
+            ],
+            [
+                "Hang",
+                "membership",
+                "860600018"
+            ]
+        ],
+        "statistics": {
+            "membership": 2
+        },
+        "correlated_entities": [
+            "Dylan Roberts",
+            "860600018"
+        ]
+    },
+    "Kenworth 18-wheeler": {
+        "relationships": [
+            [
+                "Sarah Williams",
+                "ownership",
+                "Kenworth 18-wheeler"
+            ],
+            [
+                "Kenworth 18-wheeler",
+                "ownership",
+                "Faroe Islands Shrimp Shark"
+            ]
+        ],
+        "statistics": {
+            "ownership": 2
+        },
+        "correlated_entities": [
+            "Sarah Williams",
+            "Faroe Islands Shrimp Shark"
+        ]
+    },
+    "Leng 999 Gal": {
+        "relationships": [
+            [
+                "7505050",
+                "ownership",
+                "Leng 999 Gal"
+            ]
+        ],
+        "statistics": {
+            "ownership": 1
+        },
+        "correlated_entities": [
+            "7505050"
+        ]
+    },
+    "MBTs": {
+        "relationships": [
+            [
+                "6758207",
+                "partnership",
+                "MBTs"
+            ],
+            [
+                "Christian Ashley",
+                "partnership",
+                "MBTs"
+            ],
+            [
+                "Kelly James",
+                "partnership",
+                "MBTs"
+            ]
+        ],
+        "statistics": {
+            "partnership": 3
+        },
+        "correlated_entities": [
+            "Kelly James",
+            "Christian Ashley",
+            "6758207"
+        ]
+    },
+    "Manned": {
+        "relationships": [
+            [
+                "8787",
+                "partnership",
+                "Manned"
+            ]
+        ],
+        "statistics": {
+            "partnership": 1
+        },
+        "correlated_entities": [
+            "8787"
+        ]
+    },
+    "Motor Vessel": {
+        "relationships": [
+            [
+                "Mar del Oeste Pic",
+                "membership",
+                "Motor Vessel"
+            ],
+            [
+                "903311212",
+                "membership",
+                "Motor Vessel"
+            ],
+            [
+                "1354",
+                "family_relationship",
+                "Motor Vessel"
+            ],
+            [
+                "24996",
+                "membership",
+                "Motor Vessel"
+            ]
+        ],
+        "statistics": {
+            "membership": 3,
+            "family_relationship": 1
+        },
+        "correlated_entities": [
+            "Mar del Oeste Pic",
+            "24996",
+            "1354",
+            "903311212"
+        ]
+    },
+    "Ocean Patrol": {
+        "relationships": [
+            [
+                "7548555",
+                "membership",
+                "Ocean Patrol"
+            ]
+        ],
+        "statistics": {
+            "membership": 1
+        },
+        "correlated_entities": [
+            "7548555"
+        ]
+    },
+    "Oliver": {
+        "relationships": [
+            [
+                "435054320",
+                "membership",
+                "Oliver"
+            ],
+            [
+                "160",
+                "ownership",
+                "Oliver"
+            ],
+            [
+                "Oliver",
+                "membership",
+                "Amanda Becker"
+            ],
+            [
+                "Oliver",
+                "partnership",
+                "Wendy Crane"
+            ],
+            [
+                "Oliver",
+                "partnership",
+                "Danielle Perry"
+            ]
+        ],
+        "statistics": {
+            "membership": 2,
+            "partnership": 2,
+            "ownership": 1
+        },
+        "correlated_entities": [
+            "160",
+            "Wendy Crane",
+            "435054320",
+            "Amanda Becker",
+            "Danielle Perry"
+        ]
+    },
+    "PC": {
+        "relationships": [
+            [
+                "Faroe Islands Shrimp Shark",
+                "partnership",
+                "PC"
+            ],
+            [
+                "4",
+                "partnership",
+                "PC"
+            ],
+            [
+                "7298083",
+                "partnership",
+                "PC"
+            ],
+            [
+                "262157542",
+                "partnership",
+                "PC"
+            ],
+            [
+                "760219951",
+                "partnership",
+                "PC"
+            ],
+            [
+                "Danielle Sosa",
+                "family_relationship",
+                "PC"
+            ],
+            [
+                "Jerry Miller",
+                "family_relationship",
+                "PC"
+            ],
+            [
+                "15758645",
+                "membership",
+                "PC"
+            ],
+            [
+                "62532",
+                "ownership",
+                "PC"
+            ],
+            [
+                "649009867",
+                "ownership",
+                "PC"
+            ],
+            [
+                "PC",
+                "partnership",
+                "1559"
+            ],
+            [
+                "PC",
+                "membership",
+                "185040354"
+            ],
+            [
+                "PC",
+                "ownership",
+                "366"
+            ],
+            [
+                "PC",
+                "membership",
+                "612"
+            ],
+            [
+                "PC",
+                "ownership",
+                "379284134"
+            ],
+            [
+                "PC",
+                "ownership",
+                "99661834"
+            ],
+            [
+                "PC",
+                "ownership",
+                "39033859"
+            ]
+        ],
+        "statistics": {
+            "partnership": 6,
+            "ownership": 6,
+            "membership": 3,
+            "family_relationship": 2
+        },
+        "correlated_entities": [
+            "760219951",
+            "Faroe Islands Shrimp Shark",
+            "612",
+            "379284134",
+            "262157542",
+            "1559",
+            "15758645",
+            "4",
+            "39033859",
+            "Danielle Sosa",
+            "62532",
+            "185040354",
+            "366",
+            "99661834",
+            "649009867",
+            "Jerry Miller",
+            "7298083"
+        ]
+    },
+    "Perch": {
+        "relationships": [
+            [
+                "png xi  Line",
+                "membership",
+                "Perch"
+            ]
+        ],
+        "statistics": {
+            "membership": 1
+        },
+        "correlated_entities": [
+            "png xi  Line"
+        ]
+    },
+    "Plastic": {
+        "relationships": [
+            [
+                "380",
+                "membership",
+                "Plastic"
+            ],
+            [
+                "Plastic",
+                "partnership",
+                "Sergio Ross"
+            ],
+            [
+                "Plastic",
+                "partnership",
+                "Daniel Middleton"
+            ],
+            [
+                "Plastic",
+                "partnership",
+                "Patricia Hunter"
+            ]
+        ],
+        "statistics": {
+            "partnership": 3,
+            "membership": 1
+        },
+        "correlated_entities": [
+            "Patricia Hunter",
+            "380",
+            "Sergio Ross",
+            "Daniel Middleton"
+        ]
+    },
+    "Rapido beam": {
+        "relationships": [
+            [
+                "Mar del Oeste Pic",
+                "membership",
+                "Rapido beam"
+            ],
+            [
+                "Madison Franklin",
+                "membership",
+                "Rapido beam"
+            ],
+            [
+                "Christopher Cunningham",
+                "membership",
+                "Rapido beam"
+            ],
+            [
+                "Rapido beam",
+                "membership",
+                "Mary Montoya"
+            ]
+        ],
+        "statistics": {
+            "membership": 4
+        },
+        "correlated_entities": [
+            "Mar del Oeste Pic",
+            "Christopher Cunningham",
+            "Mary Montoya",
+            "Madison Franklin"
+        ]
+    },
+    "Rapido beam trawler": {
+        "relationships": [
+            [
+                "Madison Franklin",
+                "ownership",
+                "Rapido beam trawler"
+            ],
+            [
+                "Rapido beam trawler",
+                "partnership",
+                "Mary Montoya"
+            ]
+        ],
+        "statistics": {
+            "ownership": 1,
+            "partnership": 1
+        },
+        "correlated_entities": [
+            "Mary Montoya",
+            "Madison Franklin"
+        ]
+    },
+    "SSN": {
+        "relationships": [
+            [
+                "William Bradley",
+                "family_relationship",
+                "SSN"
+            ],
+            [
+                "Michelle Singh",
+                "family_relationship",
+                "SSN"
+            ],
+            [
+                "SSN",
+                "ownership",
+                "Tyler Palmer"
+            ]
+        ],
+        "statistics": {
+            "family_relationship": 2,
+            "ownership": 1
+        },
+        "correlated_entities": [
+            "Tyler Palmer",
+            "Michelle Singh",
+            "William Bradley"
+        ]
+    },
+    "Ship2Report": {
+        "relationships": [
+            [
+                "70873",
+                "family_relationship",
+                "Ship2Report"
+            ],
+            [
+                "Estrella de Mar Ltd. Liability Co",
+                "family_relationship",
+                "Ship2Report"
+            ],
+            [
+                "90562",
+                "family_relationship",
+                "Ship2Report"
+            ],
+            [
+                "160",
+                "family_relationship",
+                "Ship2Report"
+            ]
+        ],
+        "statistics": {
+            "family_relationship": 4
+        },
+        "correlated_entities": [
+            "Estrella de Mar Ltd. Liability Co",
+            "160",
+            "70873",
+            "90562"
+        ]
+    },
+    "Ships": {
+        "relationships": [
+            [
+                "7505050",
+                "ownership",
+                "Ships"
+            ],
+            [
+                "15758645",
+                "partnership",
+                "Ships"
+            ],
+            [
+                "Ships",
+                "partnership",
+                "9697"
+            ],
+            [
+                "Ships",
+                "ownership",
+                "2919"
+            ],
+            [
+                "Ships",
+                "ownership",
+                "Dana Montes"
+            ],
+            [
+                "Ships",
+                "ownership",
+                "222079892"
+            ]
+        ],
+        "statistics": {
+            "ownership": 4,
+            "partnership": 2
+        },
+        "correlated_entities": [
+            "7505050",
+            "15758645",
+            "2919",
+            "Dana Montes",
+            "9697",
+            "222079892"
+        ]
+    },
+    "Talley\u00e2\u0080\u0099s": {
+        "relationships": [
+            [
+                "743225",
+                "membership",
+                "Talley\u00e2\u0080\u0099s"
+            ],
+            [
+                "98332",
+                "family_relationship",
+                "Talley\u00e2\u0080\u0099s"
+            ],
+            [
+                "34285153",
+                "membership",
+                "Talley\u00e2\u0080\u0099s"
+            ],
+            [
+                "40974",
+                "membership",
+                "Talley\u00e2\u0080\u0099s"
+            ],
+            [
+                "Talley\u00e2\u0080\u0099s",
+                "membership",
+                "Dana Knapp"
+            ]
+        ],
+        "statistics": {
+            "membership": 4,
+            "family_relationship": 1
+        },
+        "correlated_entities": [
+            "743225",
+            "34285153",
+            "98332",
+            "40974",
+            "Dana Knapp"
+        ]
+    },
+    "USCGC": {
+        "relationships": [
+            [
+                "6731",
+                "ownership",
+                "USCGC"
+            ],
+            [
+                "435054320",
+                "ownership",
+                "USCGC"
+            ],
+            [
+                "Dana Goodwin",
+                "ownership",
+                "USCGC"
+            ],
+            [
+                "891",
+                "ownership",
+                "USCGC"
+            ],
+            [
+                "160",
+                "ownership",
+                "USCGC"
+            ]
+        ],
+        "statistics": {
+            "ownership": 5
+        },
+        "correlated_entities": [
+            "6731",
+            "Dana Goodwin",
+            "160",
+            "891",
+            "435054320"
+        ]
+    },
+    "USCG\u00e2\u0080\u0099s": {
+        "relationships": [
+            [
+                "Andre Phillips",
+                "ownership",
+                "USCG\u00e2\u0080\u0099s"
+            ],
+            [
+                "USCG\u00e2\u0080\u0099s",
+                "ownership",
+                "Scott Solis"
+            ]
+        ],
+        "statistics": {
+            "ownership": 2
+        },
+        "correlated_entities": [
+            "Scott Solis",
+            "Andre Phillips"
+        ]
+    },
+    "USS": {
+        "relationships": [
+            [
+                "435054320",
+                "partnership",
+                "USS"
+            ],
+            [
+                "USS",
+                "family_relationship",
+                "Michelle Singh"
+            ],
+            [
+                "USS",
+                "family_relationship",
+                "Tyler Palmer"
+            ]
+        ],
+        "statistics": {
+            "family_relationship": 2,
+            "partnership": 1
+        },
+        "correlated_entities": [
+            "435054320",
+            "Tyler Palmer",
+            "Michelle Singh"
+        ]
+    },
+    "USS Hershel": {
+        "relationships": [
+            [
+                "750975",
+                "family_relationship",
+                "USS Hershel"
+            ],
+            [
+                "947",
+                "family_relationship",
+                "USS Hershel"
+            ],
+            [
+                "4348721",
+                "family_relationship",
+                "USS Hershel"
+            ]
+        ],
+        "statistics": {
+            "family_relationship": 3
+        },
+        "correlated_entities": [
+            "750975",
+            "4348721",
+            "947"
+        ]
+    },
+    "Viking fishing": {
+        "relationships": [
+            [
+                "341411",
+                "family_relationship",
+                "Viking fishing"
+            ]
+        ],
+        "statistics": {
+            "family_relationship": 1
+        },
+        "correlated_entities": [
+            "341411"
+        ]
+    },
+    "boat\u00e2\u0080\u0099s": {
+        "relationships": [
+            [
+                "Mar del Oeste Pic",
+                "membership",
+                "boat\u00e2\u0080\u0099s"
+            ],
+            [
+                "Christine Jones",
+                "membership",
+                "boat\u00e2\u0080\u0099s"
+            ],
+            [
+                "53792",
+                "membership",
+                "boat\u00e2\u0080\u0099s"
+            ],
+            [
+                "55394387",
+                "membership",
+                "boat\u00e2\u0080\u0099s"
+            ]
+        ],
+        "statistics": {
+            "membership": 4
+        },
+        "correlated_entities": [
+            "Mar del Oeste Pic",
+            "Christine Jones",
+            "53792",
+            "55394387"
+        ]
+    },
+    "bottom": {
+        "relationships": [
+            [
+                "7691",
+                "membership",
+                "bottom"
+            ],
+            [
+                "Madison Franklin",
+                "ownership",
+                "bottom"
+            ],
+            [
+                "Christopher Cunningham",
+                "ownership",
+                "bottom"
+            ],
+            [
+                "bottom",
+                "membership",
+                "7670"
+            ],
+            [
+                "bottom",
+                "membership",
+                "Mary Montoya"
+            ],
+            [
+                "bottom",
+                "ownership",
+                "Madison Franklin"
+            ]
+        ],
+        "statistics": {
+            "membership": 3,
+            "ownership": 3
+        },
+        "correlated_entities": [
+            "7670",
+            "Christopher Cunningham",
+            "7691",
+            "Mary Montoya",
+            "Madison Franklin"
+        ]
+    },
+    "coastguard": {
+        "relationships": [
+            [
+                "Caracola Azul Limited Liability Company",
+                "membership",
+                "coastguard"
+            ],
+            [
+                "Viento y Mar BV",
+                "membership",
+                "coastguard"
+            ]
+        ],
+        "statistics": {
+            "membership": 2
+        },
+        "correlated_entities": [
+            "Viento y Mar BV",
+            "Caracola Azul Limited Liability Company"
+        ]
+    },
+    "cutter James": {
+        "relationships": [
+            [
+                "40213337",
+                "partnership",
+                "cutter James"
+            ]
+        ],
+        "statistics": {
+            "partnership": 1
+        },
+        "correlated_entities": [
+            "40213337"
+        ]
+    },
+    "cutters": {
+        "relationships": [
+            [
+                "341411",
+                "ownership",
+                "cutters"
+            ],
+            [
+                "435054320",
+                "ownership",
+                "cutters"
+            ],
+            [
+                "8327",
+                "ownership",
+                "cutters"
+            ],
+            [
+                "40213337",
+                "membership",
+                "cutters"
+            ]
+        ],
+        "statistics": {
+            "ownership": 3,
+            "membership": 1
+        },
+        "correlated_entities": [
+            "435054320",
+            "341411",
+            "40213337",
+            "8327"
+        ]
+    },
+    "driftnets": {
+        "relationships": [
+            [
+                "Vicki Owen",
+                "membership",
+                "driftnets"
+            ]
+        ],
+        "statistics": {
+            "membership": 1
+        },
+        "correlated_entities": [
+            "Vicki Owen"
+        ]
+    },
+    "dup18": {
+        "relationships": [
+            [
+                "Playa del Cielo Kga",
+                "family_relationship",
+                "dup18"
+            ],
+            [
+                "dup18",
+                "ownership",
+                "png xi  Line"
+            ]
+        ],
+        "statistics": {
+            "family_relationship": 1,
+            "ownership": 1
+        },
+        "correlated_entities": [
+            "Playa del Cielo Kga",
+            "png xi  Line"
+        ]
+    },
+    "dup626": {
+        "relationships": [
+            [
+                "Sierra Smith",
+                "membership",
+                "dup626"
+            ]
+        ],
+        "statistics": {
+            "membership": 1
+        },
+        "correlated_entities": [
+            "Sierra Smith"
+        ]
+    },
+    "dup77": {
+        "relationships": [
+            [
+                "Linda Sherman",
+                "membership",
+                "dup77"
+            ],
+            [
+                "23990411",
+                "membership",
+                "dup77"
+            ],
+            [
+                "9979944",
+                "membership",
+                "dup77"
+            ],
+            [
+                "Stephanie Wiley",
+                "membership",
+                "dup77"
+            ],
+            [
+                "Lisa Ward",
+                "membership",
+                "dup77"
+            ],
+            [
+                "William Fernandez",
+                "membership",
+                "dup77"
+            ],
+            [
+                "dup77",
+                "membership",
+                "Ryan Lewis"
+            ],
+            [
+                "dup77",
+                "membership",
+                "Christina Chavez"
+            ],
+            [
+                "dup77",
+                "membership",
+                "Jessica Figueroa DDS"
+            ]
+        ],
+        "statistics": {
+            "membership": 9
+        },
+        "correlated_entities": [
+            "Stephanie Wiley",
+            "9979944",
+            "Linda Sherman",
+            "Ryan Lewis",
+            "Christina Chavez",
+            "Jessica Figueroa DDS",
+            "23990411",
+            "William Fernandez",
+            "Lisa Ward"
+        ]
+    },
+    "electric": {
+        "relationships": [
+            [
+                "png xi  Line",
+                "membership",
+                "electric"
+            ],
+            [
+                "903311212",
+                "family_relationship",
+                "electric"
+            ],
+            [
+                "electric",
+                "ownership",
+                "570683"
+            ]
+        ],
+        "statistics": {
+            "membership": 1,
+            "family_relationship": 1,
+            "ownership": 1
+        },
+        "correlated_entities": [
+            "903311212",
+            "png xi  Line",
+            "570683"
+        ]
+    },
+    "electric cars": {
+        "relationships": [
+            [
+                "Mar del Oeste Pic",
+                "membership",
+                "electric cars"
+            ]
+        ],
+        "statistics": {
+            "membership": 1
+        },
+        "correlated_entities": [
+            "Mar del Oeste Pic"
+        ]
+    },
+    "motor": {
+        "relationships": [
+            [
+                "79521144",
+                "membership",
+                "motor"
+            ],
+            [
+                "Tyler Jones",
+                "membership",
+                "motor"
+            ]
+        ],
+        "statistics": {
+            "membership": 2
+        },
+        "correlated_entities": [
+            "79521144",
+            "Tyler Jones"
+        ]
+    },
+    "ocean": {
+        "relationships": [
+            [
+                "8787",
+                "membership",
+                "ocean"
+            ],
+            [
+                "903311212",
+                "family_relationship",
+                "ocean"
+            ],
+            [
+                "Rebecca Caldwell",
+                "ownership",
+                "ocean"
+            ],
+            [
+                "ocean",
+                "ownership",
+                "Alan Wells"
+            ],
+            [
+                "ocean",
+                "ownership",
+                "90411963"
+            ],
+            [
+                "ocean",
+                "partnership",
+                "png xi  Line"
+            ]
+        ],
+        "statistics": {
+            "ownership": 3,
+            "membership": 1,
+            "family_relationship": 1,
+            "partnership": 1
+        },
+        "correlated_entities": [
+            "png xi  Line",
+            "903311212",
+            "90411963",
+            "Rebecca Caldwell",
+            "8787",
+            "Alan Wells"
+        ]
+    },
+    "ocean\u00e2\u0080\u0099s": {
+        "relationships": [
+            [
+                "924",
+                "partnership",
+                "ocean\u00e2\u0080\u0099s"
+            ],
+            [
+                "903311212",
+                "membership",
+                "ocean\u00e2\u0080\u0099s"
+            ]
+        ],
+        "statistics": {
+            "partnership": 1,
+            "membership": 1
+        },
+        "correlated_entities": [
+            "903311212",
+            "924"
+        ]
+    },
+    "pilot": {
+        "relationships": [
+            [
+                "143129355",
+                "membership",
+                "pilot"
+            ],
+            [
+                "46510923",
+                "membership",
+                "pilot"
+            ],
+            [
+                "pilot",
+                "membership",
+                "9699687"
+            ]
+        ],
+        "statistics": {
+            "membership": 3
+        },
+        "correlated_entities": [
+            "46510923",
+            "9699687",
+            "143129355"
+        ]
+    },
+    "river": {
+        "relationships": [
+            [
+                "39048624",
+                "membership",
+                "river"
+            ],
+            [
+                "Rhonda Johnson",
+                "membership",
+                "river"
+            ]
+        ],
+        "statistics": {
+            "membership": 2
+        },
+        "correlated_entities": [
+            "Rhonda Johnson",
+            "39048624"
+        ]
+    },
+    "sailboat Freeport": {
+        "relationships": [
+            [
+                "40213337",
+                "membership",
+                "sailboat Freeport"
+            ]
+        ],
+        "statistics": {
+            "membership": 1
+        },
+        "correlated_entities": [
+            "40213337"
+        ]
+    },
+    "salmon": {
+        "relationships": [
+            [
+                "7298083",
+                "membership",
+                "salmon"
+            ],
+            [
+                "89772543",
+                "partnership",
+                "salmon"
+            ],
+            [
+                "png xi  Line",
+                "membership",
+                "salmon"
+            ],
+            [
+                "903311212",
+                "partnership",
+                "salmon"
+            ],
+            [
+                "salmon",
+                "ownership",
+                "George Ramirez"
+            ]
+        ],
+        "statistics": {
+            "membership": 2,
+            "partnership": 2,
+            "ownership": 1
+        },
+        "correlated_entities": [
+            "903311212",
+            "png xi  Line",
+            "89772543",
+            "George Ramirez",
+            "7298083"
+        ]
+    },
+    "scooter": {
+        "relationships": [
+            [
+                "Mar del Oeste Pic",
+                "membership",
+                "scooter"
+            ]
+        ],
+        "statistics": {
+            "membership": 1
+        },
+        "correlated_entities": [
+            "Mar del Oeste Pic"
+        ]
+    },
+    "shrimper": {
+        "relationships": [
+            [
+                "Caracola Azul Limited Liability Company",
+                "ownership",
+                "shrimper"
+            ]
+        ],
+        "statistics": {
+            "ownership": 1
+        },
+        "correlated_entities": [
+            "Caracola Azul Limited Liability Company"
+        ]
+    },
+    "trucking": {
+        "relationships": [
+            [
+                "Mar del Oeste Pic",
+                "membership",
+                "trucking"
+            ],
+            [
+                "trucking",
+                "family_relationship",
+                "425887173"
+            ]
+        ],
+        "statistics": {
+            "membership": 1,
+            "family_relationship": 1
+        },
+        "correlated_entities": [
+            "Mar del Oeste Pic",
+            "425887173"
+        ]
+    },
+    "water": {
+        "relationships": [
+            [
+                "665",
+                "family_relationship",
+                "water"
+            ],
+            [
+                "png xi  Line",
+                "membership",
+                "water"
+            ],
+            [
+                "Mr. Gregory Brown",
+                "partnership",
+                "water"
+            ],
+            [
+                "8327",
+                "membership",
+                "water"
+            ],
+            [
+                "Tshikwea Corp Marine sanctuary",
+                "partnership",
+                "water"
+            ],
+            [
+                "519994690",
+                "membership",
+                "water"
+            ],
+            [
+                "160",
+                "membership",
+                "water"
+            ],
+            [
+                "water",
+                "membership",
+                "519994690"
+            ],
+            [
+                "water",
+                "partnership",
+                "Tshikwea Corp Marine sanctuary"
+            ],
+            [
+                "water",
+                "membership",
+                "7691"
+            ]
+        ],
+        "statistics": {
+            "membership": 6,
+            "partnership": 3,
+            "family_relationship": 1
+        },
+        "correlated_entities": [
+            "160",
+            "519994690",
+            "665",
+            "Tshikwea Corp Marine sanctuary",
+            "8327",
+            "png xi  Line",
+            "7691",
+            "Mr. Gregory Brown"
+        ]
+    },
+    "watercraft": {
+        "relationships": [
+            [
+                "Mar del Oeste Pic",
+                "family_relationship",
+                "watercraft"
+            ],
+            [
+                "46",
+                "family_relationship",
+                "watercraft"
+            ],
+            [
+                "Matthew Pennington",
+                "partnership",
+                "watercraft"
+            ],
+            [
+                "34757443",
+                "partnership",
+                "watercraft"
+            ]
+        ],
+        "statistics": {
+            "family_relationship": 2,
+            "partnership": 2
+        },
+        "correlated_entities": [
+            "Mar del Oeste Pic",
+            "46",
+            "34757443",
+            "Matthew Pennington"
+        ]
+    },
+    "water\u00e2\u0080\u0099s": {
+        "relationships": [
+            [
+                "Matthew Pennington",
+                "family_relationship",
+                "water\u00e2\u0080\u0099s"
+            ]
+        ],
+        "statistics": {
+            "family_relationship": 1
+        },
+        "correlated_entities": [
+            "Matthew Pennington"
+        ]
+    },
+    "Abrams MIA2": {
+        "relationships": [
+            [
+                "Abrams MIA2",
+                "partnership",
+                "Christian Ashley"
+            ],
+            [
+                "Abrams MIA2",
+                "partnership",
+                "Kelly James"
+            ],
+            [
+                "Abrams MIA2",
+                "partnership",
+                "6758207"
+            ]
+        ],
+        "statistics": {
+            "partnership": 3
+        },
+        "correlated_entities": [
+            "Kelly James",
+            "Christian Ashley",
+            "6758207"
+        ]
+    },
+    "Boat": {
+        "relationships": [
+            [
+                "Boat",
+                "family_relationship",
+                "40213337"
+            ],
+            [
+                "Boat",
+                "family_relationship",
+                "Teresa Rivera"
+            ],
+            [
+                "Boat",
+                "family_relationship",
+                "Spanish Shrimp  Carriers"
+            ]
+        ],
+        "statistics": {
+            "family_relationship": 3
+        },
+        "correlated_entities": [
+            "Teresa Rivera",
+            "Spanish Shrimp  Carriers",
+            "40213337"
+        ]
+    },
+    "Boston": {
+        "relationships": [
+            [
+                "Boston",
+                "membership",
+                "381051499"
+            ],
+            [
+                "Boston",
+                "partnership",
+                "Karen Burns"
+            ],
+            [
+                "Boston",
+                "partnership",
+                "Rachel Campbell"
+            ]
+        ],
+        "statistics": {
+            "partnership": 2,
+            "membership": 1
+        },
+        "correlated_entities": [
+            "Rachel Campbell",
+            "Karen Burns",
+            "381051499"
+        ]
+    },
+    "Coast": {
+        "relationships": [
+            [
+                "Coast",
+                "ownership",
+                "40213337"
+            ],
+            [
+                "Coast",
+                "ownership",
+                "8327"
+            ],
+            [
+                "Coast",
+                "ownership",
+                "435054320"
+            ],
+            [
+                "Coast",
+                "membership",
+                "Tyler Brown"
+            ],
+            [
+                "Coast",
+                "family_relationship",
+                "Teresa Rivera"
+            ],
+            [
+                "Coast",
+                "membership",
+                "860600018"
+            ],
+            [
+                "Coast",
+                "membership",
+                "Jenna Barton"
+            ],
+            [
+                "Coast",
+                "family_relationship",
+                "Ryan Perez"
+            ],
+            [
+                "Coast",
+                "family_relationship",
+                "6567453"
+            ]
+        ],
+        "statistics": {
+            "ownership": 3,
+            "membership": 3,
+            "family_relationship": 3
+        },
+        "correlated_entities": [
+            "Tyler Brown",
+            "40213337",
+            "Ryan Perez",
+            "860600018",
+            "6567453",
+            "8327",
+            "435054320",
+            "Teresa Rivera",
+            "Jenna Barton"
+        ]
+    },
+    "Deckhands": {
+        "relationships": [
+            [
+                "Deckhands",
+                "membership",
+                "Bruce Bates"
+            ]
+        ],
+        "statistics": {
+            "membership": 1
+        },
+        "correlated_entities": [
+            "Bruce Bates"
+        ]
+    },
+    "FV": {
+        "relationships": [
+            [
+                "FV",
+                "partnership",
+                "Gary Crawford PhD"
+            ]
+        ],
+        "statistics": {
+            "partnership": 1
+        },
+        "correlated_entities": [
+            "Gary Crawford PhD"
+        ]
+    },
+    "HMAS": {
+        "relationships": [
+            [
+                "HMAS",
+                "ownership",
+                "Michael Bullock"
+            ],
+            [
+                "HMAS",
+                "family_relationship",
+                "Michelle Singh"
+            ],
+            [
+                "HMAS",
+                "family_relationship",
+                "Tyler Palmer"
+            ]
+        ],
+        "statistics": {
+            "family_relationship": 2,
+            "ownership": 1
+        },
+        "correlated_entities": [
+            "Tyler Palmer",
+            "Michael Bullock",
+            "Michelle Singh"
+        ]
+    },
+    "HawkEye": {
+        "relationships": [
+            [
+                "HawkEye",
+                "family_relationship",
+                "Jordan Mcbride"
+            ],
+            [
+                "HawkEye",
+                "ownership",
+                "7575"
+            ]
+        ],
+        "statistics": {
+            "family_relationship": 1,
+            "ownership": 1
+        },
+        "correlated_entities": [
+            "Jordan Mcbride",
+            "7575"
+        ]
+    },
+    "Long Xing 629": {
+        "relationships": [
+            [
+                "Long Xing 629",
+                "ownership",
+                "Charles Hart"
+            ],
+            [
+                "Long Xing 629",
+                "ownership",
+                "Amanda Andrews"
+            ]
+        ],
+        "statistics": {
+            "ownership": 2
+        },
+        "correlated_entities": [
+            "Amanda Andrews",
+            "Charles Hart"
+        ]
+    },
+    "Marine": {
+        "relationships": [
+            [
+                "Marine",
+                "ownership",
+                "4063"
+            ],
+            [
+                "Marine",
+                "family_relationship",
+                "740523"
+            ],
+            [
+                "Marine",
+                "ownership",
+                "Amy Mcclure"
+            ],
+            [
+                "Marine",
+                "ownership",
+                "Jessica Mullins"
+            ],
+            [
+                "Marine",
+                "ownership",
+                "John Martin"
+            ],
+            [
+                "Marine",
+                "family_relationship",
+                "341411"
+            ],
+            [
+                "Marine",
+                "partnership",
+                "png xi  Line"
+            ]
+        ],
+        "statistics": {
+            "ownership": 4,
+            "family_relationship": 2,
+            "partnership": 1
+        },
+        "correlated_entities": [
+            "341411",
+            "740523",
+            "4063",
+            "Amy Mcclure",
+            "John Martin",
+            "Jessica Mullins",
+            "png xi  Line"
+        ]
+    },
+    "Maru": {
+        "relationships": [
+            [
+                "Maru",
+                "membership",
+                "Sara Jenkins"
+            ],
+            [
+                "Maru",
+                "membership",
+                "Lisa Lambert"
+            ]
+        ],
+        "statistics": {
+            "membership": 2
+        },
+        "correlated_entities": [
+            "Sara Jenkins",
+            "Lisa Lambert"
+        ]
+    },
+    "Michelle": {
+        "relationships": [
+            [
+                "Michelle",
+                "family_relationship",
+                "Tyler Flores"
+            ],
+            [
+                "Michelle",
+                "ownership",
+                "2466"
+            ]
+        ],
+        "statistics": {
+            "family_relationship": 1,
+            "ownership": 1
+        },
+        "correlated_entities": [
+            "2466",
+            "Tyler Flores"
+        ]
+    },
+    "Ocean Tuna": {
+        "relationships": [
+            [
+                "Ocean Tuna",
+                "partnership",
+                "262157542"
+            ],
+            [
+                "Ocean Tuna",
+                "partnership",
+                "46194"
+            ]
+        ],
+        "statistics": {
+            "partnership": 2
+        },
+        "correlated_entities": [
+            "262157542",
+            "46194"
+        ]
+    },
+    "Oceans": {
+        "relationships": [
+            [
+                "Oceans",
+                "partnership",
+                "7691"
+            ],
+            [
+                "Oceans",
+                "partnership",
+                "380"
+            ]
+        ],
+        "statistics": {
+            "partnership": 2
+        },
+        "correlated_entities": [
+            "380",
+            "7691"
+        ]
+    },
+    "Spaceflight": {
+        "relationships": [
+            [
+                "Spaceflight",
+                "partnership",
+                "93"
+            ]
+        ],
+        "statistics": {
+            "partnership": 1
+        },
+        "correlated_entities": [
+            "93"
+        ]
+    },
+    "Spy": {
+        "relationships": [
+            [
+                "Spy",
+                "ownership",
+                "903311212"
+            ]
+        ],
+        "statistics": {
+            "ownership": 1
+        },
+        "correlated_entities": [
+            "903311212"
+        ]
+    },
+    "Vehicle Land": {
+        "relationships": [
+            [
+                "Vehicle Land",
+                "partnership",
+                "Playa del Cielo Kga"
+            ]
+        ],
+        "statistics": {
+            "partnership": 1
+        },
+        "correlated_entities": [
+            "Playa del Cielo Kga"
+        ]
+    },
+    "Vessels": {
+        "relationships": [
+            [
+                "Vessels",
+                "partnership",
+                "Angela Chang"
+            ]
+        ],
+        "statistics": {
+            "partnership": 1
+        },
+        "correlated_entities": [
+            "Angela Chang"
+        ]
+    },
+    "Water": {
+        "relationships": [
+            [
+                "Water",
+                "partnership",
+                "737137552"
+            ]
+        ],
+        "statistics": {
+            "partnership": 1
+        },
+        "correlated_entities": [
+            "737137552"
+        ]
+    },
+    "boat": {
+        "relationships": [
+            [
+                "boat",
+                "membership",
+                "Michelle Hancock"
+            ]
+        ],
+        "statistics": {
+            "membership": 1
+        },
+        "correlated_entities": [
+            "Michelle Hancock"
+        ]
+    },
+    "bottom otter trawler": {
+        "relationships": [
+            [
+                "bottom otter trawler",
+                "membership",
+                "png xi  Line"
+            ]
+        ],
+        "statistics": {
+            "membership": 1
+        },
+        "correlated_entities": [
+            "png xi  Line"
+        ]
+    },
+    "bulker": {
+        "relationships": [
+            [
+                "bulker",
+                "membership",
+                "Kariba Dam  Corporation Nautical"
+            ]
+        ],
+        "statistics": {
+            "membership": 1
+        },
+        "correlated_entities": [
+            "Kariba Dam  Corporation Nautical"
+        ]
+    },
+    "diesel": {
+        "relationships": [
+            [
+                "diesel",
+                "membership",
+                "Mar del Oeste Pic"
+            ],
+            [
+                "diesel",
+                "membership",
+                "903311212"
+            ]
+        ],
+        "statistics": {
+            "membership": 2
+        },
+        "correlated_entities": [
+            "Mar del Oeste Pic",
+            "903311212"
+        ]
+    },
+    "dup23": {
+        "relationships": [
+            [
+                "dup23",
+                "ownership",
+                "Amanda Jenkins"
+            ]
+        ],
+        "statistics": {
+            "ownership": 1
+        },
+        "correlated_entities": [
+            "Amanda Jenkins"
+        ]
+    },
+    "dup621": {
+        "relationships": [
+            [
+                "dup621",
+                "partnership",
+                "98332"
+            ]
+        ],
+        "statistics": {
+            "partnership": 1
+        },
+        "correlated_entities": [
+            "98332"
+        ]
+    },
+    "truck": {
+        "relationships": [
+            [
+                "truck",
+                "membership",
+                "903311212"
+            ]
+        ],
+        "statistics": {
+            "membership": 1
+        },
+        "correlated_entities": [
+            "903311212"
+        ]
+    },
+    "underwater": {
+        "relationships": [
+            [
+                "underwater",
+                "family_relationship",
+                "png xi  Line"
+            ],
+            [
+                "underwater",
+                "membership",
+                "png xi  Line"
+            ]
+        ],
+        "statistics": {
+            "family_relationship": 1,
+            "membership": 1
+        },
+        "correlated_entities": [
+            "png xi  Line"
+        ]
+    },
+    "whales": {
+        "relationships": [
+            [
+                "whales",
+                "membership",
+                "Michelle Campbell"
+            ]
+        ],
+        "statistics": {
+            "membership": 1
+        },
+        "correlated_entities": [
+            "Michelle Campbell"
+        ]
+    },
+    "wheeler": {
+        "relationships": [
+            [
+                "wheeler",
+                "ownership",
+                "570683"
+            ]
+        ],
+        "statistics": {
+            "ownership": 1
+        },
+        "correlated_entities": [
+            "570683"
+        ]
+    },
+    "('water fishing', ['Ocean Fisheries Llc'])": {
+        "relationships": [
+            [
+                "Spanish Shrimp  Carriers",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Spanish Shrimp  Carriers",
+                "family_relationship",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "341411",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Elizabeth Welch",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "4975",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "95",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "300668979",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "265700083",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "47679",
+                "partnership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "7298083",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Maria Mitchell",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "9",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "8698",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "2262",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "665",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "947",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "John Gonzalez",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "426469",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "23",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "png xi  Line",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "png xi  Line",
+                "family_relationship",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "png xi  Line",
+                "partnership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "png xi  Line",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "277983365",
+                "partnership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "235866056",
+                "family_relationship",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Bryce Baker",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "49",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Mar del Oeste Pic",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Mar del Oeste Pic",
+                "partnership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Mar del Oeste Pic",
+                "family_relationship",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Mar del Oeste Pic",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "7505050",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Michele Henry",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Brian Palmer",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Mario Richardson",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Mario Richardson",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Michael Brock",
+                "family_relationship",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Thomas Morales",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Richard Perkins",
+                "partnership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "28379",
+                "family_relationship",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Diao er Ltd. Corporation Transport",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Robert Adams",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "491",
+                "partnership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "1360",
+                "family_relationship",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Kimberly Lara",
+                "partnership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "2508",
+                "partnership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "3782",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "87648111",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Charles OJSC Marine conservation",
+                "family_relationship",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "891",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "160",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "60774",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Shawna Welch",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "903311212",
+                "partnership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "903311212",
+                "family_relationship",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "903311212",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "903311212",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Wendy Crane",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "75471",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Kari Zavala",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Michele Black",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Michele Black",
+                "partnership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Matthew Pennington",
+                "partnership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Benjamin Barton",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "34757443",
+                "family_relationship",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Zachary Blackburn",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Christian Ashley",
+                "family_relationship",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "369",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Daniel Henderson",
+                "family_relationship",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "969368807",
+                "family_relationship",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "16306",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "43223",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "3657479",
+                "partnership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Tiffany Stephens",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Bryan King",
+                "family_relationship",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Manuel Hess",
+                "partnership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "72092",
+                "partnership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Martin Jones",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "687878",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Noah Mitchell",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "214883455",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Margaret Hodges",
+                "partnership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Margaret Hodges",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Diana Dawson",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Curtis Grant",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "172114"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "854"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "903311212"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "903311212"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "903311212"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "family_relationship",
+                "903311212"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Claire Russell"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "Scott Medina"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Brian Nelson"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "png xi  Line"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "png xi  Line"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "png xi  Line"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "family_relationship",
+                "png xi  Line"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "family_relationship",
+                "897"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "109746"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "11960055"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "874124852"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "0"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "Mar del Oeste Pic"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Mar del Oeste Pic"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "Mar del Oeste Pic"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "family_relationship",
+                "Mar del Oeste Pic"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "36"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Rybachit Limited Liability Company"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "551"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "family_relationship",
+                "Andrea Gibson"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "505943"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "801809"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "18"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "Calvin Salas"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "family_relationship",
+                "Andrew Gamble"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "2"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "Amanda Mckenzie"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "Christy Fields"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "21240092"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "3506021"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "3506021"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "52"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "39893"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Morgan Black"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Alyssa Mccoy"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "Christopher Simon"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "John Barnes DDS"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "1214936"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "2198"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "Jonathan Garner"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "Amanda Becker"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "David Nunez MD"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Daniel Mason"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Daniel Snyder"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "Daniel Snyder"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Miranda Small"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Martin Bryant"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "341411"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Laurie Mclaughlin"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "55394387"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "Roger Smith"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "Carol Wade"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Laura Smith"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "Maria Mitchell"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "6204"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "665"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "576618"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "2466"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Elizabeth Anderson"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "903574229"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "Lindsey Conway"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Robert Edwards"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "58"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "697844686"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Heather Porter"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Jeremy Norris"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "Jeremy Norris"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "family_relationship",
+                "Stephen Marks"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Tristan Johnson"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "William Palmer"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "82379"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "The Salty Pearl River S.p.A. Export"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "979893388"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "family_relationship",
+                "979893388"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "8814"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "Vanessa Avila"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Kristen Martin"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "9550"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "6"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "family_relationship",
+                "Danish Lobster Limited Liability Company Brothers"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "46901627"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Charles Fitzgerald"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "Patricia Flores"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Manuel Hess"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "14636"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "Nathaniel Shah"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "Richard Perkins"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "family_relationship",
+                "31368"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "family_relationship",
+                "Faroe Islands Shrimp Shark"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Faroe Islands Shrimp Shark"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "160"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "9820523"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "Scania Seafaring SRL Express"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "5246016"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "64667049"
+            ]
+        ],
+        "statistics": {
+            "membership": 75,
+            "ownership": 47,
+            "partnership": 39,
+            "family_relationship": 25
+        },
+        "correlated_entities": [
+            "Richard Perkins",
+            "Jonathan Garner",
+            "Andrew Gamble",
+            "3657479",
+            "28379",
+            "58",
+            "The Salty Pearl River S.p.A. Export",
+            "6204",
+            "854",
+            "2466",
+            "7298083",
+            "801809",
+            "Robert Edwards",
+            "4975",
+            "Rybachit Limited Liability Company",
+            "Elizabeth Welch",
+            "Noah Mitchell",
+            "Bryce Baker",
+            "Margaret Hodges",
+            "Benjamin Barton",
+            "687878",
+            "Roger Smith",
+            "Alyssa Mccoy",
+            "947",
+            "82379",
+            "14636",
+            "36",
+            "Brian Nelson",
+            "Brian Palmer",
+            "John Gonzalez",
+            "265700083",
+            "11960055",
+            "William Palmer",
+            "Michele Black",
+            "Zachary Blackburn",
+            "Manuel Hess",
+            "Charles Fitzgerald",
+            "Kari Zavala",
+            "Diao er Ltd. Corporation Transport",
+            "2262",
+            "Jeremy Norris",
+            "72092",
+            "Faroe Islands Shrimp Shark",
+            "9",
+            "697844686",
+            "Tiffany Stephens",
+            "Kimberly Lara",
+            "Charles OJSC Marine conservation",
+            "Laura Smith",
+            "Christian Ashley",
+            "0",
+            "Amanda Mckenzie",
+            "Claire Russell",
+            "Andrea Gibson",
+            "2508",
+            "Calvin Salas",
+            "Christopher Simon",
+            "Laurie Mclaughlin",
+            "214883455",
+            "39893",
+            "Curtis Grant",
+            "Scott Medina",
+            "43223",
+            "9820523",
+            "3506021",
+            "Maria Mitchell",
+            "Stephen Marks",
+            "505943",
+            "Spanish Shrimp  Carriers",
+            "160",
+            "903574229",
+            "665",
+            "Bryan King",
+            "Miranda Small",
+            "47679",
+            "png xi  Line",
+            "75471",
+            "Vanessa Avila",
+            "18",
+            "Christy Fields",
+            "369",
+            "Wendy Crane",
+            "Heather Porter",
+            "979893388",
+            "6",
+            "60774",
+            "55394387",
+            "Amanda Becker",
+            "Patricia Flores",
+            "34757443",
+            "Diana Dawson",
+            "Tristan Johnson",
+            "49",
+            "Shawna Welch",
+            "Carol Wade",
+            "7505050",
+            "64667049",
+            "576618",
+            "8814",
+            "Lindsey Conway",
+            "Kristen Martin",
+            "Martin Bryant",
+            "426469",
+            "300668979",
+            "1360",
+            "95",
+            "Mar del Oeste Pic",
+            "Robert Adams",
+            "Elizabeth Anderson",
+            "172114",
+            "Martin Jones",
+            "3782",
+            "277983365",
+            "491",
+            "46901627",
+            "John Barnes DDS",
+            "8698",
+            "891",
+            "31368",
+            "16306",
+            "874124852",
+            "Michael Brock",
+            "Danish Lobster Limited Liability Company Brothers",
+            "109746",
+            "551",
+            "Thomas Morales",
+            "87648111",
+            "9550",
+            "Morgan Black",
+            "897",
+            "2198",
+            "21240092",
+            "969368807",
+            "Daniel Snyder",
+            "1214936",
+            "Matthew Pennington",
+            "Nathaniel Shah",
+            "23",
+            "341411",
+            "Mario Richardson",
+            "2",
+            "Daniel Henderson",
+            "52",
+            "5246016",
+            "903311212",
+            "David Nunez MD",
+            "235866056",
+            "Michele Henry",
+            "Daniel Mason",
+            "Scania Seafaring SRL Express"
+        ]
+    },
+    "('reefers', ['Tuna Vietnam', '77b46bc7-7e31-41a0-973c-e633011d21b0'])": {
+        "relationships": [
+            [
+                "Spanish Shrimp  Carriers",
+                "membership",
+                "77b46bc7-7e31-41a0-973c-e633011d21b0"
+            ],
+            [
+                "185040354",
+                "partnership",
+                "77b46bc7-7e31-41a0-973c-e633011d21b0"
+            ],
+            [
+                "4",
+                "partnership",
+                "77b46bc7-7e31-41a0-973c-e633011d21b0"
+            ],
+            [
+                "77b46bc7-7e31-41a0-973c-e633011d21b0",
+                "partnership",
+                "7"
+            ],
+            [
+                "77b46bc7-7e31-41a0-973c-e633011d21b0",
+                "ownership",
+                "35"
+            ],
+            [
+                "77b46bc7-7e31-41a0-973c-e633011d21b0",
+                "partnership",
+                "Faroe Islands Shrimp Shark"
+            ],
+            [
+                "77b46bc7-7e31-41a0-973c-e633011d21b0",
+                "membership",
+                "290834957"
+            ],
+            [
+                "77b46bc7-7e31-41a0-973c-e633011d21b0",
+                "partnership",
+                "43685541"
+            ],
+            [
+                "77b46bc7-7e31-41a0-973c-e633011d21b0",
+                "partnership",
+                "79538"
+            ],
+            [
+                "77b46bc7-7e31-41a0-973c-e633011d21b0",
+                "partnership",
+                "Amanda Mckenzie"
+            ],
+            [
+                "77b46bc7-7e31-41a0-973c-e633011d21b0",
+                "partnership",
+                "Danielle Camacho"
+            ],
+            [
+                "77b46bc7-7e31-41a0-973c-e633011d21b0",
+                "ownership",
+                "Wesley Vasquez"
+            ],
+            [
+                "77b46bc7-7e31-41a0-973c-e633011d21b0",
+                "partnership",
+                "Kelly Mccarthy"
+            ],
+            [
+                "7",
+                "family_relationship",
+                "77b46bc7-7e31-41a0-973c-e633011d21b0"
+            ],
+            [
+                "380",
+                "membership",
+                "77b46bc7-7e31-41a0-973c-e633011d21b0"
+            ],
+            [
+                "Mar del Oeste Pic",
+                "family_relationship",
+                "77b46bc7-7e31-41a0-973c-e633011d21b0"
+            ],
+            [
+                "Linda Sherman",
+                "membership",
+                "77b46bc7-7e31-41a0-973c-e633011d21b0"
+            ],
+            [
+                "6391",
+                "membership",
+                "77b46bc7-7e31-41a0-973c-e633011d21b0"
+            ],
+            [
+                "Tara Hanson",
+                "ownership",
+                "77b46bc7-7e31-41a0-973c-e633011d21b0"
+            ]
+        ],
+        "statistics": {
+            "partnership": 9,
+            "membership": 5,
+            "ownership": 3,
+            "family_relationship": 2
+        },
+        "correlated_entities": [
+            "6391",
+            "7",
+            "Wesley Vasquez",
+            "Spanish Shrimp  Carriers",
+            "35",
+            "Faroe Islands Shrimp Shark",
+            "380",
+            "Mar del Oeste Pic",
+            "Linda Sherman",
+            "4",
+            "79538",
+            "Amanda Mckenzie",
+            "185040354",
+            "290834957",
+            "Kelly Mccarthy",
+            "43685541",
+            "Danielle Camacho",
+            "Tara Hanson"
+        ]
+    },
+    "('USS Hurricane', ['PC'])": {
+        "relationships": [
+            [
+                "Faroe Islands Shrimp Shark",
+                "partnership",
+                "PC"
+            ],
+            [
+                "4",
+                "partnership",
+                "PC"
+            ],
+            [
+                "7298083",
+                "partnership",
+                "PC"
+            ],
+            [
+                "262157542",
+                "partnership",
+                "PC"
+            ],
+            [
+                "PC",
+                "partnership",
+                "1559"
+            ],
+            [
+                "PC",
+                "membership",
+                "185040354"
+            ],
+            [
+                "PC",
+                "ownership",
+                "366"
+            ],
+            [
+                "PC",
+                "membership",
+                "612"
+            ],
+            [
+                "PC",
+                "ownership",
+                "379284134"
+            ],
+            [
+                "PC",
+                "ownership",
+                "99661834"
+            ],
+            [
+                "PC",
+                "ownership",
+                "39033859"
+            ],
+            [
+                "760219951",
+                "partnership",
+                "PC"
+            ],
+            [
+                "Danielle Sosa",
+                "family_relationship",
+                "PC"
+            ],
+            [
+                "Jerry Miller",
+                "family_relationship",
+                "PC"
+            ],
+            [
+                "15758645",
+                "membership",
+                "PC"
+            ],
+            [
+                "62532",
+                "ownership",
+                "PC"
+            ],
+            [
+                "649009867",
+                "ownership",
+                "PC"
+            ]
+        ],
+        "statistics": {
+            "partnership": 6,
+            "ownership": 6,
+            "membership": 3,
+            "family_relationship": 2
+        },
+        "correlated_entities": [
+            "379284134",
+            "Faroe Islands Shrimp Shark",
+            "612",
+            "760219951",
+            "262157542",
+            "1559",
+            "39033859",
+            "4",
+            "15758645",
+            "Danielle Sosa",
+            "185040354",
+            "366",
+            "99661834",
+            "62532",
+            "649009867",
+            "Jerry Miller",
+            "7298083"
+        ]
+    },
+    "('Tian', ['dup18'])": {
+        "relationships": [
+            [
+                "dup18",
+                "ownership",
+                "png xi  Line"
+            ],
+            [
+                "Playa del Cielo Kga",
+                "family_relationship",
+                "dup18"
+            ]
+        ],
+        "statistics": {
+            "ownership": 1,
+            "family_relationship": 1
+        },
+        "correlated_entities": [
+            "Playa del Cielo Kga",
+            "png xi  Line"
+        ]
+    },
+    "('vessel\u00e2\\x80\\x99s', ['Marine'])": {
+        "relationships": [
+            [
+                "Marine",
+                "ownership",
+                "4063"
+            ],
+            [
+                "Marine",
+                "family_relationship",
+                "740523"
+            ],
+            [
+                "Marine",
+                "ownership",
+                "Amy Mcclure"
+            ],
+            [
+                "Marine",
+                "ownership",
+                "Jessica Mullins"
+            ],
+            [
+                "Marine",
+                "ownership",
+                "John Martin"
+            ],
+            [
+                "Marine",
+                "family_relationship",
+                "341411"
+            ],
+            [
+                "Marine",
+                "partnership",
+                "png xi  Line"
+            ]
+        ],
+        "statistics": {
+            "ownership": 4,
+            "family_relationship": 2,
+            "partnership": 1
+        },
+        "correlated_entities": [
+            "341411",
+            "740523",
+            "4063",
+            "Amy Mcclure",
+            "John Martin",
+            "Jessica Mullins",
+            "png xi  Line"
+        ]
+    },
+    "('Montrose', ['d0123474-8425-4ab0-90d5-175920158638', 'HMS Montrose'])": {
+        "relationships": [
+            [
+                "341411",
+                "family_relationship",
+                "d0123474-8425-4ab0-90d5-175920158638"
+            ],
+            [
+                "d0123474-8425-4ab0-90d5-175920158638",
+                "family_relationship",
+                "William Bradley"
+            ],
+            [
+                "d0123474-8425-4ab0-90d5-175920158638",
+                "family_relationship",
+                "Michelle Singh"
+            ],
+            [
+                "d0123474-8425-4ab0-90d5-175920158638",
+                "family_relationship",
+                "Tyler Palmer"
+            ],
+            [
+                "d0123474-8425-4ab0-90d5-175920158638",
+                "family_relationship",
+                "425887173"
+            ],
+            [
+                "d0123474-8425-4ab0-90d5-175920158638",
+                "membership",
+                "Andrea Gibson"
+            ],
+            [
+                "d0123474-8425-4ab0-90d5-175920158638",
+                "ownership",
+                "64338295"
+            ],
+            [
+                "d0123474-8425-4ab0-90d5-175920158638",
+                "ownership",
+                "81"
+            ],
+            [
+                "d0123474-8425-4ab0-90d5-175920158638",
+                "partnership",
+                "png xi  Line"
+            ],
+            [
+                "7505050",
+                "membership",
+                "HMS Montrose"
+            ],
+            [
+                "7480",
+                "membership",
+                "d0123474-8425-4ab0-90d5-175920158638"
+            ],
+            [
+                "1518",
+                "membership",
+                "d0123474-8425-4ab0-90d5-175920158638"
+            ]
+        ],
+        "statistics": {
+            "family_relationship": 5,
+            "membership": 4,
+            "ownership": 2,
+            "partnership": 1
+        },
+        "correlated_entities": [
+            "7505050",
+            "341411",
+            "64338295",
+            "Tyler Palmer",
+            "png xi  Line",
+            "7480",
+            "425887173",
+            "William Bradley",
+            "Andrea Gibson",
+            "Michelle Singh",
+            "81",
+            "1518"
+        ]
+    },
+    "('operated vehicle', ['underwater', 'SeaSpray Wave SRL Solutions'])": {
+        "relationships": [
+            [
+                "Spanish Shrimp  Carriers",
+                "membership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "2591586",
+                "membership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Faroe Islands Shrimp Shark",
+                "ownership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Faroe Islands Shrimp Shark",
+                "family_relationship",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "341411",
+                "partnership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "341411",
+                "membership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Jason Cameron",
+                "ownership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "132",
+                "partnership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "2",
+                "membership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "5",
+                "ownership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "9",
+                "ownership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Amanda Mckenzie",
+                "partnership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "2262",
+                "ownership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "49494",
+                "membership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "21538",
+                "membership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "435054320",
+                "ownership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "435054320",
+                "partnership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "png xi  Line",
+                "membership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "png xi  Line",
+                "ownership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "png xi  Line",
+                "partnership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Playa del Cielo Kga",
+                "partnership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Randy Collins",
+                "membership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "41",
+                "membership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Mar del Oeste Pic",
+                "membership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Mar del Oeste Pic",
+                "partnership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Mar del Oeste Pic",
+                "ownership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Mar del Oeste Pic",
+                "family_relationship",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Mr. Gregory Brown",
+                "partnership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "7691",
+                "ownership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "98332",
+                "partnership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Jeremy Norris",
+                "partnership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Diana Brandt",
+                "partnership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "4382",
+                "partnership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Angela Powers",
+                "membership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "890",
+                "membership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "555217629",
+                "ownership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Thomas Morales",
+                "partnership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Christopher Daniel",
+                "family_relationship",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Morgan Black",
+                "ownership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "70",
+                "membership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "341853",
+                "ownership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Jennifer Simmons",
+                "ownership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "18",
+                "partnership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Jessica Owens",
+                "membership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "54217974",
+                "ownership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "9977227",
+                "partnership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "160",
+                "ownership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "60774",
+                "family_relationship",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Zachary Jordan",
+                "membership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Gregory Carter",
+                "membership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "903311212",
+                "ownership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "903311212",
+                "membership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "903311212",
+                "partnership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "903311212",
+                "family_relationship",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "10880329",
+                "family_relationship",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "75471",
+                "ownership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Matthew Pennington",
+                "ownership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "underwater",
+                "family_relationship",
+                "png xi  Line"
+            ],
+            [
+                "underwater",
+                "membership",
+                "png xi  Line"
+            ],
+            [
+                "Mary Durham",
+                "membership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "620019",
+                "partnership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "5421",
+                "partnership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Tracy Rogers",
+                "membership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "James Horton",
+                "membership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Rajasthan GmbH & Co. KG",
+                "membership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Rebecca Caldwell",
+                "membership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Daniel Pruitt",
+                "ownership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Seth Kelley",
+                "ownership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "5362",
+                "ownership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Joseph Hawkins",
+                "partnership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Randall Newman",
+                "ownership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "3657479",
+                "membership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Chelsey Woodard",
+                "family_relationship",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "352",
+                "ownership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "David Romero",
+                "ownership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "79521144",
+                "partnership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "68273",
+                "membership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Chad Ruiz",
+                "membership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Noah Mitchell",
+                "membership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Margaret Hodges",
+                "ownership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Margaret Hodges",
+                "membership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "812137",
+                "family_relationship",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "Curtis Grant",
+                "membership",
+                "SeaSpray Wave SRL Solutions"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "family_relationship",
+                "349"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "membership",
+                "5"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "partnership",
+                "Amanda Mckenzie"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "membership",
+                "Amanda Mckenzie"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "membership",
+                "979893388"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "family_relationship",
+                "979893388"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "family_relationship",
+                "47679"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "ownership",
+                "Clayton Rodgers"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "partnership",
+                "Jeremy Norris"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "membership",
+                "Jeremy Norris"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "family_relationship",
+                "829"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "membership",
+                "903311212"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "ownership",
+                "903311212"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "partnership",
+                "903311212"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "family_relationship",
+                "Vanessa Avila"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "family_relationship",
+                "341411"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "membership",
+                "341411"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "ownership",
+                "341411"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "ownership",
+                "Faroe Islands Shrimp Shark"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "family_relationship",
+                "Faroe Islands Shrimp Shark"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "membership",
+                "Faroe Islands Shrimp Shark"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "membership",
+                "Mar del Oeste Pic"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "partnership",
+                "Mar del Oeste Pic"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "ownership",
+                "Mar del Oeste Pic"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "family_relationship",
+                "Mar del Oeste Pic"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "family_relationship",
+                "498817"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "membership",
+                "Richard Greer"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "membership",
+                "505943"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "membership",
+                "1301719"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "family_relationship",
+                "Andrea Gibson"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "family_relationship",
+                "png xi  Line"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "membership",
+                "png xi  Line"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "partnership",
+                "png xi  Line"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "ownership",
+                "png xi  Line"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "partnership",
+                "Michael Patton"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "family_relationship",
+                "2913"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "partnership",
+                "James Hernandez"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "ownership",
+                "Laurie Clark"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "membership",
+                "Alan Wells"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "membership",
+                "Kelly Brown"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "partnership",
+                "Jennifer Brown"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "ownership",
+                "Michael Baker"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "family_relationship",
+                "6780"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "ownership",
+                "Coastal Crusaders Kga Worldwide"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "partnership",
+                "Hannah Walter"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "partnership",
+                "Thomas Morales"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "membership",
+                "26978247"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "family_relationship",
+                "Rhonda Price"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "partnership",
+                "Helen Chase"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "ownership",
+                "Todd Lane"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "partnership",
+                "Mary Montoya"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "partnership",
+                "1559"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "partnership",
+                "55394387"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "partnership",
+                "Robert Vega"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "partnership",
+                "693436"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "ownership",
+                "Khundu Ltd. Liability Co"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "ownership",
+                "5383294"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "partnership",
+                "73166320"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "family_relationship",
+                "Carol Wade"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "membership",
+                "Dana Knapp"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "membership",
+                "15910405"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "ownership",
+                "9067"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "membership",
+                "6204"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "partnership",
+                "25652724"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "partnership",
+                "4086"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "partnership",
+                "Damon Nelson"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "membership",
+                "James Horton"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "family_relationship",
+                "858"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "ownership",
+                "762"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "family_relationship",
+                "23"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "family_relationship",
+                "Sylvia Johnson"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "partnership",
+                "Wanda Collins"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "membership",
+                "5276019"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "family_relationship",
+                "Lindsey Barr"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "membership",
+                "3436524"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "ownership",
+                "Diane Hughes"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "ownership",
+                "Caleb Webster"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "family_relationship",
+                "Seth Kelley"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "membership",
+                "David Nielsen"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "membership",
+                "199"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "partnership",
+                "Emily Norton"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "membership",
+                "Candice Brown"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "ownership",
+                "Joanna Brown"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "membership",
+                "6338"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "family_relationship",
+                "83241316"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "family_relationship",
+                "Robert Rodriguez"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "partnership",
+                "959344"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "ownership",
+                "2793"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "ownership",
+                "69007292"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "membership",
+                "Bryan King"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "membership",
+                "4962642"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "partnership",
+                "Morgan Black"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "partnership",
+                "Calvin Salas"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "ownership",
+                "Mark Scott"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "family_relationship",
+                "11353"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "partnership",
+                "Xavier Sanchez"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "ownership",
+                "19285"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "family_relationship",
+                "James Calhoun"
+            ],
+            [
+                "SeaSpray Wave SRL Solutions",
+                "partnership",
+                "435"
+            ]
+        ],
+        "statistics": {
+            "membership": 56,
+            "partnership": 47,
+            "ownership": 46,
+            "family_relationship": 33
+        },
+        "correlated_entities": [
+            "3657479",
+            "15910405",
+            "6204",
+            "21538",
+            "Coastal Crusaders Kga Worldwide",
+            "349",
+            "Damon Nelson",
+            "Noah Mitchell",
+            "Margaret Hodges",
+            "Jennifer Simmons",
+            "5421",
+            "79521144",
+            "98332",
+            "Diana Brandt",
+            "Alan Wells",
+            "Todd Lane",
+            "4962642",
+            "812137",
+            "Joanna Brown",
+            "1559",
+            "352",
+            "858",
+            "19285",
+            "Robert Rodriguez",
+            "Sylvia Johnson",
+            "68273",
+            "890",
+            "11353",
+            "341853",
+            "2262",
+            "Jeremy Norris",
+            "Faroe Islands Shrimp Shark",
+            "620019",
+            "9",
+            "Zachary Jordan",
+            "Jennifer Brown",
+            "132",
+            "26978247",
+            "6780",
+            "James Calhoun",
+            "Mark Scott",
+            "Khundu Ltd. Liability Co",
+            "Rhonda Price",
+            "Diane Hughes",
+            "Amanda Mckenzie",
+            "Michael Patton",
+            "Andrea Gibson",
+            "693436",
+            "9977227",
+            "Calvin Salas",
+            "Gregory Carter",
+            "435",
+            "498817",
+            "Mary Durham",
+            "10880329",
+            "5362",
+            "Curtis Grant",
+            "2913",
+            "829",
+            "Hannah Walter",
+            "Wanda Collins",
+            "David Romero",
+            "5",
+            "Seth Kelley",
+            "505943",
+            "Candice Brown",
+            "199",
+            "Tracy Rogers",
+            "Clayton Rodgers",
+            "Rajasthan GmbH & Co. KG",
+            "Spanish Shrimp  Carriers",
+            "Robert Vega",
+            "160",
+            "Bryan King",
+            "1301719",
+            "47679",
+            "png xi  Line",
+            "959344",
+            "75471",
+            "4382",
+            "Vanessa Avila",
+            "18",
+            "Joseph Hawkins",
+            "3436524",
+            "979893388",
+            "60774",
+            "55394387",
+            "7691",
+            "Mary Montoya",
+            "69007292",
+            "James Hernandez",
+            "25652724",
+            "Randy Collins",
+            "4086",
+            "Kelly Brown",
+            "Caleb Webster",
+            "Carol Wade",
+            "435054320",
+            "Playa del Cielo Kga",
+            "49494",
+            "Chad Ruiz",
+            "Emily Norton",
+            "6338",
+            "Jessica Owens",
+            "Mar del Oeste Pic",
+            "Angela Powers",
+            "Laurie Clark",
+            "Xavier Sanchez",
+            "762",
+            "41",
+            "Randall Newman",
+            "70",
+            "Daniel Pruitt",
+            "83241316",
+            "Thomas Morales",
+            "Jason Cameron",
+            "Helen Chase",
+            "Mr. Gregory Brown",
+            "54217974",
+            "Richard Greer",
+            "Morgan Black",
+            "5383294",
+            "Christopher Daniel",
+            "Chelsey Woodard",
+            "Rebecca Caldwell",
+            "Matthew Pennington",
+            "2591586",
+            "9067",
+            "73166320",
+            "Dana Knapp",
+            "2793",
+            "23",
+            "341411",
+            "2",
+            "5276019",
+            "903311212",
+            "James Horton",
+            "Michael Baker",
+            "Lindsey Barr",
+            "David Nielsen",
+            "555217629"
+        ]
+    },
+    "('Snow Crab', ['Ocean Fisheries Llc'])": {
+        "relationships": [
+            [
+                "Spanish Shrimp  Carriers",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Spanish Shrimp  Carriers",
+                "family_relationship",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "341411",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Elizabeth Welch",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "4975",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "95",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "300668979",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "265700083",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "47679",
+                "partnership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "7298083",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Maria Mitchell",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "9",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "8698",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "2262",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "665",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "947",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "John Gonzalez",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "426469",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "23",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "png xi  Line",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "png xi  Line",
+                "family_relationship",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "png xi  Line",
+                "partnership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "png xi  Line",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "277983365",
+                "partnership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "235866056",
+                "family_relationship",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Bryce Baker",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "49",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Mar del Oeste Pic",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Mar del Oeste Pic",
+                "partnership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Mar del Oeste Pic",
+                "family_relationship",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Mar del Oeste Pic",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "7505050",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Michele Henry",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Brian Palmer",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Mario Richardson",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Mario Richardson",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Michael Brock",
+                "family_relationship",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Thomas Morales",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Richard Perkins",
+                "partnership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "28379",
+                "family_relationship",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Diao er Ltd. Corporation Transport",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Robert Adams",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "491",
+                "partnership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "1360",
+                "family_relationship",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Kimberly Lara",
+                "partnership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "2508",
+                "partnership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "3782",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "87648111",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Charles OJSC Marine conservation",
+                "family_relationship",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "891",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "160",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "60774",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Shawna Welch",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "903311212",
+                "partnership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "903311212",
+                "family_relationship",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "903311212",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "903311212",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Wendy Crane",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "75471",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Kari Zavala",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Michele Black",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Michele Black",
+                "partnership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Matthew Pennington",
+                "partnership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Benjamin Barton",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "34757443",
+                "family_relationship",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Zachary Blackburn",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Christian Ashley",
+                "family_relationship",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "369",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Daniel Henderson",
+                "family_relationship",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "969368807",
+                "family_relationship",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "16306",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "43223",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "3657479",
+                "partnership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Tiffany Stephens",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Bryan King",
+                "family_relationship",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Manuel Hess",
+                "partnership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "72092",
+                "partnership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Martin Jones",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "687878",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Noah Mitchell",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "214883455",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Margaret Hodges",
+                "partnership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Margaret Hodges",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Diana Dawson",
+                "ownership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Curtis Grant",
+                "membership",
+                "Ocean Fisheries Llc"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "172114"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "854"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "903311212"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "903311212"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "903311212"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "family_relationship",
+                "903311212"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Claire Russell"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "Scott Medina"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Brian Nelson"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "png xi  Line"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "png xi  Line"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "png xi  Line"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "family_relationship",
+                "png xi  Line"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "family_relationship",
+                "897"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "109746"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "11960055"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "874124852"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "0"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "Mar del Oeste Pic"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Mar del Oeste Pic"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "Mar del Oeste Pic"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "family_relationship",
+                "Mar del Oeste Pic"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "36"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Rybachit Limited Liability Company"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "551"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "family_relationship",
+                "Andrea Gibson"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "505943"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "801809"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "18"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "Calvin Salas"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "family_relationship",
+                "Andrew Gamble"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "2"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "Amanda Mckenzie"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "Christy Fields"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "21240092"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "3506021"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "3506021"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "52"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "39893"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Morgan Black"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Alyssa Mccoy"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "Christopher Simon"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "John Barnes DDS"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "1214936"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "2198"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "Jonathan Garner"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "Amanda Becker"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "David Nunez MD"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Daniel Mason"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Daniel Snyder"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "Daniel Snyder"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Miranda Small"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Martin Bryant"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "341411"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Laurie Mclaughlin"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "55394387"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "Roger Smith"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "Carol Wade"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Laura Smith"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "Maria Mitchell"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "6204"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "665"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "576618"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "2466"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Elizabeth Anderson"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "903574229"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "Lindsey Conway"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Robert Edwards"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "58"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "697844686"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Heather Porter"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Jeremy Norris"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "Jeremy Norris"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "family_relationship",
+                "Stephen Marks"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Tristan Johnson"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "William Palmer"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "82379"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "The Salty Pearl River S.p.A. Export"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "979893388"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "family_relationship",
+                "979893388"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "8814"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "Vanessa Avila"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Kristen Martin"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "9550"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "6"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "family_relationship",
+                "Danish Lobster Limited Liability Company Brothers"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "46901627"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Charles Fitzgerald"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "Patricia Flores"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Manuel Hess"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "14636"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "Nathaniel Shah"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "partnership",
+                "Richard Perkins"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "family_relationship",
+                "31368"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "family_relationship",
+                "Faroe Islands Shrimp Shark"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "Faroe Islands Shrimp Shark"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "160"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "9820523"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "ownership",
+                "Scania Seafaring SRL Express"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "5246016"
+            ],
+            [
+                "Ocean Fisheries Llc",
+                "membership",
+                "64667049"
+            ]
+        ],
+        "statistics": {
+            "membership": 75,
+            "ownership": 47,
+            "partnership": 39,
+            "family_relationship": 25
+        },
+        "correlated_entities": [
+            "Richard Perkins",
+            "Jonathan Garner",
+            "Andrew Gamble",
+            "3657479",
+            "28379",
+            "58",
+            "The Salty Pearl River S.p.A. Export",
+            "6204",
+            "854",
+            "2466",
+            "7298083",
+            "801809",
+            "Robert Edwards",
+            "4975",
+            "Rybachit Limited Liability Company",
+            "Elizabeth Welch",
+            "Noah Mitchell",
+            "Bryce Baker",
+            "Margaret Hodges",
+            "Benjamin Barton",
+            "687878",
+            "Roger Smith",
+            "Alyssa Mccoy",
+            "947",
+            "82379",
+            "14636",
+            "36",
+            "Brian Nelson",
+            "Brian Palmer",
+            "John Gonzalez",
+            "265700083",
+            "11960055",
+            "William Palmer",
+            "Michele Black",
+            "Zachary Blackburn",
+            "Manuel Hess",
+            "Charles Fitzgerald",
+            "Kari Zavala",
+            "Diao er Ltd. Corporation Transport",
+            "2262",
+            "Jeremy Norris",
+            "72092",
+            "Faroe Islands Shrimp Shark",
+            "9",
+            "697844686",
+            "Tiffany Stephens",
+            "Kimberly Lara",
+            "Charles OJSC Marine conservation",
+            "Laura Smith",
+            "Christian Ashley",
+            "0",
+            "Amanda Mckenzie",
+            "Claire Russell",
+            "Andrea Gibson",
+            "2508",
+            "Calvin Salas",
+            "Christopher Simon",
+            "Laurie Mclaughlin",
+            "214883455",
+            "39893",
+            "Curtis Grant",
+            "Scott Medina",
+            "43223",
+            "9820523",
+            "3506021",
+            "Maria Mitchell",
+            "Stephen Marks",
+            "505943",
+            "Spanish Shrimp  Carriers",
+            "160",
+            "903574229",
+            "665",
+            "Bryan King",
+            "Miranda Small",
+            "47679",
+            "png xi  Line",
+            "75471",
+            "Vanessa Avila",
+            "18",
+            "Christy Fields",
+            "369",
+            "Wendy Crane",
+            "Heather Porter",
+            "979893388",
+            "6",
+            "60774",
+            "55394387",
+            "Amanda Becker",
+            "Patricia Flores",
+            "34757443",
+            "Diana Dawson",
+            "Tristan Johnson",
+            "49",
+            "Shawna Welch",
+            "Carol Wade",
+            "7505050",
+            "64667049",
+            "576618",
+            "8814",
+            "Lindsey Conway",
+            "Kristen Martin",
+            "Martin Bryant",
+            "426469",
+            "300668979",
+            "1360",
+            "95",
+            "Mar del Oeste Pic",
+            "Robert Adams",
+            "Elizabeth Anderson",
+            "172114",
+            "Martin Jones",
+            "3782",
+            "277983365",
+            "491",
+            "46901627",
+            "John Barnes DDS",
+            "8698",
+            "891",
+            "31368",
+            "16306",
+            "874124852",
+            "Michael Brock",
+            "Danish Lobster Limited Liability Company Brothers",
+            "109746",
+            "551",
+            "Thomas Morales",
+            "87648111",
+            "9550",
+            "Morgan Black",
+            "897",
+            "2198",
+            "21240092",
+            "969368807",
+            "Daniel Snyder",
+            "1214936",
+            "Matthew Pennington",
+            "Nathaniel Shah",
+            "23",
+            "341411",
+            "Mario Richardson",
+            "2",
+            "Daniel Henderson",
+            "52",
+            "5246016",
+            "903311212",
+            "David Nunez MD",
+            "235866056",
+            "Michele Henry",
+            "Daniel Mason",
+            "Scania Seafaring SRL Express"
+        ]
+    },
+    "('AirPods', ['6 Ray LLC Enterprises'])": {
+        "relationships": [
+            [
+                "6 Ray LLC Enterprises",
+                "ownership",
+                "Michael Brock"
+            ]
+        ],
+        "statistics": {
+            "ownership": 1
+        },
+        "correlated_entities": [
+            "Michael Brock"
+        ]
+    },
+    "('Wartsila', '373a8a11-c7a0-4e9b-8397-9d824974259a', '87ea830d-be41-4317-8b1b-142f23da70d7')": {
+        "relationships": [
+            [
+                "87ea830d-be41-4317-8b1b-142f23da70d7",
+                "partnership",
+                "662118"
+            ],
+            [
+                "87ea830d-be41-4317-8b1b-142f23da70d7",
+                "ownership",
+                "Stephen Lowe"
+            ],
+            [
+                "87ea830d-be41-4317-8b1b-142f23da70d7",
+                "membership",
+                "Nicholas Hernandez"
+            ],
+            [
+                "87ea830d-be41-4317-8b1b-142f23da70d7",
+                "family_relationship",
+                "Stephanie Robinson"
+            ]
+        ],
+        "statistics": {
+            "partnership": 1,
+            "ownership": 1,
+            "membership": 1,
+            "family_relationship": 1
+        },
+        "correlated_entities": [
+            "Stephen Lowe",
+            "Nicholas Hernandez",
+            "662118",
+            "Stephanie Robinson"
+        ]
+    }
+}

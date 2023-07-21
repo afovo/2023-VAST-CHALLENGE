@@ -291,7 +291,295 @@ isphere：映射到3D球展示
 | 代码整理+debug（`性能提升`）【week16】                       | wjf    |
 | 同类型节点特征平均值（`另开一个页面画静态图`）               | txy    |
 | 有重边（key>0)的节点的邻居特征值（`另开一个页面画静态图`）   | ldy    |
-| 筛选器剩余功能：<br>1. 数字类型节点id筛选  <br>2. 邻居节点类型筛选+邻居直连边类型筛选   <br>3. 是否显示邻居之间的连边   <br>4. 出度入度范围筛选 | ll     |
+| 筛选器剩余功能：<br>1. 数字类型节点id筛选【】  <br>2. 邻居节点类型筛选+邻居直连边类型筛选   <br>3. 是否显示邻居之间的连边   <br>4. 出度入度范围筛选 | ll     |
 | 数据清洗&理解，id语义相同的节点的连接特征(`等筛选器完了人肉搜索`) |        |
 |                                                              |        |
+
+
+
+## 6.9
+
+| 进度                                                         | Member  |
+| ------------------------------------------------------------ | ------- |
+| 知识图谱数据挖掘<br>1. 属性的图结构的网络数据挖掘（18年之后， DL）<br>      半监督，点边的量比较少。但是相关的算法试一试【】 | pny     |
+| 有重边（key>0)的节点的邻居特征值<br>8833：company值很大，不跟organization连接 | ldy     |
+| 数字类型节点id筛选                                           | ll      |
+| 数据清洗&理解，id语义相同的节点的连接特征(`等筛选器完了人肉搜索`) |         |
+| 部署了，debug了                                              | yf, wjf |
+
+
+
+| ToDo                                                         | Member                                                       | DDL  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| 知识图谱数据挖掘仓库分头跑<br>【注意：①筛选数据集：3000点，10000边===10000点，10000+边②在共享文档写一点要点(<u>研究方向</u>：点，边，子图；<u>本地跑</u>：四个异常点跟它是否有关系)】<br><br />仓库：[](https://github.com/FelixDJC/Awesome-Graph-Anomaly-Detection)<br />博客：[](https://www.cnblogs.com/pny01/p/17469249.html)<br /> | <u>**仓库**</u>：<br />**1. Traditional Methods()**<br />**2. Deep Methods**<br />【Reconstruction】<br />【Reinforcement Learning】<br />【Generative Adversarial Network】<br />【Filter + One-class SVM + Meta Learning】<br />【Contrastive Learning】<br />【Hybrid Methods】<br />【Other Self-Supervised Learning】<br />【Others】<br />**2. Multi-View Static Graph<br />3. Others**<br /> |      |
+| 综述【A Comprehensive Survey on Graph Anomaly Detection with Deep Learning】：[](https://ieeexplore.ieee.org/document/9565320)<br />统计综述【Graph based anomaly detection and description: a survey】[](https://link.springer.com/article/10.1007/s10618-014-0365-y)<br /> | **<u>论文</u>**：<br />                                      |      |
+| **同类型节点特征平均值**（`另开一个页面画静态图`）           | pny                                                          |      |
+| 筛选器剩余功能：<br>1. 数字类型节点id筛选 【ToDo: 在重复的字符串前加个dup】<br>2. 邻居节点类型筛选+邻居直连边类型筛选 <br>3. 是否显示邻居之间的连边 <br>4. 出度入度范围筛选 | ll                                                           |      |
+| 数据清洗&理解，id语义相同的节点的连接特征(`等筛选器完了人肉搜索`) |                                                              |      |
+| bfs优化，拍平的数据导入数据库                                |                                                              |      |
+
+**?实际的点和边数量不同**
+
+
+
+**开会时间**：晚上九点开始   1个小时   多开
+
+
+
+## 6.16
+
+NLP (?)
+
+community detection：networkx 选几种 （modularity, ），结果交集，异常点community分布
+
+层次聚类DBSCAN
+
+数据清洗
+
+根据回答整合的综合界面
+
+
+
+## 6.19
+
+1. 对attribute的扩充（Deepwalk etc.)【wjf】
+
+2. PyGOD（留意版本，小样本debug+BOND论文）【ldy】
+3. 给受怀疑的四个点(or 排列组合）赋值做**page rank**（u出度5，每条边继承1/5权重），影响大的点值会更大+之前分的【txy】
+4. **之前分的** + 系统可视化的设计（读题"Use visual analytics to build a “contextualizer” that provides rich information for the entities listed below"）（关注算法的可解释性）【cl】
+5. 数据清洗【pny】
+6. community detection算法原理+标注anomaly【yf】
+
+
+
+MC2: 链路预测[带时序]
+
+MC3: IUU交易
+
+
+
+## 6.21
+
+**进度**：
+
+<u>pagerank大发现！！！！！！！</u>
+
+![](\img\pagerank.jpg)
+
+
+
+
+
+LINE:
+
+```
+if key == "Mar de la Vida OJSC":
+    f.write(str(node_id_map.get(key)) + ' 1' + '\n')
+elif key == "979893388":
+    f.write(str(node_id_map.get(key)) + ' 2' + '\n')
+elif key == "Oceanfront Oasis Inc Carriers":
+    f.write(str(node_id_map.get(key)) + ' 3' + '\n')
+elif key == "8327":
+    f.write(str(node_id_map.get(key)) + ' 4' + '\n')
+```
+
+![](\img\LINE.jpg)
+
+
+
+**MC1 Questions**：
+
+1. Use visual analytics to <u>dynamically display and explore context around the suspected entities listed above</u>. What did you learn about each one? Can you connect them to illegal fishing? Provide evidence for or against the case that each entity is involved in illegal fishing and use visual analytics to express confidence in your conclusions. Limit your response to 600 words and 6 images.
+
+   【egoNet+（语义信息可视化？把他们跟illegal fishing联系起来？）】
+
+2. Use your <u>visual analytics tool to compare and contrast what you learned about the suspect entities</u>. Are there <u>patterns that may indicate illegal activity</u>? Use visual analytics to express confidence that a pattern exists and where uncertainty may be affecting this confidence. Limit your response to 400 words and 4 images.
+
+   【pagerank 可视化 + attribute平行坐标系 + community detection&聚类】
+
+3. What other companies should FishEye investigate for illegal fishing? Show how your visual analytics can be used to find entities that are worthy of further investigation. Limit your response to 600 words and 6 images.
+
+   【pagerank 可视化 + attribute平行坐标系 + community detection&聚类】
+
+4. Reflection: What was the most difficult aspect of working with this knowledge graph? Did you have the tools and resources you needed to complete the challenge? What additional resources would have helped you? Limit your response to 300 words
+
+   
+
+**ToDo：**
+
+1. **另开一个页面做pagerank可视化筛选器**
+
+   [**拖拽pagerank值过滤显示**其大于某个值的点，观察他们的成环关系和**score流向**]【yf】【txy】【wjf】
+
+2. 调研看看第一问“contextualize”该咋办，怎么把他们跟illegal fishing通过egonet联系起来【ldy】
+
+3. 解决编码问题【cl】
+
+
+
+## 6.23
+
+
+
+**进展：**
+
+编码：中文双引号
+
+觉得pagerank不完全行，考虑<u>拿出**连通子图**</u>+<u>分出层级结构</u>做分析
+
+
+
+同类型多边？
+
+边相似点不相似的模仿行为？
+
+country？
+
+
+
+**ToDo:**
+
+1. 以知识图谱为中间产物的NLP调研一下，关注语义（country，movement，location）【ldy】
+
+2. 异常pattern统计：
+
+   <u>入度远大于出度的点的统计，同类型多边套皮的可能 etc.</u>【wjf】
+
+3. 把大图划成子连通分量，之后在异常点所在的连通块上重新**跑之前分的算法**【cl】
+
+4. community detection算法出一个结果和原理分析【yf】
+
+5. 和egonet配套的语义信息卡片【yf, txy, wjf】
+
+6. page rank可视化【-】
+
+7. **跑之前分的算法**，设计UI界面【txy】
+
+
+
+<u>**决定**：只做MC1</u>
+
+
+
+现有的：【pagerank为主线，其他算法下3388的表现，彼此相连，】
+
+
+
+## 6.26
+
+进度：
+
+1. 21个强（任两个点都可达）连通分量：Ocean front自己在一处，其他三个在最大的强连通分量里
+
+2. community detection结果：结果要push一下
+3. 知识图谱本身的异常检测，知识补全（算法，模型可以用？）
+4. 是否可以验证算法结果
+
+### TO-DO
+
+1. 分离弱连通分量（cl）
+
+2. pagerank在弱连通分量上跑，异常点检测算法是不是也跑一下？
+
+3. 知识图谱的异常检测（群里链接）
+
+   Pattern discovery and anomaly detection via knowledge graph
+   https://ieeexplore.ieee.org/abstract/document/8455737 (yf)
+
+   https://juejin.cn/post/7235557683448397880 知识图谱+openAI (wjf)
+
+   https://aclanthology.org/2020.acl-main.412.pdf 知识图谱+QA model (ldy)
+
+   https://zhuanlan.zhihu.com/p/332484010 知识图谱链路预测（边的异常检测）(cl)
+
+   https://zhuanlan.zhihu.com/p/381414265 (txy)
+
+4. 系统的优化（不要分页，不要拖太长，界面的布局更改地更标准）
+
+   1. 边和点的过滤
+   2. 在egonet中选中节点展示，其他隐藏（比如隐藏部分目标节点的一阶邻居的一阶邻居）
+
+5. 算法和可视化系统的结合，从可视化系统探索到pattern的方法
+
+6. 算法的结果可以通过计算比例验证？除了点以外是否还需要关注路径和子图
+
+7. 想法：统计三元组 (点A，边，点B）排列组合的类型，看在语义上是否有完全不可理解的或者可以结合IUU理解为异常的关系，进一步通过边的关系定义一定的异常程度，异常边连异常边-->更加可被考虑的异常路径-->尝试找到异常pattern (txy)
+
+8. 更多关于语义的探索 (observation.md大家有没有什么想法)，如何联系IUU
+
+
+
+
+## 6.30
+
+**进度**
+
+1. 系统debug和优化进行中
+2. 对语义的探索，手动列表可能不太行
+3. IUU定义
+4. 论文阅读
+5. 比较小的weight边的占比（都是fisheye出来的）
+
+**ToDo**
+
+1. 语义分析调研+实验（第一问），和pny讨论【wjf】
+2. 优化系统【yf】
+3. 四个可疑点所处连通分量+全图三元组 (点A，边，点B）排列组合的类型统计（同类型连边不同端点排列的占比，同类型端点不同连接的占比，在所有排列组合中的占比等等）【txy】
+4. 国家的分布，统计国内&跨国边；统计有哪些（直连国家的个人和公司的数量）小国家处在大的连通分量里【ldy】
+5. 四个可疑点环长度的统计+环里可疑点的数目【cl】
+
+
+
+## 7.3
+
+目前为止做的事：
+
+1. 系统核心的前端都写了！技术栈没有问题
+2. 跑了一些全局检测算法，但是效果不理想，继续**推进**一下在分量里/ego里跑的结果
+3. 要从egonet里解释一下IUU可疑之处，正在进行一些统计量的**探索**
+
+
+
+**ToDo**
+
+1. 第一问再看看【wjf】+ 分量里/ego里的mat数据，跑强化学习和graph embedding
+2. 优化系统（力导向一阶二阶分离，把同类型同方向的边合在一起），优化（现在还没画邻居之间的边）【yf】
+3. 四个可疑点所处连通分量+全图三元组 (点A，边，点B）排列组合的类型统计（同类型连边不同端点排列的占比，同类型端点不同连接的占比，在所有排列组合中的占比等等）【txy】
+4. 国家的分布，统计国内&跨国边；统计有哪些（直连国家的个人和公司的数量）小国家处在大的连通分量里（准备国家network图的数据[同类型边聚成簇，边权之和代表国家权重]）【ldy】
+5. 四个可疑点环长度的统计[以深度提前打断降低复杂度]+环里可疑点的数目【cl】
+
+白天一起干，晚上开小会同步进度
+
+[【知识图谱】Knowledge Graph Embedding: A Survey - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/106024679)
+
+| 日期 | 任务                                          | 人   |
+| ---- | --------------------------------------------- | ---- |
+| 7.4  | 尝试                                          |      |
+| 7.5  | 尝试                                          |      |
+| 7.6  | 系统设计+组件实现，不再做别的尝试，开始写解答 |      |
+| 7.7  | ——                                            |      |
+| 7.8  | ——                                            |      |
+| 7.9  | ——                                            |      |
+| 7.10 | ——                                            |      |
+| 7.11 | ——                                            |      |
+| 7.12 | ——                                            |      |
+| 7.13 | 中午两点前提交解答                            |      |
+
+
+
+## 7.7
+
+<u>Q1</u>
+
+**技术**
+
+1. 资料卡片
+2. egonet 优化（hover显示资料卡片，双击切换，单击点亮 ，渲染速度etc.)
+
+**解答**
+
+1. 构建**量化指标**，在图里做验证
+2. 组织答案
+
+<u>Q2</u>
 

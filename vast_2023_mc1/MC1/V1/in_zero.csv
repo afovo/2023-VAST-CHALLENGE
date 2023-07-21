@@ -1,0 +1,787 @@
+,type,dataset,country,id
+4,organization,MC1,,1017141
+10,unknown,MC1,,âvictimâ
+16,organization,MC1,,853949688
+18,organization,MC1,,8
+22,organization,MC1,,14253815
+27,organization,MC1,,506
+29,unknown,MC1,,âregularâ
+31,person,MC1,Osterivaria,Ann Daniels
+41,location,MC1,,445a6124-4650-4e5a-83bb-a0e0b4040ee9
+42,person,MC1,Country_271835,Martha Robbins
+70,organization,MC1,,955425
+72,organization,MC1,,8701038
+81,unknown,MC1,,â8â
+90,organization,MC1,,265700083
+95,location,MC1,,405ab2a5-68f0-4304-ab94-24c7995a248e
+98,political_organization,MC1,,68
+102,vessel,MC1,,Marine
+107,organization,MC1,,72
+109,location,MC1,,06430a2c-805a-4a76-bbda-2a24c0c860d7
+111,political_organization,MC1,,490653
+113,organization,MC1,,775298545
+129,organization,MC1,,9
+137,organization,MC1,,93873119
+138,person,MC1,Country_271835,Jeremy Cordova
+139,location,MC1,,602ea158-0519-47fc-badc-787721580418
+150,organization,MC1,,71835024
+153,organization,MC1,,78590886
+158,organization,MC1,,704138011
+160,organization,MC1,,66538530
+162,location,MC1,,ee05a28e-82ba-4f1d-a60f-68797a422ada
+163,political_organization,MC1,,82344
+176,person,MC1,Country_271835,Michael Smith
+180,person,MC1,Country_271835,Timothy Allen
+181,person,MC1,Riodelsol,Nathaniel Jimenez
+182,location,MC1,,3b728c8f-1eaa-4f16-8c63-d3bcffd437bb
+208,organization,MC1,,68703341
+216,person,MC1,Country_951683,Dakota Hansen
+219,organization,MC1,,9203
+225,unknown,MC1,,monthsâ
+228,person,MC1,Country_271835,Emily Johnson
+241,organization,MC1,,449308
+247,location,MC1,,3cda9d0b-77af-4e85-bef8-e935ca55ea06
+252,person,MC1,Country_271835,Debbie Daniel
+254,organization,MC1,,26261586
+257,organization,MC1,,85052185
+258,organization,MC1,,48605
+264,person,MC1,Country_271835,Jennifer Price
+265,political_organization,MC1,,653505420
+273,location,MC1,,6d249c4d-1f62-4ab2-b107-8fd978f115c7
+279,organization,MC1,,1396
+283,event,MC1,,arts
+292,unknown,MC1,,189
+294,organization,MC1,,737205
+296,organization,MC1,,5705060
+298,company,MC1,Country_271835,Belgian Scallop Ltd. Liability Co
+301,person,MC1,Country_271835,Ryan Williams
+306,person,MC1,Country_271835,Randy Collins
+309,organization,MC1,,40690
+311,person,MC1,Oceanus,Jennifer Alvarez
+314,company,MC1,Country_271835,Norwegian Shrimp Ltd. Liability Co
+316,organization,MC1,,4783
+317,person,MC1,Country_271835,Timothy Estrada
+318,event,MC1,,ten
+319,location,MC1,,e2816018-e01c-4eac-8dc5-e84aebc22cff
+324,political_organization,MC1,,12845006
+326,person,MC1,Merigrad,Lauren Moore
+328,unknown,MC1,,Leominster Provincetownâ
+329,location,MC1,,371bf15a-3000-499a-88e4-cc096b028ec7
+334,organization,MC1,,53073557
+338,person,MC1,Country_19028,Albert Thomas
+341,person,MC1,Country_271835,Kyle Stanton
+345,location,MC1,,5a52675e-1243-4244-ad55-85a06c4408de
+346,person,MC1,Oceanus,Stephanie Hinton
+348,organization,MC1,,70873
+354,organization,MC1,,47562016
+370,location,MC1,,1076f239-831c-4c53-9134-484c8f2d5c73
+372,location,MC1,,9e2e5adf-b6aa-4e7f-9af1-a899ceccfba6
+374,organization,MC1,,46510923
+380,organization,MC1,,98748
+387,organization,MC1,,222848436
+393,vessel,MC1,,Coast
+396,event,MC1,,June year
+401,person,MC1,Country_271835,Michael Nicholson
+406,location,MC1,,df365f60-c399-42f5-ad38-736145edef5e
+412,location,MC1,,a7d22b55-872d-4fc0-b1ea-935f63ce0d2a
+415,person,MC1,Country_245265,Erik Johnson
+419,unknown,MC1,,œÆï
+475,location,MC1,,5961c4ed-5c5b-40e4-b0ab-1e0217cb12c0
+480,organization,MC1,,2056
+482,organization,MC1,,579919
+483,vessel,MC1,,Ocean Tuna
+487,organization,MC1,,951
+491,event,MC1,,10
+493,person,MC1,Country_271835,Diana Brandt
+496,location,MC1,,1a069318-6dc0-45d0-9948-7b846f61c201
+499,organization,MC1,,36295
+500,location,MC1,,a7a35f33-3e72-44f2-a51b-922e44da23bc
+506,event,MC1,,Octopus
+507,organization,MC1,,60253
+516,event,MC1,,âSocioeconomic
+517,organization,MC1,,553309
+544,person,MC1,Quandoria,Miss Jessica Baker DVM
+546,location,MC1,,4b6a1701-93c3-403c-bd2f-9684106e8bba
+549,person,MC1,Country_271835,Jeffrey Yates
+550,location,MC1,,42aea61e-a98f-4528-9f30-51624ecf3957
+551,organization,MC1,,1334578
+554,movement,MC1,,conjunction
+567,person,MC1,Country_874023,Erica Mitchell
+576,organization,MC1,,13863
+577,person,MC1,Country_271835,James Smith MD
+581,organization,MC1,,1465792
+583,organization,MC1,,19386200
+590,political_organization,MC1,,327481624
+591,location,MC1,,cf651b3c-4e21-458c-91c4-3cae2eb36bcb
+592,location,MC1,,17c99d9d-7049-4ebb-8a2a-f3d39cc42870
+593,organization,MC1,,760402
+595,vessel,MC1,,Water
+597,location,MC1,,77bfcfcd-af2c-4b58-8a99-871a6c6109f2
+603,organization,MC1,,25423
+604,company,MC1,Country_271835,Delhi ers AS Holdings
+605,company,MC1,Country_271835,Cape of Good Hope  Oyj
+606,location,MC1,,abcb0d9c-80da-4491-99f3-e093984f5373
+608,unknown,MC1,,LOMÃ
+609,location,MC1,,6ae0d6bb-b101-4905-8b41-86b10a580c82
+613,location,MC1,,05ef2661-6f3a-4f37-83e7-2ec8352afaef
+616,location,MC1,,fc4e853f-6e18-4631-bf95-f70d6a30579f
+620,location,MC1,,705283b0-cdb7-4f0a-8481-b3fea243a8e5
+624,vessel,MC1,,Boat
+630,location,MC1,,4e872202-1d65-4183-80c9-e8c12c8f736e
+632,organization,MC1,,7320771
+634,political_organization,MC1,,969
+641,company,MC1,Country_766259,Estrella de la Costa Inc Transit
+653,location,MC1,,aa1f466d-d060-40fa-ab0e-3f8bb2ca940f
+659,company,MC1,Country_271835,Zambezi Rapids NV Brothers
+662,location,MC1,,f402c1d2-8262-4bae-aa92-c8675a7006fc
+664,organization,MC1,,9209373
+676,location,MC1,,47967ccc-0e26-458d-b1e5-80e8668db714
+681,organization,MC1,,42603647
+695,organization,MC1,,45
+696,location,MC1,,c14a3dc1-59d0-4b92-b9f3-331e51912787
+698,person,MC1,Oceanus,Christopher Peterson
+702,organization,MC1,,90183
+707,organization,MC1,,7871
+712,movement,MC1,,normal
+716,person,MC1,Polarisdom,Christina Olsen
+717,unknown,MC1,,DiÃ
+722,organization,MC1,,27641046
+723,location,MC1,,e167b40a-96f4-40e0-873b-78950e4434f4
+733,person,MC1,Country_271835,Hunter Wheeler
+737,unknown,MC1,,Think Tank Index Reportâ
+740,location,MC1,,2ceda972-c633-4a88-bbe8-a4fe48cb5555
+744,organization,MC1,,890
+746,company,MC1,Country_271835,Senegal Coast Oyj Motorboat
+748,vessel,MC1,,Spy
+750,political_organization,MC1,,228
+759,organization,MC1,,7529
+762,person,MC1,Country_415128,Joseph Johnson
+771,person,MC1,Marebak,Stephen Evans
+773,location,MC1,,23550059-88d4-4a69-b74e-3c7de8bf56de
+784,person,MC1,Country_483478,Courtney Evans
+787,location,MC1,,1196cfc8-175c-465b-aee9-fbf74c81aa49
+792,person,MC1,Country_271835,David Hayden
+799,event,MC1,,âSwiss
+809,organization,MC1,,66030248
+822,unknown,MC1,,The Pew Charitable Trustsâ
+826,organization,MC1,,1402
+828,organization,MC1,,25125567
+834,organization,MC1,,56126935
+840,person,MC1,Country_271835,Christopher Daniel
+844,person,MC1,Oceanus,Kristine Vaughn
+847,organization,MC1,,496391
+849,location,MC1,,8afc9cb6-edf5-4a7d-9a02-054444a5604e
+853,person,MC1,Country_271835,Christine Jones
+861,person,MC1,Country_271835,Robert Adams
+868,organization,MC1,,243964
+874,location,MC1,,e13aca6a-88b5-4be7-a293-4a57854d7b1d
+877,organization,MC1,,441
+878,person,MC1,Country_271835,Bethany Wright
+880,person,MC1,Country_271835,Jennifer Meyers
+884,person,MC1,Ivarisia,Bruce Brooks
+892,organization,MC1,,3016
+898,organization,MC1,,341853
+903,person,MC1,Country_204272,Timothy Lopez
+905,person,MC1,Country_204272,David Larsen
+906,political_organization,MC1,,706129
+907,organization,MC1,,14
+917,person,MC1,Country_800653,Mr. Mark Kline
+919,organization,MC1,,842229565
+920,person,MC1,Country_271835,Dylan Roberts
+928,person,MC1,Country_271835,Kathy Rodriguez
+931,vessel,MC1,,Oceans
+933,location,MC1,,7c54563c-577c-462f-8e30-389b510c776a
+934,event,MC1,,Morning
+938,location,MC1,,72899187-0989-47fa-9db0-cd1d4c3fc4e3
+943,person,MC1,Country_271835,Dylan Moss
+950,location,MC1,,ec1b111d-b9eb-4eef-ab00-ff7124cca480
+954,organization,MC1,,7328
+962,organization,MC1,,61057213
+964,location,MC1,,473c1320-e50b-4f90-a068-76f82e210f26
+968,organization,MC1,,678
+971,organization,MC1,,346281879
+978,location,MC1,,8041aa28-8c50-4083-a528-469c0c6251d9
+981,location,MC1,,34f0cbbf-83c3-4e09-ad7a-b94a778f7c12
+983,person,MC1,Country_271835,Madison Edwards
+989,location,MC1,,2a282617-d174-409c-b0b1-490fdc369335
+990,company,MC1,Country_271835,xu y Ltd. Corporation
+995,organization,MC1,,21724
+1004,location,MC1,,a39483f8-121a-4c18-9b20-9e0d2cba52e9
+1007,person,MC1,Country_709784,Anita Tate
+1015,person,MC1,Oceanus,Audrey Romero
+1018,organization,MC1,,13
+1020,vessel,MC1,,reefers
+1031,vessel,MC1,,Maru
+1033,organization,MC1,,60693571
+1048,person,MC1,Country_271835,Stephanie Quinn
+1049,organization,MC1,,9590898
+1053,organization,MC1,,7234
+1058,person,MC1,Country_271835,Mary Jenkins
+1061,person,MC1,Luminsia,Nicole Smith
+1062,organization,MC1,,9992346
+1066,political_organization,MC1,,79
+1069,organization,MC1,,3782
+1073,person,MC1,Country_271835,Cynthia Byrd
+1074,person,MC1,Country_271835,Christopher Hernandez
+1075,organization,MC1,,58666504
+1077,organization,MC1,,70347729
+1080,organization,MC1,,613465161
+1086,organization,MC1,,353149780
+1091,location,MC1,,67f3755e-7f86-40a1-ae17-998d50a3e772
+1094,person,MC1,Country_271835,Jessica Owens
+1098,vessel,MC1,,reefer
+1101,organization,MC1,,8732
+1104,organization,MC1,,6038
+1106,organization,MC1,,6274
+1111,organization,MC1,,615043
+1116,person,MC1,Country_271835,Chris Grant
+1118,organization,MC1,,67909
+1120,organization,MC1,,1012
+1121,person,MC1,Country_271835,Katelyn Gibson
+1123,organization,MC1,,724
+1124,organization,MC1,,824
+1132,political_organization,MC1,,2653581
+1136,location,MC1,,1f899410-3447-48e7-bcb3-cbff10619e86
+1137,organization,MC1,,39048624
+1148,person,MC1,Country_990614,Darren Wilson
+1154,organization,MC1,,42258
+1155,organization,MC1,,506986590
+1158,organization,MC1,,272735814
+1160,company,MC1,Country_283574,Dry Creek Marine sanctuary
+1164,person,MC1,Country_271835,Philip Black
+1166,organization,MC1,,7548555
+1178,person,MC1,Oceanus,Rebecca Fox
+1180,company,MC1,Country_271835,Charles OJSC Marine conservation
+1182,company,MC1,Ariuzima,Caracola Azul Limited Liability Company
+1184,location,MC1,,d6968538-6f18-4a1c-a4e2-59de3c0e25c2
+1188,person,MC1,Country_271835,James Sampson
+1190,organization,MC1,,135024
+1193,person,MC1,Country_271835,Allison Rodgers
+1196,company,MC1,Country_271835,OceanFront Foods Co Beach
+1201,organization,MC1,,81661977
+1203,organization,MC1,,24189
+1207,organization,MC1,,64365043
+1208,location,MC1,,06c161ac-e601-493f-b8df-839382e16a74
+1210,location,MC1,,e5e2e269-ccc5-4e16-88a8-e909c1fa32db
+1212,organization,MC1,,4258240
+1213,person,MC1,Country_271835,Julie Parks
+1214,organization,MC1,,891
+1220,vessel,MC1,,USS Hurricane
+1223,person,MC1,Country_271835,Tara Hanson
+1229,organization,MC1,,6126134
+1235,organization,MC1,,7480
+1237,organization,MC1,,4769248
+1240,location,MC1,,97836b65-db6a-43bf-9467-cf57d84645ff
+1245,vessel,MC1,,Long Xing 629
+1248,person,MC1,Marebak,Anthony Le
+1252,organization,MC1,,868
+1255,person,MC1,Country_271835,Michael Wagner
+1258,person,MC1,Country_271835,Jennifer Thompson
+1260,person,MC1,Country_271835,Hannah Chandler
+1261,vessel,MC1,,Deckhands
+1266,location,MC1,,ecf18ac9-a773-43a0-98c8-cdd264565b2f
+1284,person,MC1,Country_271835,Joseph Newman
+1288,political_organization,MC1,,91
+1289,political_organization,MC1,,20
+1293,organization,MC1,,3553
+1294,organization,MC1,,72875
+1297,person,MC1,Country_443882,Heidi Kline
+1308,organization,MC1,,4679
+1310,person,MC1,Country_271835,Andre Phillips
+1315,organization,MC1,,11
+1316,person,MC1,Country_271835,Tanner Smith
+1328,vessel,MC1,,HMAS
+1331,organization,MC1,,2114
+1332,organization,MC1,,34020206
+1336,unknown,MC1,,Sampath
+1338,person,MC1,Country_271835,Anna Johnson
+1341,organization,MC1,,760219951
+1345,location,MC1,,6b58646e-1d3a-4b72-b8a0-9f57c296d73d
+1346,organization,MC1,,9357541
+1350,person,MC1,Country_271835,Christine Chaney
+1351,organization,MC1,,8226730
+1355,organization,MC1,,75
+1357,organization,MC1,,911243414
+1359,location,MC1,,cc6cf3e0-5794-4497-a31d-79b4db1b55a9
+1369,organization,MC1,,55301
+1372,organization,MC1,,604905
+1380,organization,MC1,,82462633
+1383,person,MC1,Country_338923,Breanna Ward
+1400,organization,MC1,,307
+1409,person,MC1,Country_271835,Luis Douglas
+1411,person,MC1,Country_271835,Fernando Steele
+1414,location,MC1,,e39609a3-b437-41c2-b114-e21dc69a9bb1
+1425,person,MC1,Kethanor,Teresa Gardner
+1428,person,MC1,Country_271835,Ricky Holland
+1433,organization,MC1,,650749
+1434,person,MC1,Country_271835,Shawna Welch
+1437,organization,MC1,,89526932
+1443,location,MC1,,c66f5cd5-3891-43ce-a3f8-0147b3d643b1
+1446,person,MC1,Country_271835,Frederick Harris
+1451,organization,MC1,,245658
+1453,person,MC1,Country_271835,Brian Stevens
+1455,location,MC1,,e4e5b1ca-e210-4d3f-8cea-fa5c2309340f
+1464,vessel,MC1,,FV
+1472,unknown,MC1,,âdiscriminationâ
+1474,location,MC1,,da7677f8-d1f0-4e35-afe9-4240613e866b
+1476,person,MC1,Mawazam,Rhonda Sullivan
+1477,person,MC1,Country_216139,Adam Gutierrez
+1480,organization,MC1,,555
+1482,organization,MC1,,683113035
+1483,unknown,MC1,,th
+1492,person,MC1,Oceanus,Richard Bowers
+1496,organization,MC1,,47698
+1501,organization,MC1,,10880329
+1504,location,MC1,,e941d006-6590-4143-9d0d-12926b0b6f5c
+1506,person,MC1,Country_271835,Shawn Cook
+1517,event,MC1,,âcatch
+1519,company,MC1,Country_675160,Manipur Market AG Consultants
+1521,location,MC1,,04eab3c4-ed99-467b-8844-b5279a6b955e
+1522,organization,MC1,,5312744
+1534,unknown,MC1,,Seafreeze Ltd
+1543,company,MC1,Oceanus,Shona Barracuda AB Worldwide
+1544,organization,MC1,,415053
+1546,person,MC1,Country_271835,Olivia Bradshaw
+1549,unknown,MC1,,âyesterdayâ
+1553,person,MC1,Country_271835,Bradley Murphy
+1563,unknown,MC1,,4âÃâ15â
+1566,vessel,MC1,,bottom otter trawler
+1578,organization,MC1,,779
+1582,organization,MC1,,428
+1588,unknown,MC1,,FlodstrÃ
+1593,organization,MC1,,9636
+1594,organization,MC1,,449
+1597,vessel,MC1,,Michelle
+1599,political_organization,MC1,,72212757
+1606,person,MC1,Country_271835,Darren Torres
+1610,location,MC1,,85b8a8cf-7f07-4bab-8b44-1d79940aab8d
+1617,organization,MC1,,41713
+1618,organization,MC1,,900338
+1620,organization,MC1,,1341798
+1626,organization,MC1,,614
+1632,organization,MC1,,3857345
+1645,organization,MC1,,203
+1647,organization,MC1,,9838
+1652,vessel,MC1,,Boston
+1658,person,MC1,Country_271835,Bobby Walker
+1659,political_organization,MC1,,221942
+1661,location,MC1,,634ac4e7-12af-494f-95f5-cd853363525f
+1666,organization,MC1,,112156579
+1671,organization,MC1,,327277616
+1673,person,MC1,Country_271835,Benjamin Barton
+1676,location,MC1,,f85f009e-0fa0-403a-845e-64198883bf34
+1678,person,MC1,Country_271835,Stephanie Brown
+1682,organization,MC1,,9238420
+1683,political_organization,MC1,,70109
+1684,vessel,MC1,,underwater
+1689,organization,MC1,,13249468
+1692,person,MC1,Country_271835,Debbie Kelley
+1695,person,MC1,Oceanus,Joshua Haynes
+1696,organization,MC1,,682313
+1697,political_organization,MC1,,300
+1698,person,MC1,Country_271835,Krystal Foster
+1700,political_organization,MC1,,37992687
+1703,organization,MC1,,303934
+1708,person,MC1,Country_271835,Blake Smith
+1710,organization,MC1,,1338687
+1713,organization,MC1,,1765605
+1717,unknown,MC1,,âpoachedâ
+1720,person,MC1,Country_271835,Matthew Mack
+1729,person,MC1,Country_271835,Robert Goodman
+1731,person,MC1,Country_271835,Mary Durham
+1732,person,MC1,Country_271835,Anna Kelly
+1736,political_organization,MC1,,59600
+1743,organization,MC1,,34285153
+1748,organization,MC1,,95743666
+1752,company,MC1,Country_322527,Diao yu bi sai Tidal BV Export
+1754,organization,MC1,,74505
+1759,person,MC1,Country_271835,Christina Abbott
+1761,political_organization,MC1,,519443204
+1764,person,MC1,Country_256617,Brittany Kane
+1768,vessel,MC1,,whales
+1772,person,MC1,Rio Solovia,Zachary Mclean
+1774,organization,MC1,,806
+1775,event,MC1,,Hubble
+1780,vessel,MC1,,Spaceflight
+1785,vessel,MC1,,HawkEye
+1789,location,MC1,,416dab02-bf67-48af-a99b-c691339dc5e0
+1792,company,MC1,Country_271835,Madhya Pradesh Market Pic Transportation
+1798,organization,MC1,,8967466
+1804,person,MC1,Country_712875,Wendy Miller
+1805,vessel,MC1,,Abrams MIA2
+1814,organization,MC1,,1252007
+1818,person,MC1,Country_996415,Danielle Sosa
+1822,organization,MC1,,15758645
+1833,political_organization,MC1,,428949
+1840,person,MC1,Country_271835,Jennifer Washington
+1853,location,MC1,,65872b93-db53-4445-a72e-8f84b3d7edfc
+1862,organization,MC1,,620019
+1866,person,MC1,Country_271835,Heather King
+1871,location,MC1,,96c31987-d50d-4680-9397-2a9d0e3946e1
+1873,location,MC1,,c0ea9f29-9987-490f-bc96-d2a5718c1636
+1877,political_organization,MC1,,82357
+1878,person,MC1,Country_271835,Ariel Thornton
+1884,person,MC1,Country_271835,Jason Fleming
+1887,person,MC1,Country_271835,Cynthia Huff
+1894,person,MC1,Country_271835,Patricia Reyes
+1903,organization,MC1,,4532329
+1906,organization,MC1,,5698
+1915,organization,MC1,,280094
+1916,organization,MC1,,40676
+1920,organization,MC1,,669
+1931,organization,MC1,,730397695
+1934,location,MC1,,373a8a11-c7a0-4e9b-8397-9d824974259a
+1947,person,MC1,Country_271835,Daniel Henderson
+1952,person,MC1,Country_271835,Darin Torres
+1953,person,MC1,Country_271835,Tracy Rogers
+1958,location,MC1,,cdc89aad-5d8c-48bf-b155-81d2a932782b
+1964,organization,MC1,,322202416
+1968,organization,MC1,,89
+1971,organization,MC1,,62
+1974,event,MC1,,Hunt
+1975,location,MC1,,0efa50f3-533d-4775-94fa-54cd1c480587
+1978,organization,MC1,,542341
+1981,organization,MC1,,1719
+1983,organization,MC1,,8876768
+1985,person,MC1,Country_271835,Denise Vance
+1986,person,MC1,Oceanterra,Zachary Perez
+1989,organization,MC1,,64778548
+1999,organization,MC1,,534
+2001,organization,MC1,,884332
+2006,company,MC1,Country_271835,Malawi Rift  Holdings Navigation
+2011,person,MC1,Helixia,John Jensen
+2013,organization,MC1,,401289940
+2014,organization,MC1,,54726
+2018,organization,MC1,,1555
+2021,location,MC1,,111274e2-c155-4640-9a8e-f506f3fbca06
+2023,organization,MC1,,2234557
+2024,organization,MC1,,7125
+2030,person,MC1,Country_271835,Andrew Graves
+2037,unknown,MC1,,âbe
+2048,organization,MC1,,42978392
+2050,location,MC1,,74390fc5-8dc6-4511-a0a8-bc360409b805
+2052,person,MC1,Country_271835,Kevin Liu
+2059,person,MC1,Oceanus,Rebecca Caldwell
+2067,organization,MC1,,76030
+2077,location,MC1,,8b8c532f-0ca0-44cc-898c-1d776f2f457a
+2081,person,MC1,Country_271835,Anthony Larson
+2086,person,MC1,Country_12955,Debra Hall
+2091,person,MC1,Country_271835,Michelle Long
+2092,unknown,MC1,,âlaughableâ
+2093,organization,MC1,,8325
+2112,organization,MC1,,2362
+2114,location,MC1,,7311cf88-bac1-4ac9-a0d2-c55c02497944
+2118,organization,MC1,,519852438
+2121,person,MC1,Country_271835,Jeffrey Strong
+2139,person,MC1,Country_271835,Kathryn Gomez
+2141,person,MC1,Nalakond,Lisa Ward
+2153,person,MC1,Country_271835,Mrs. Katherine Clark
+2161,location,MC1,,bc583d11-794a-4a83-abc8-3daa208e1262
+2163,political_organization,MC1,,8634589
+2167,location,MC1,,9b5a90cf-e801-46a8-bd50-879ab3862c67
+2171,location,MC1,,76b8e150-91b4-494d-8ef6-6af706b397eb
+2174,person,MC1,Oceanus,James Valencia
+2175,organization,MC1,,798
+2177,person,MC1,Country_247330,Barry Harris
+2181,organization,MC1,,61679
+2184,organization,MC1,,800578
+2186,unknown,MC1,,Attorneysâ
+2187,organization,MC1,,4332001
+2190,organization,MC1,,402
+2194,person,MC1,Oceanus,Sean Wilson
+2196,organization,MC1,,218148
+2198,location,MC1,,decfc924-5bdc-4fba-8bbd-bb57d8d478d9
+2201,company,MC1,Polarisdom,Estrella del Mar Inc Merchants
+2208,person,MC1,Country_271835,Olivia Garner
+2209,person,MC1,Country_271835,Scott Johnson
+2211,person,MC1,Country_271835,Carlos Rose
+2213,person,MC1,Country_271835,Amber Green
+2218,organization,MC1,,4205
+2220,political_organization,MC1,,789040
+2226,location,MC1,,5fddadd0-71e7-4bdf-a471-daddd5f376b8
+2229,location,MC1,,4b0f0611-34ce-4733-81af-391943e272c0
+2232,political_organization,MC1,,71084
+2236,location,MC1,,24e1e725-9a8e-489c-bbdd-0ce140fd6e3b
+2241,location,MC1,,04943c53-b4ac-4048-8d86-bced4138d7c6
+2245,organization,MC1,,32
+2247,organization,MC1,,88295922
+2251,location,MC1,,6d0e9c69-47a0-497e-b26e-28755c949385
+2252,organization,MC1,,54055
+2253,person,MC1,Oceanus,Brett Blair
+2257,location,MC1,,57c81b3c-882b-4824-91a0-7114be0fa5c7
+2262,organization,MC1,,5362
+2269,organization,MC1,,111856
+2270,location,MC1,,88b35c10-45ae-4ded-ae4a-6cad038cfd91
+2275,location,MC1,,90be60b1-61d8-4115-b133-e4c8e09383eb
+2281,location,MC1,,e2844e89-d2d8-428d-8284-a0f2d9450a14
+2282,organization,MC1,,4406
+2283,location,MC1,,ed114149-9468-41b4-adda-343883e79e04
+2287,organization,MC1,,765078
+2294,organization,MC1,,4852
+2298,location,MC1,,14f1538d-29ed-43f4-ac8f-7a6ce01b9c00
+2304,person,MC1,Country_945731,Linda Jones
+2308,organization,MC1,,739622
+2312,person,MC1,Country_760479,Meghan Johnson
+2313,person,MC1,Country_753331,Cody Baird
+2314,person,MC1,Puerto del Mar,Mark Norton
+2319,movement,MC1,,60-day
+2323,location,MC1,,092836e4-7218-4d3d-85da-9df420356be7
+2331,person,MC1,Oceanterra,Timothy Benjamin
+2362,person,MC1,Country_271835,Evelyn Pacheco
+2364,organization,MC1,,914
+2365,person,MC1,Country_271835,Brooke Collins
+2370,person,MC1,Country_271835,Randall Newman
+2373,unknown,MC1,,âPerlaâ
+2375,person,MC1,Country_271835,Gina Armstrong DDS
+2381,person,MC1,Country_907876,Jeanne Mills
+2385,person,MC1,Country_271835,Richard Fleming
+2389,location,MC1,,b1d6e468-f3c5-45f3-90a2-e76b2f329b2d
+2401,person,MC1,Country_271835,Larry Morrow
+2403,organization,MC1,,773
+2408,unknown,MC1,,siladityaray
+2409,political_organization,MC1,,82517
+2411,person,MC1,Country_663412,Jim Sims
+2412,person,MC1,Country_663412,Laura Patterson
+2415,organization,MC1,,7674777
+2417,organization,MC1,,8302
+2418,organization,MC1,,45620
+2419,company,MC1,Country_663412,Jammu & Kashmir ship
+2420,political_organization,MC1,,6352
+2430,political_organization,MC1,,176
+2432,person,MC1,Country_226679,Danielle Jensen
+2436,organization,MC1,,139
+2439,political_organization,MC1,,150486480
+2444,unknown,MC1,,Ð°Ñ
+2448,person,MC1,Country_271835,Richard Anderson
+2452,political_organization,MC1,,94047
+2466,organization,MC1,,82207154
+2469,organization,MC1,,3657479
+2474,unknown,MC1,,The Defendantsâ
+2476,organization,MC1,,7443
+2479,person,MC1,Country_246944,Tiffany Stephens
+2480,person,MC1,Country_271835,Veronica Lowe
+2493,location,MC1,,6ffd3349-37f4-48c5-bc9a-1b80e722e939
+2494,political_organization,MC1,,2745
+2505,unknown,MC1,,PÃ
+2506,organization,MC1,,82651
+2507,location,MC1,,2ec12718-97bf-45a6-aff5-2d1b9b11d29a
+2510,person,MC1,Country_271835,Chelsey Woodard
+2512,person,MC1,Country_271835,Michael Alvarez
+2514,person,MC1,Country_746165,Timothy Hampton
+2516,organization,MC1,,72630
+2520,organization,MC1,,2912063
+2527,company,MC1,Country_271835,Greek Sea Bream and Son's
+2536,organization,MC1,,17353795
+2542,organization,MC1,,352
+2545,movement,MC1,,In month
+2553,person,MC1,Country_271835,Nicholas Nguyen
+2554,person,MC1,Country_271835,Vincent Cummings
+2558,organization,MC1,,109071721
+2560,political_organization,MC1,,296837
+2561,person,MC1,Country_271835,Laura Williams
+2566,person,MC1,Country_271835,James Thomas
+2568,unknown,MC1,,âillegalâ
+2570,organization,MC1,,400
+2571,organization,MC1,,2430986
+2573,organization,MC1,,92533
+2582,person,MC1,Country_746165,Thomas Ramsey
+2594,organization,MC1,,64545
+2596,organization,MC1,,3383
+2598,person,MC1,Country_271835,Jason Garcia
+2599,person,MC1,Country_670336,Melissa Gonzalez
+2600,company,MC1,Country_246944,Pregolya Delivery Cruise ship
+2605,unknown,MC1,,âtigerâ
+2608,person,MC1,Country_271835,Rebecca Anderson
+2613,organization,MC1,,176729
+2616,person,MC1,Puerto del Mar,Kaitlyn Walsh
+2625,organization,MC1,,200
+2629,political_organization,MC1,,76104890
+2637,person,MC1,Country_271835,David Romero
+2638,location,MC1,,a691bc0a-cfdc-4b2a-a38e-efcd2799ecd1
+2647,organization,MC1,,198
+2655,person,MC1,Country_271835,Tamara Tyler
+2657,person,MC1,Country_271835,Elizabeth Armstrong
+2659,organization,MC1,,51470600
+2660,organization,MC1,,719
+2662,organization,MC1,,74026296
+2667,organization,MC1,,649
+2668,person,MC1,Country_271835,Donna Green
+2670,organization,MC1,,96049794
+2671,vessel,MC1,,truck
+2672,location,MC1,,d6d0741c-39d9-4b94-8b39-b5d2ad1669b9
+2674,person,MC1,Country_271835,Thomas Watkins
+2676,person,MC1,Country_271835,Joshua Park
+2681,organization,MC1,,455617
+2682,person,MC1,Country_271835,Dale Chandler
+2689,political_organization,MC1,,836
+2692,political_organization,MC1,,12358151
+2696,organization,MC1,,62532
+2699,person,MC1,Country_19028,Carmen Mendez
+2703,location,MC1,,dffd75ca-7510-403d-a6a0-f904b0c7b41d
+2706,location,MC1,,9ce492a2-de6e-4231-a018-318fc929908b
+2707,location,MC1,,ffb63251-ebdc-4346-b3a4-ef1515310806
+2710,unknown,MC1,,âDuare Rationâ
+2715,location,MC1,,b400d237-4d56-4de8-917a-8e7654ccf315
+2717,location,MC1,,2eeca6e0-f5a7-4b9d-8b3e-ada56d140e36
+2718,person,MC1,Country_271835,Jose Parker
+2720,location,MC1,,cd7cb49f-0021-4fe9-a3a9-cc8b3fce0c57
+2727,organization,MC1,,404
+2728,location,MC1,,569767ed-015f-4cb9-a316-2db45fbf6cf3
+2731,person,MC1,Country_271835,Eddie Alexander
+2737,political_organization,MC1,,92616021
+2741,location,MC1,,d37a5a00-fca1-4753-890c-6975c311dc3f
+2748,person,MC1,Country_271835,Kevin Daniel
+2749,person,MC1,Country_271835,Lucas Williamson
+2751,political_organization,MC1,,2330
+2754,person,MC1,Ivarisia,Lisa Lewis
+2755,location,MC1,,3882e922-25e9-446d-8e04-97e8875fceb2
+2757,political_organization,MC1,,878521
+2758,person,MC1,Country_271835,Robert Chang
+2762,person,MC1,Rio Isla,Tom Bauer
+2763,person,MC1,Country_271835,Leslie Wood
+2768,organization,MC1,,4524860
+2770,political_organization,MC1,,59409
+2774,organization,MC1,,24996
+2790,person,MC1,Marebak,Maria Jackson
+2792,location,MC1,,d0842009-cbf1-4df2-adfa-121a82160a05
+2794,location,MC1,,449856a6-3b60-46ca-b825-f9499558fa3a
+2800,person,MC1,Country_271835,Gina Knox
+2804,person,MC1,Country_271835,Charles Duke
+2809,person,MC1,Country_271835,Teresa Hansen
+2812,person,MC1,Country_271835,Alexandra Jackson
+2813,person,MC1,Country_271835,Lauren Sanchez
+2819,person,MC1,Country_271835,Emily Smith
+2820,person,MC1,Country_271835,Megan Gonzales
+2821,person,MC1,Country_271835,Kenneth Warren
+2822,person,MC1,Country_271835,Edward Winters
+2823,person,MC1,Country_271835,Emily Stevens
+2824,person,MC1,Country_271835,Gabrielle Wright
+2825,person,MC1,Country_271835,Erika Carter
+2826,person,MC1,Country_271835,James Johnson
+2827,person,MC1,Country_271835,Brandi Johnson
+2828,event,MC1,,Storm
+2832,person,MC1,Country_271835,Diane Forbes
+2839,person,MC1,Country_271835,Eric Roman
+2842,location,MC1,,1f8c20da-5f20-4116-907a-a653089bb8a0
+2844,organization,MC1,,5199
+2855,location,MC1,,17de5508-cf65-4e04-9bdd-acba951afe7a
+2857,organization,MC1,,33210
+2858,location,MC1,,88d63621-4f58-4c7e-a02d-589cefb3a6be
+2862,person,MC1,Country_271835,Lucas Adams
+2871,organization,MC1,,72092
+2881,person,MC1,Country_271835,Martin Jones
+2883,organization,MC1,,95850
+2886,political_organization,MC1,,45310570
+2888,political_organization,MC1,,598
+2894,organization,MC1,,753
+2895,person,MC1,Country_271835,Chad Ruiz
+2896,organization,MC1,,687878
+2897,organization,MC1,,368951
+2898,location,MC1,,c0ce6d15-622b-42a3-b892-f5efe5b4d00c
+2899,location,MC1,,a086a63d-19c7-4241-845a-f82c628d09a2
+2908,location,MC1,,7cc6a1fe-59b5-491c-8985-bf6d77836092
+2911,organization,MC1,,6071877
+2914,organization,MC1,,753589537
+2917,location,MC1,,332bb88e-0a63-41e3-8a27-87795fd552e9
+2920,company,MC1,Country_271835,Portuguese Sardines GmbH & Co. KG Line
+2922,person,MC1,Country_271835,Joshua Huang
+2924,organization,MC1,,440
+2925,organization,MC1,,601882545
+2927,person,MC1,Country_271835,William Taylor
+2928,location,MC1,,4294544a-9643-4cfd-97a0-ac656cb17e60
+2932,unknown,MC1,,Amstel Inc
+2935,person,MC1,Country_271835,Charlotte Lopez
+2937,organization,MC1,,86034444
+2943,political_organization,MC1,,67745773
+2944,organization,MC1,,214883455
+2950,location,MC1,,c8026923-944a-4155-b2ec-e160135e0c47
+2951,location,MC1,,58cf758d-a6f2-48ba-ac0c-89581ae6b4a5
+2956,organization,MC1,,1518
+2959,location,MC1,,90c3cb48-8060-4a55-804c-710044d19487
+2962,person,MC1,Country_271835,Michelle Evans
+2971,organization,MC1,,14952
+2976,person,MC1,Country_271835,Terri Rodriguez
+2989,organization,MC1,,868626239
+2991,person,MC1,Country_271835,Margaret Hodges
+3001,organization,MC1,,5334
+3004,person,MC1,Country_271835,Diana Dawson
+3006,organization,MC1,,613556
+3008,unknown,MC1,,Aicrowe Biotech Co
+3011,organization,MC1,,979294
+3012,organization,MC1,,25222883
+3018,company,MC1,Country_271835,Danish Lobster Ltd. Liability Co
+3019,unknown,MC1,,076
+3021,organization,MC1,,36868
+3024,organization,MC1,,30880
+3031,location,MC1,,dbeb3e02-dc0c-4455-a16b-2d0b9cb2c65a
+3039,person,MC1,Country_271835,Travis Sparks
+3041,location,MC1,,d4291c4b-873e-4830-b44a-85227fde3ee2
+3044,organization,MC1,,70720996
+3046,organization,MC1,,42627990
+3062,person,MC1,Country_271835,Karen Delgado
+3068,event,MC1,,2032s
+3098,location,MC1,,3eed159b-e98e-4f8a-98c2-c34341435411
+3101,person,MC1,Country_271835,Curtis Grant
+3114,organization,MC1,,FishEye International
+3165,unknown,MC1,,Finest Ltd. Liability Co United
+3178,unknown,MC1,,America
+3187,unknown,MC1,,Getis-Ord
+3229,unknown,MC1,,Blue Bay
+3255,unknown,MC1,,Four
+3256,unknown,MC1,,II
+3257,unknown,MC1,,Bloomberg
+3259,unknown,MC1,,SVBâs
+3263,unknown,MC1,,Mar de Plata Corp and Son's
+3272,unknown,MC1,,Stock SA
+3287,unknown,MC1,,Mount Kenya Estuary Sp Holdings
+3295,unknown,MC1,,Food
+3306,unknown,MC1,,Estrella del Mar Plc
+3313,unknown,MC1,,Lf Beauty
+3316,unknown,MC1,,Surf and Sea International Tidepool
+3318,unknown,MC1,,Paul S.A. de C.V.
+3320,unknown,MC1,,Rickard shrimp
+3323,unknown,MC1,,STL
+3327,unknown,MC1,,Green
+3330,unknown,MC1,,Farmers
+3335,unknown,MC1,,Prod
+3341,unknown,MC1,,Savaneta Corporation Marine life
+3342,unknown,MC1,,Michael Limited Liability Company
+3348,unknown,MC1,,Teion Internationala
+3350,unknown,MC1,,âUS
+3353,unknown,MC1,,Ocean Packers
+3354,unknown,MC1,,Improvised Anti
+3356,unknown,MC1,,Ste
+3358,unknown,MC1,,Andhra Pradesh  Investment Dry dock
+3363,unknown,MC1,,gu y LC Shipping
+3370,unknown,MC1,,Sp
+3371,unknown,MC1,,Memphis Women
+3373,unknown,MC1,,Evergreen
+3375,unknown,MC1,,Lake Tanganyika Sea AS Shipping
+3378,unknown,MC1,,Kores De Venezuela C A
+3380,unknown,MC1,,Tombow
+3382,unknown,MC1,,Yale
+3383,unknown,MC1,,Faroe Islands Plc Investment
+3384,unknown,MC1,,East Ltd. Corporation Investment
+3386,unknown,MC1,,Dispenseroo
+3390,unknown,MC1,,MV
+3391,unknown,MC1,,Costa de Coral Charter Boat Oyj Overseas
+3396,unknown,MC1,,NFTs
+3397,unknown,MC1,,Cargo Systemsi
+3398,unknown,MC1,,Ocano del Este Corp Freight 
+3399,unknown,MC1,,Ronald
+3403,unknown,MC1,,Spanish Shrimp Sp Brothers
+3406,unknown,MC1,,IndÃºstria Madeireira Uliana
+3407,unknown,MC1,,Sms
+3408,unknown,MC1,,Semas 260 Rural
+3409,unknown,MC1,,Dolphin Dreams S.A. de C.V. Seafood
+3412,unknown,MC1,,Sikkim S.A. de C.V.
+3414,unknown,MC1,,Kagera River  Company Solutions
+3415,unknown,MC1,,Marmooska Shipyard Sagl United
+3416,unknown,MC1,,Leo
+3417,unknown,MC1,,W&O Supply
+3420,unknown,MC1,,Haryana s Ltd. Corporation Carriers
+3421,unknown,MC1,,Coral Reef Sagl Transport
+3422,unknown,MC1,,Felbab-Brown
+3423,unknown,MC1,,OzonActionâs
+3425,unknown,MC1,,Ocano del Este SE
+3427,unknown,MC1,,Malabar Sea Catch Sp

@@ -1,0 +1,591 @@
+,source,target,link_type,weight,source_type,dataset_x,source_country,target_type,target_country,count
+0,12744,Spanish Shrimp  Carriers,ownership,0.900140,company,MC1,Nalakond,organization,,2
+1,12744,Spanish Shrimp  Carriers,ownership,0.917011,organization,MC1,,company,Nalakond,2
+2,3506021,Spanish Shrimp  Carriers,ownership,0.964213,company,MC1,Nalakond,organization,,2
+3,3506021,Spanish Shrimp  Carriers,ownership,0.889810,organization,MC1,,company,Nalakond,2
+4,Spanish Shrimp  Carriers,Turkish Sword Buoy Incorporated Forwading,membership,0.862103,company,MC1,Nalakond,company,Oceanus,2
+5,Spanish Shrimp  Carriers,Turkish Sword Buoy Incorporated Forwading,membership,0.841152,company,MC1,Oceanus,company,Nalakond,2
+6,196159,7775,family_relationship,0.852304,organization,MC1,,organization,,2
+7,196159,7775,family_relationship,0.938945,organization,MC1,,organization,,2
+8,185040354,4,partnership,0.857406,organization,MC1,,organization,,2
+9,185040354,4,partnership,0.876437,organization,MC1,,organization,,2
+10,185040354,3506021,ownership,0.841343,organization,MC1,,organization,,2
+11,185040354,3506021,ownership,0.968845,organization,MC1,,organization,,2
+12,185040354,505943,ownership,0.827212,organization,MC1,,organization,,2
+13,185040354,505943,ownership,0.931467,organization,MC1,,organization,,2
+14,185040354,23774,partnership,0.850333,organization,MC1,,organization,,2
+15,185040354,23774,partnership,0.866699,organization,MC1,,organization,,2
+16,767,Faroe Islands Shrimp Shark,partnership,0.883147,company,MC1,Rio Isla,organization,,2
+17,767,Faroe Islands Shrimp Shark,partnership,0.947659,organization,MC1,,company,Rio Isla,2
+18,Faroe Islands Shrimp Shark,Master,family_relationship,0.839838,company,MC1,Rio Isla,,,2
+19,Faroe Islands Shrimp Shark,Master,family_relationship,0.886830,,MC1,,company,Rio Isla,2
+20,Faroe Islands Shrimp Shark,b8567859-bf54-49fd-8332-5775e19c65af,partnership,0.905016,company,MC1,Rio Isla,location,,2
+21,Faroe Islands Shrimp Shark,b8567859-bf54-49fd-8332-5775e19c65af,partnership,0.967632,location,MC1,,company,Rio Isla,2
+22,341411,Faroe Islands Shrimp Shark,family_relationship,0.861488,company,MC1,Rio Isla,organization,,2
+23,341411,Faroe Islands Shrimp Shark,family_relationship,2.609392,organization,MC1,,company,Rio Isla,2
+24,Faroe Islands Shrimp Shark,png xi  Line,family_relationship,1.728913,company,MC1,Rio Isla,company,Country_628643,2
+25,Faroe Islands Shrimp Shark,png xi  Line,family_relationship,1.741449,company,MC1,Country_628643,company,Rio Isla,2
+26,Faroe Islands Shrimp Shark,png xi  Line,membership,0.841791,company,MC1,Rio Isla,company,Country_628643,2
+27,Faroe Islands Shrimp Shark,png xi  Line,membership,2.464103,company,MC1,Country_628643,company,Rio Isla,2
+28,Faroe Islands Shrimp Shark,SeaSpray Wave SRL Solutions,ownership,1.764709,company,MC1,Rio Isla,,,2
+29,Faroe Islands Shrimp Shark,SeaSpray Wave SRL Solutions,ownership,0.837742,,MC1,,company,Rio Isla,2
+30,Faroe Islands Shrimp Shark,SeaSpray Wave SRL Solutions,family_relationship,0.820287,company,MC1,Rio Isla,,,2
+31,Faroe Islands Shrimp Shark,SeaSpray Wave SRL Solutions,family_relationship,0.869123,,MC1,,company,Rio Isla,2
+32,903311212,Faroe Islands Shrimp Shark,membership,0.827556,company,MC1,Rio Isla,organization,,2
+33,903311212,Faroe Islands Shrimp Shark,membership,3.308088,organization,MC1,,company,Rio Isla,2
+34,290834957,341411,family_relationship,0.942669,organization,MC1,,organization,,2
+35,290834957,341411,family_relationship,0.844384,organization,MC1,,organization,,2
+36,341411,3506021,partnership,0.823344,organization,MC1,,organization,,2
+37,341411,3506021,partnership,0.803840,organization,MC1,,organization,,2
+38,341411,Irish Sea Seaside GmbH & Co. KG Distribution,family_relationship,1.778072,organization,MC1,,,,2
+39,341411,Irish Sea Seaside GmbH & Co. KG Distribution,family_relationship,0.862562,,MC1,,organization,,2
+40,235866056,341411,family_relationship,1.636088,organization,MC1,,organization,,2
+41,235866056,341411,family_relationship,1.627160,organization,MC1,,organization,,2
+42,341411,Christopher Cunningham,family_relationship,1.730405,organization,MC1,,person,Oceanus,2
+43,341411,Christopher Cunningham,family_relationship,0.814727,person,MC1,Oceanus,organization,,2
+44,341411,Christopher Cunningham,membership,0.869998,organization,MC1,,person,Oceanus,2
+45,341411,Christopher Cunningham,membership,0.938505,person,MC1,Oceanus,organization,,2
+46,341411,b8567859-bf54-49fd-8332-5775e19c65af,membership,0.950983,organization,MC1,,location,,2
+47,341411,b8567859-bf54-49fd-8332-5775e19c65af,membership,0.833605,location,MC1,,organization,,2
+48,341411,dup96,family_relationship,0.820961,organization,MC1,,,,2
+49,341411,dup96,family_relationship,0.813076,,MC1,,organization,,2
+50,341411,Olivia Bailey,family_relationship,0.846637,organization,MC1,,person,Country_271835,2
+51,341411,Olivia Bailey,family_relationship,0.810773,person,MC1,Country_271835,organization,,2
+52,341411,95,family_relationship,0.836042,organization,MC1,,organization,,2
+53,341411,95,family_relationship,1.753195,organization,MC1,,organization,,2
+54,341411,Jerry Welch,membership,0.820881,organization,MC1,,person,Country_271835,2
+55,341411,Jerry Welch,membership,0.802631,person,MC1,Country_271835,organization,,2
+56,341411,Playa del Cielo Kga,ownership,0.816223,organization,MC1,,company,Rio Isla,2
+57,341411,Playa del Cielo Kga,ownership,0.818714,company,MC1,Rio Isla,organization,,2
+58,341411,png xi  Line,membership,0.845169,organization,MC1,,company,Country_628643,2
+59,341411,png xi  Line,membership,0.906580,company,MC1,Country_628643,organization,,2
+60,341411,png xi  Line,partnership,1.685952,organization,MC1,,company,Country_628643,2
+61,341411,png xi  Line,partnership,1.784708,company,MC1,Country_628643,organization,,2
+62,341411,SeaSpray Wave SRL Solutions,membership,0.819132,organization,MC1,,,,2
+63,341411,SeaSpray Wave SRL Solutions,membership,0.892872,,MC1,,organization,,2
+64,341411,Ocean Fisheries Llc,membership,0.838622,organization,MC1,,,,2
+65,341411,Ocean Fisheries Llc,membership,0.959886,,MC1,,organization,,2
+66,128692,5441,ownership,0.888788,organization,MC1,,organization,,2
+67,128692,5441,ownership,0.863453,organization,MC1,,organization,,2
+68,Elizabeth Welch,da0a7bbb-5bd1-42aa-bcc0-b8923d5c15d4,membership,0.876156,person,MC1,Country_712875,location,,2
+69,Elizabeth Welch,da0a7bbb-5bd1-42aa-bcc0-b8923d5c15d4,membership,0.906005,location,MC1,,person,Country_712875,2
+70,Elizabeth Welch,Jason Huff,family_relationship,0.933454,person,MC1,Country_712875,person,Country_271835,2
+71,Elizabeth Welch,Jason Huff,family_relationship,0.882447,person,MC1,Country_271835,person,Country_712875,2
+72,95,967900443,family_relationship,0.844422,organization,MC1,,organization,,2
+73,95,967900443,family_relationship,0.845687,organization,MC1,,organization,,2
+74,4,979893388,family_relationship,0.863973,organization,MC1,,organization,,2
+75,4,979893388,family_relationship,0.840348,organization,MC1,,organization,,2
+76,290834957,39c767d3-a9b4-41f4-8a5d-e14b6c20a2d2,family_relationship,0.846857,organization,MC1,,location,,2
+77,290834957,39c767d3-a9b4-41f4-8a5d-e14b6c20a2d2,family_relationship,0.884240,location,MC1,,organization,,2
+78,85117949,Sonia Fisheries Pvt,family_relationship,0.856827,political_organization,MC1,,,,2
+79,85117949,Sonia Fisheries Pvt,family_relationship,0.881701,,MC1,,political_organization,,2
+80,2262,95,family_relationship,0.899734,organization,MC1,,organization,,2
+81,2262,95,family_relationship,0.901961,organization,MC1,,organization,,2
+82,95,png xi  Line,family_relationship,0.838078,organization,MC1,,company,Country_628643,2
+83,95,png xi  Line,family_relationship,0.901795,company,MC1,Country_628643,organization,,2
+84,47679,829,ownership,0.870605,organization,MC1,,organization,,2
+85,47679,829,ownership,0.828440,organization,MC1,,organization,,2
+86,47679,b8567859-bf54-49fd-8332-5775e19c65af,family_relationship,1.726846,organization,MC1,,location,,2
+87,47679,b8567859-bf54-49fd-8332-5775e19c65af,family_relationship,0.814350,location,MC1,,organization,,2
+88,57,Derek Burke,partnership,0.956302,person,MC1,Nalakond,political_organization,,2
+89,57,Derek Burke,partnership,0.875196,political_organization,MC1,,person,Nalakond,2
+90,Derek Burke,c01c6a10-60c9-4f11-9409-aa04c3963826,partnership,0.905324,person,MC1,Nalakond,location,,2
+91,Derek Burke,c01c6a10-60c9-4f11-9409-aa04c3963826,partnership,0.945534,location,MC1,,person,Nalakond,2
+92,Derek Burke,Morgan Bell,family_relationship,0.841653,person,MC1,Nalakond,person,Country_895471,2
+93,Derek Burke,Morgan Bell,family_relationship,0.911762,person,MC1,Country_895471,person,Nalakond,2
+94,Amanda Mckenzie,Estrella de Coral Ltd. Corporation Logistics,partnership,0.800088,person,MC1,Oceanus,,,2
+95,Amanda Mckenzie,Estrella de Coral Ltd. Corporation Logistics,partnership,0.979983,,MC1,,person,Oceanus,2
+96,Amanda Mckenzie,Mar del Oeste Pic,ownership,0.913723,person,MC1,Oceanus,company,Vesperlandia,2
+97,Amanda Mckenzie,Mar del Oeste Pic,ownership,0.827603,company,MC1,Vesperlandia,person,Oceanus,2
+98,Amanda Mckenzie,SeaSpray Wave SRL Solutions,partnership,0.830771,person,MC1,Oceanus,,,2
+99,Amanda Mckenzie,SeaSpray Wave SRL Solutions,partnership,0.831555,,MC1,,person,Oceanus,2
+100,2262,865275,family_relationship,0.825244,organization,MC1,,organization,,2
+101,2262,865275,family_relationship,0.888151,organization,MC1,,organization,,2
+102,2262,8412071,family_relationship,0.917990,organization,MC1,,organization,,2
+103,2262,8412071,family_relationship,0.922560,organization,MC1,,organization,,2
+104,2262,439861274,family_relationship,0.954206,organization,MC1,,organization,,2
+105,2262,439861274,family_relationship,0.942543,organization,MC1,,organization,,2
+106,2262,Kimberly Palmer,family_relationship,0.823040,organization,MC1,,person,Country_271835,2
+107,2262,Kimberly Palmer,family_relationship,0.911845,person,MC1,Country_271835,organization,,2
+108,2262,97,membership,0.821989,organization,MC1,,organization,,2
+109,2262,97,membership,0.825050,organization,MC1,,organization,,2
+110,2262,png xi  Line,family_relationship,0.913855,organization,MC1,,company,Country_628643,2
+111,2262,png xi  Line,family_relationship,0.884150,company,MC1,Country_628643,organization,,2
+112,78135,79139,ownership,0.831885,organization,MC1,,organization,,2
+113,78135,79139,ownership,0.802004,organization,MC1,,organization,,2
+114,58,Cynthia Williams,membership,0.941544,organization,MC1,,person,Country_19028,2
+115,58,Cynthia Williams,membership,0.932510,person,MC1,Country_19028,organization,,2
+116,58,Armed Robberyâ,membership,0.960730,organization,MC1,,,,2
+117,58,Armed Robberyâ,membership,0.914776,,MC1,,organization,,2
+118,58,76,membership,0.821264,organization,MC1,,organization,,2
+119,58,76,membership,0.905049,organization,MC1,,organization,,2
+120,28,83,partnership,0.897822,organization,MC1,,organization,,2
+121,28,83,partnership,0.828224,organization,MC1,,organization,,2
+122,Ms. Stephanie Rivera DDS,c01c6a10-60c9-4f11-9409-aa04c3963826,membership,0.837831,person,MC1,Vesperanda,location,,2
+123,Ms. Stephanie Rivera DDS,c01c6a10-60c9-4f11-9409-aa04c3963826,membership,0.961275,location,MC1,,person,Vesperanda,2
+124,57,Ms. Stephanie Rivera DDS,membership,0.883081,person,MC1,Vesperanda,political_organization,,2
+125,57,Ms. Stephanie Rivera DDS,membership,0.912613,political_organization,MC1,,person,Vesperanda,2
+126,Morgan Bell,Ms. Stephanie Rivera DDS,family_relationship,0.923422,person,MC1,Vesperanda,person,Country_895471,2
+127,Morgan Bell,Ms. Stephanie Rivera DDS,family_relationship,0.885394,person,MC1,Country_895471,person,Vesperanda,2
+128,Dana Goodwin,Turkish Sword Buoy Incorporated Forwading,membership,0.918757,company,MC1,Oceanus,person,Marebak,2
+129,Dana Goodwin,Turkish Sword Buoy Incorporated Forwading,membership,0.818292,person,MC1,Marebak,company,Oceanus,2
+130,838200939,860600018,partnership,0.922047,organization,MC1,,political_organization,,2
+131,838200939,860600018,partnership,0.851231,political_organization,MC1,,organization,,2
+132,435054320,8327,membership,0.901995,organization,MC1,,organization,,2
+133,435054320,8327,membership,0.816972,organization,MC1,,organization,,2
+134,1560,829,ownership,0.880239,organization,MC1,,organization,,2
+135,1560,829,ownership,0.841754,organization,MC1,,organization,,2
+136,979893388,Sept,family_relationship,0.925002,,MC1,,organization,,2
+137,979893388,Sept,family_relationship,0.837183,organization,MC1,,,,2
+138,979893388,John Gonzalez,family_relationship,0.800705,person,MC1,Nalakond,organization,,2
+139,979893388,John Gonzalez,family_relationship,0.859619,organization,MC1,,person,Nalakond,2
+140,57,Luis Jones,partnership,0.958535,political_organization,MC1,,person,Riodelsol,2
+141,57,Luis Jones,partnership,0.949109,person,MC1,Riodelsol,political_organization,,2
+142,57,c01c6a10-60c9-4f11-9409-aa04c3963826,partnership,0.905261,political_organization,MC1,,location,,2
+143,57,c01c6a10-60c9-4f11-9409-aa04c3963826,partnership,0.973083,location,MC1,,political_organization,,2
+144,17232,57,partnership,0.931179,political_organization,MC1,,political_organization,,2
+145,17232,57,partnership,0.891313,political_organization,MC1,,political_organization,,2
+146,51,57,partnership,0.926528,political_organization,MC1,,political_organization,,2
+147,51,57,partnership,0.921497,political_organization,MC1,,political_organization,,2
+148,57,f810c631-9f7d-4219-ade0-b44c4c9abf62,ownership,0.926083,political_organization,MC1,,location,,2
+149,57,f810c631-9f7d-4219-ade0-b44c4c9abf62,ownership,0.942602,location,MC1,,political_organization,,2
+150,57,Melissa Norman,ownership,0.829233,political_organization,MC1,,person,Country_615819,2
+151,57,Melissa Norman,ownership,0.888378,person,MC1,Country_615819,political_organization,,2
+152,Tian,dup18,ownership,0.826983,vessel,MC1,,vessel,,2
+153,Tian,dup18,ownership,0.820332,vessel,MC1,,vessel,,2
+154,Michael Brock,months,membership,0.825670,movement,MC1,,person,Country_461742,2
+155,Michael Brock,months,membership,0.855957,person,MC1,Country_461742,movement,,2
+156,439861274,865275,family_relationship,0.921378,organization,MC1,,organization,,2
+157,439861274,865275,family_relationship,0.935177,organization,MC1,,organization,,2
+158,865275,ânecessaryâ,family_relationship,0.947181,organization,MC1,,,,2
+159,865275,ânecessaryâ,family_relationship,0.890218,,MC1,,organization,,2
+160,23777,28,partnership,0.888459,organization,MC1,,organization,,2
+161,23777,28,partnership,0.879812,organization,MC1,,organization,,2
+162,28,Playa del Cielo Kga,partnership,0.802796,organization,MC1,,company,Rio Isla,2
+163,28,Playa del Cielo Kga,partnership,0.879232,company,MC1,Rio Isla,organization,,2
+164,903311212,png xi  Line,ownership,2.631742,company,MC1,Country_628643,organization,,2
+165,903311212,png xi  Line,ownership,2.637258,organization,MC1,,company,Country_628643,2
+166,903311212,png xi  Line,partnership,4.252318,company,MC1,Country_628643,organization,,2
+167,903311212,png xi  Line,partnership,1.743072,organization,MC1,,company,Country_628643,2
+168,903311212,png xi  Line,membership,1.755213,company,MC1,Country_628643,organization,,2
+169,903311212,png xi  Line,membership,9.218299,organization,MC1,,company,Country_628643,2
+170,903311212,png xi  Line,family_relationship,0.801638,company,MC1,Country_628643,organization,,2
+171,903311212,png xi  Line,family_relationship,3.641398,organization,MC1,,company,Country_628643,2
+172,Ocean Fisheries Llc,png xi  Line,membership,3.366229,company,MC1,Country_628643,,,2
+173,Ocean Fisheries Llc,png xi  Line,membership,6.994449,,MC1,,company,Country_628643,2
+174,Ocean Fisheries Llc,png xi  Line,family_relationship,1.823894,company,MC1,Country_628643,,,2
+175,Ocean Fisheries Llc,png xi  Line,family_relationship,1.682400,,MC1,,company,Country_628643,2
+176,Ocean Fisheries Llc,png xi  Line,partnership,3.356761,company,MC1,Country_628643,,,2
+177,Ocean Fisheries Llc,png xi  Line,partnership,1.798556,,MC1,,company,Country_628643,2
+178,Ocean Fisheries Llc,png xi  Line,ownership,1.646378,company,MC1,Country_628643,,,2
+179,Ocean Fisheries Llc,png xi  Line,ownership,3.349665,,MC1,,company,Country_628643,2
+180,SeaSpray Wave SRL Solutions,png xi  Line,membership,3.445366,company,MC1,Country_628643,,,2
+181,SeaSpray Wave SRL Solutions,png xi  Line,membership,2.579605,,MC1,,company,Country_628643,2
+182,SeaSpray Wave SRL Solutions,png xi  Line,ownership,2.500367,company,MC1,Country_628643,,,2
+183,SeaSpray Wave SRL Solutions,png xi  Line,ownership,0.851496,,MC1,,company,Country_628643,2
+184,SeaSpray Wave SRL Solutions,png xi  Line,partnership,3.474293,company,MC1,Country_628643,,,2
+185,SeaSpray Wave SRL Solutions,png xi  Line,partnership,1.735261,,MC1,,company,Country_628643,2
+186,Mar del Oeste Pic,png xi  Line,partnership,0.864544,company,MC1,Country_628643,company,Vesperlandia,2
+187,Mar del Oeste Pic,png xi  Line,partnership,1.680984,company,MC1,Vesperlandia,company,Country_628643,2
+188,Mar del Oeste Pic,png xi  Line,ownership,2.452251,company,MC1,Country_628643,company,Vesperlandia,2
+189,Mar del Oeste Pic,png xi  Line,ownership,1.635207,company,MC1,Vesperlandia,company,Country_628643,2
+190,Mar del Oeste Pic,png xi  Line,membership,4.402561,company,MC1,Country_628643,company,Vesperlandia,2
+191,Mar del Oeste Pic,png xi  Line,membership,5.115522,company,MC1,Vesperlandia,company,Country_628643,2
+192,Seafood,png xi  Line,ownership,0.859600,company,MC1,Country_628643,,,2
+193,Seafood,png xi  Line,ownership,0.870866,,MC1,,company,Country_628643,2
+194,Michael Brock,png xi  Line,membership,0.802257,company,MC1,Country_628643,person,Country_461742,2
+195,Michael Brock,png xi  Line,membership,0.959903,person,MC1,Country_461742,company,Country_628643,2
+196,Playa del Cielo Kga,periods years,membership,0.943481,company,MC1,Rio Isla,event,,2
+197,Playa del Cielo Kga,periods years,membership,0.857869,event,MC1,,company,Rio Isla,2
+198,Playa del Cielo Kga,days,ownership,0.930204,company,MC1,Rio Isla,movement,,2
+199,Playa del Cielo Kga,days,ownership,0.809262,movement,MC1,,company,Rio Isla,2
+200,Morgan Bell,Playa del Cielo Kga,ownership,0.852945,company,MC1,Rio Isla,person,Country_895471,2
+201,Morgan Bell,Playa del Cielo Kga,ownership,0.912526,person,MC1,Country_895471,company,Rio Isla,2
+202,577a9358-a718-4d90-a90e-88f88c58160d,Playa del Cielo Kga,membership,0.833899,company,MC1,Rio Isla,location,,2
+203,577a9358-a718-4d90-a90e-88f88c58160d,Playa del Cielo Kga,membership,1.767268,location,MC1,,company,Rio Isla,2
+204,511915273,Playa del Cielo Kga,ownership,0.815597,company,MC1,Rio Isla,organization,,2
+205,511915273,Playa del Cielo Kga,ownership,0.856240,organization,MC1,,company,Rio Isla,2
+206,April,Playa del Cielo Kga,ownership,0.877371,company,MC1,Rio Isla,event,,2
+207,April,Playa del Cielo Kga,ownership,0.857083,event,MC1,,company,Rio Isla,2
+208,Playa del Cielo Kga,b03a6fc7-507a-4328-9814-57561acb4fc6,ownership,0.820523,company,MC1,Rio Isla,location,,2
+209,Playa del Cielo Kga,b03a6fc7-507a-4328-9814-57561acb4fc6,ownership,0.834354,location,MC1,,company,Rio Isla,2
+210,903311212,Playa del Cielo Kga,family_relationship,0.809640,company,MC1,Rio Isla,organization,,2
+211,903311212,Playa del Cielo Kga,family_relationship,0.817783,organization,MC1,,company,Rio Isla,2
+212,Jeremy Norris,âŠ,membership,0.903614,event,MC1,,person,Country_271835,2
+213,Jeremy Norris,âŠ,membership,0.805733,person,MC1,Country_271835,event,,2
+214,235866056,Irish Sea Seaside GmbH & Co. KG Distribution,family_relationship,0.955008,organization,MC1,,,,2
+215,235866056,Irish Sea Seaside GmbH & Co. KG Distribution,family_relationship,0.828251,,MC1,,organization,,2
+216,235866056,b8567859-bf54-49fd-8332-5775e19c65af,family_relationship,0.902373,organization,MC1,,location,,2
+217,235866056,b8567859-bf54-49fd-8332-5775e19c65af,family_relationship,0.820985,location,MC1,,organization,,2
+218,41398ea8-d14a-4666-80e8-6a212684d871,Estrella de Coral Ltd. Corporation Logistics,ownership,0.824552,location,MC1,,,,2
+219,41398ea8-d14a-4666-80e8-6a212684d871,Estrella de Coral Ltd. Corporation Logistics,ownership,0.866879,,MC1,,location,,2
+220,75471,9488645,membership,0.821307,organization,MC1,,organization,,2
+221,75471,9488645,membership,0.938118,organization,MC1,,organization,,2
+222,34,Dana Goodwin,membership,0.847177,organization,MC1,,person,Marebak,2
+223,34,Dana Goodwin,membership,0.876900,person,MC1,Marebak,organization,,2
+224,43454,86590543,ownership,0.837745,organization,MC1,,organization,,2
+225,43454,86590543,ownership,0.840853,organization,MC1,,organization,,2
+226,Mar del Oeste Pic,Ocean Fisheries Llc,ownership,6.059590,company,MC1,Vesperlandia,,,2
+227,Mar del Oeste Pic,Ocean Fisheries Llc,ownership,2.576547,,MC1,,company,Vesperlandia,2
+228,Mar del Oeste Pic,Ocean Fisheries Llc,partnership,0.829575,company,MC1,Vesperlandia,,,2
+229,Mar del Oeste Pic,Ocean Fisheries Llc,partnership,0.826447,,MC1,,company,Vesperlandia,2
+230,Mar del Oeste Pic,Ocean Fisheries Llc,family_relationship,3.281530,company,MC1,Vesperlandia,,,2
+231,Mar del Oeste Pic,Ocean Fisheries Llc,family_relationship,1.701315,,MC1,,company,Vesperlandia,2
+232,Mar del Oeste Pic,Ocean Fisheries Llc,membership,1.699454,company,MC1,Vesperlandia,,,2
+233,Mar del Oeste Pic,Ocean Fisheries Llc,membership,3.331997,,MC1,,company,Vesperlandia,2
+234,Mar del Oeste Pic,SeaSpray Wave SRL Solutions,membership,3.475983,company,MC1,Vesperlandia,,,2
+235,Mar del Oeste Pic,SeaSpray Wave SRL Solutions,membership,2.583805,,MC1,,company,Vesperlandia,2
+236,Mar del Oeste Pic,SeaSpray Wave SRL Solutions,partnership,3.374103,company,MC1,Vesperlandia,,,2
+237,Mar del Oeste Pic,SeaSpray Wave SRL Solutions,partnership,1.718619,,MC1,,company,Vesperlandia,2
+238,Mar del Oeste Pic,SeaSpray Wave SRL Solutions,ownership,3.446472,company,MC1,Vesperlandia,,,2
+239,Mar del Oeste Pic,SeaSpray Wave SRL Solutions,ownership,1.731548,,MC1,,company,Vesperlandia,2
+240,Mar del Oeste Pic,SeaSpray Wave SRL Solutions,family_relationship,0.804586,company,MC1,Vesperlandia,,,2
+241,Mar del Oeste Pic,SeaSpray Wave SRL Solutions,family_relationship,0.920995,,MC1,,company,Vesperlandia,2
+242,903311212,Mar del Oeste Pic,family_relationship,1.636553,company,MC1,Vesperlandia,organization,,2
+243,903311212,Mar del Oeste Pic,family_relationship,3.537982,organization,MC1,,company,Vesperlandia,2
+244,903311212,Mar del Oeste Pic,partnership,3.321390,company,MC1,Vesperlandia,organization,,2
+245,903311212,Mar del Oeste Pic,partnership,1.780004,organization,MC1,,company,Vesperlandia,2
+246,903311212,Mar del Oeste Pic,membership,3.428156,company,MC1,Vesperlandia,organization,,2
+247,903311212,Mar del Oeste Pic,membership,6.937736,organization,MC1,,company,Vesperlandia,2
+248,903311212,Mar del Oeste Pic,ownership,3.499780,company,MC1,Vesperlandia,organization,,2
+249,903311212,Mar del Oeste Pic,ownership,4.480122,organization,MC1,,company,Vesperlandia,2
+250,979893388,Mar del Oeste Pic,family_relationship,0.836114,company,MC1,Vesperlandia,organization,,2
+251,979893388,Mar del Oeste Pic,family_relationship,0.855704,organization,MC1,,company,Vesperlandia,2
+252,19,Mar del Oeste Pic,membership,0.804742,company,MC1,Vesperlandia,vessel,,2
+253,19,Mar del Oeste Pic,membership,1.662240,vessel,MC1,,company,Vesperlandia,2
+254,7505050,8327,membership,0.884615,organization,MC1,,organization,,2
+255,7505050,8327,membership,0.827284,organization,MC1,,organization,,2
+256,34731154,8787,partnership,0.900874,organization,MC1,,organization,,2
+257,34731154,8787,partnership,0.924882,organization,MC1,,organization,,2
+258,1094345,7691,membership,0.802727,organization,MC1,,organization,,2
+259,1094345,7691,membership,0.838957,organization,MC1,,organization,,2
+260,7691,three,membership,0.844028,organization,MC1,,movement,,2
+261,7691,three,membership,0.853685,movement,MC1,,organization,,2
+262,519994690,water,membership,0.830469,vessel,MC1,,organization,,2
+263,519994690,water,membership,0.919487,organization,MC1,,vessel,,2
+264,Tshikwea Corp Marine sanctuary,water,partnership,0.936138,vessel,MC1,,company,Marebak,2
+265,Tshikwea Corp Marine sanctuary,water,partnership,0.905055,company,MC1,Marebak,vessel,,2
+266,œDdï,œï,partnership,0.972193,,MC1,,,,2
+267,œDdï,œï,partnership,0.940960,,MC1,,,,2
+268,Æï,œï,partnership,0.967228,,MC1,,,,2
+269,Æï,œï,partnership,0.952744,,MC1,,,,2
+270,œgï,œï,partnership,0.963733,,MC1,,,,2
+271,œgï,œï,partnership,0.959519,,MC1,,,,2
+272,pï¿œï,œï,partnership,0.972378,,MC1,,,,2
+273,pï¿œï,œï,partnership,0.950057,,MC1,,,,2
+274,pï¿œï,œgï,partnership,0.972160,,MC1,,,,2
+275,pï¿œï,œgï,partnership,0.955489,,MC1,,,,2
+276,œgï,œï¿œï,partnership,0.970194,,MC1,,,,2
+277,œgï,œï¿œï,partnership,0.963312,,MC1,,,,2
+278,Kï,œgï,partnership,0.957169,,MC1,,,,2
+279,Kï,œgï,partnership,0.963285,,MC1,,,,2
+280,Jeremy Norris,SeaSpray Wave SRL Solutions,partnership,0.867756,person,MC1,Country_271835,,,2
+281,Jeremy Norris,SeaSpray Wave SRL Solutions,partnership,1.683684,,MC1,,person,Country_271835,2
+282,2230601,262157542,family_relationship,0.862779,organization,MC1,,organization,,2
+283,2230601,262157542,family_relationship,0.927707,organization,MC1,,organization,,2
+284,704,AND fisheryâ,membership,0.880054,,MC1,,political_organization,,2
+285,704,AND fisheryâ,membership,0.965819,political_organization,MC1,,,,2
+286,515270,704,membership,0.854409,organization,MC1,,political_organization,,2
+287,515270,704,membership,0.953945,political_organization,MC1,,organization,,2
+288,09e2222b-c13c-4a94-b1d9-b79238be0788,704,membership,0.951535,location,MC1,,political_organization,,2
+289,09e2222b-c13c-4a94-b1d9-b79238be0788,704,membership,0.952324,political_organization,MC1,,location,,2
+290,704,artisanalâ,membership,0.935962,,MC1,,political_organization,,2
+291,704,artisanalâ,membership,0.944215,political_organization,MC1,,,,2
+292,704,scaleâ,membership,0.905379,political_organization,MC1,,,,2
+293,704,scaleâ,membership,0.942512,,MC1,,political_organization,,2
+294,cyaneaâ,âo,membership,0.816067,,MC1,,,,2
+295,cyaneaâ,âo,membership,0.929340,,MC1,,,,2
+296,829,995899,ownership,0.890938,organization,MC1,,organization,,2
+297,829,995899,ownership,0.879302,organization,MC1,,organization,,2
+298,47249,829,ownership,0.870103,organization,MC1,,organization,,2
+299,47249,829,ownership,0.832437,organization,MC1,,organization,,2
+300,23399545,829,ownership,0.847215,organization,MC1,,organization,,2
+301,23399545,829,ownership,0.888434,organization,MC1,,organization,,2
+302,7023,Sudd Swamp  Wave AS Freight,membership,0.842676,political_organization,MC1,,company,Country_271835,2
+303,7023,Sudd Swamp  Wave AS Freight,membership,0.878064,company,MC1,Country_271835,political_organization,,2
+304,577a9358-a718-4d90-a90e-88f88c58160d,7023,membership,0.823095,political_organization,MC1,,location,,2
+305,577a9358-a718-4d90-a90e-88f88c58160d,7023,membership,0.841546,location,MC1,,political_organization,,2
+306,626,Morgan Bell,ownership,0.907553,person,MC1,Country_895471,political_organization,,2
+307,626,Morgan Bell,ownership,0.812901,political_organization,MC1,,person,Country_895471,2
+308,156,Morgan Bell,partnership,0.839456,person,MC1,Country_895471,political_organization,,2
+309,156,Morgan Bell,partnership,0.878670,political_organization,MC1,,person,Country_895471,2
+310,Michael Andrews,Morgan Bell,family_relationship,0.956312,person,MC1,Country_895471,person,Zambalantis,2
+311,Michael Andrews,Morgan Bell,family_relationship,0.811357,person,MC1,Zambalantis,person,Country_895471,2
+312,Mark Hernandez PhD,Morgan Bell,family_relationship,0.816001,person,MC1,Country_895471,person,Oceanterra,2
+313,Mark Hernandez PhD,Morgan Bell,family_relationship,0.842686,person,MC1,Oceanterra,person,Country_895471,2
+314,172114,Irish Sea Seaside GmbH & Co. KG Distribution,family_relationship,0.869064,organization,MC1,,,,2
+315,172114,Irish Sea Seaside GmbH & Co. KG Distribution,family_relationship,0.894279,,MC1,,organization,,2
+316,440994840,Bryan Johnston,ownership,0.806910,person,MC1,Oceanus,political_organization,,2
+317,440994840,Bryan Johnston,ownership,0.860050,political_organization,MC1,,person,Oceanus,2
+318,Bryan Johnston,Heather Hill,family_relationship,0.958266,person,MC1,Oceanus,person,Country_271835,2
+319,Bryan Johnston,Heather Hill,family_relationship,0.901609,person,MC1,Country_271835,person,Oceanus,2
+320,Angela Powers,Scott Wright,family_relationship,0.927022,person,MC1,Country_34878,person,Country_271835,2
+321,Angela Powers,Scott Wright,family_relationship,0.891722,person,MC1,Country_271835,person,Country_34878,2
+322,49729,Estrella de Coral Ltd. Corporation Logistics,membership,0.916269,organization,MC1,,,,2
+323,49729,Estrella de Coral Ltd. Corporation Logistics,membership,0.911058,,MC1,,organization,,2
+324,Mario Richardson,cefaf8b3-3aa2-4c59-b4aa-7974c8e1fe32,partnership,0.807772,location,MC1,,person,Country_459036,2
+325,Mario Richardson,cefaf8b3-3aa2-4c59-b4aa-7974c8e1fe32,partnership,0.808656,person,MC1,Country_459036,location,,2
+326,Estrella de Coral Ltd. Corporation Logistics,Mario Richardson,ownership,0.875480,person,MC1,Country_459036,,,2
+327,Estrella de Coral Ltd. Corporation Logistics,Mario Richardson,ownership,0.918860,,MC1,,person,Country_459036,2
+328,Estrella de Coral Ltd. Corporation Logistics,Peter Oliver,ownership,0.807503,person,MC1,Country_895471,,,2
+329,Estrella de Coral Ltd. Corporation Logistics,Peter Oliver,ownership,0.831237,,MC1,,person,Country_895471,2
+330,87,Estrella de Coral Ltd. Corporation Logistics,membership,0.846715,organization,MC1,,,,2
+331,87,Estrella de Coral Ltd. Corporation Logistics,membership,0.852438,,MC1,,organization,,2
+332,Estrella de Coral Ltd. Corporation Logistics,NiÃ±o,membership,0.869689,event,MC1,,,,2
+333,Estrella de Coral Ltd. Corporation Logistics,NiÃ±o,membership,0.925375,,MC1,,event,,2
+334,Scott Brown,days,ownership,0.834631,person,MC1,Country_271835,movement,,2
+335,Scott Brown,days,ownership,0.943014,movement,MC1,,person,Country_271835,2
+336,Benton Ltd. Liability Co,days,partnership,0.985231,movement,MC1,,company,Country_271835,2
+337,Benton Ltd. Liability Co,days,partnership,0.967216,company,MC1,Country_271835,movement,,2
+338,days,ninety,partnership,0.921964,movement,MC1,,movement,,2
+339,days,ninety,partnership,0.954280,movement,MC1,,movement,,2
+340,1225,Alan Wells,partnership,0.960596,organization,MC1,,person,Marebak,2
+341,1225,Alan Wells,partnership,0.861140,person,MC1,Marebak,organization,,2
+342,Ocean Fisheries Llc,e678510b-947d-455a-8eb0-44d1009682ec,membership,1.768495,location,MC1,,,,2
+343,Ocean Fisheries Llc,e678510b-947d-455a-8eb0-44d1009682ec,membership,0.875745,,MC1,,location,,2
+344,Kimberly Petersen,Xavier Sanchez,family_relationship,0.820516,person,MC1,Syrithania,person,Country_729731,2
+345,Kimberly Petersen,Xavier Sanchez,family_relationship,0.917141,person,MC1,Country_729731,person,Syrithania,2
+346,958085,Xavier Sanchez,partnership,0.904272,person,MC1,Syrithania,organization,,2
+347,958085,Xavier Sanchez,partnership,0.835100,organization,MC1,,person,Syrithania,2
+348,SeaSpray Wave SRL Solutions,Thomas Morales,partnership,0.868773,person,MC1,Country_542476,,,2
+349,SeaSpray Wave SRL Solutions,Thomas Morales,partnership,0.908363,,MC1,,person,Country_542476,2
+350,Ocean Fisheries Llc,Richard Perkins,partnership,1.683475,person,MC1,Oceanus,,,2
+351,Ocean Fisheries Llc,Richard Perkins,partnership,0.839501,,MC1,,person,Oceanus,2
+352,958085,Alicia Lee,partnership,0.852681,organization,MC1,,person,Country_271835,2
+353,958085,Alicia Lee,partnership,0.900911,person,MC1,Country_271835,organization,,2
+354,958085,Madhya Pradesh Market BV,partnership,0.880354,organization,MC1,,,,2
+355,958085,Madhya Pradesh Market BV,partnership,0.913892,,MC1,,organization,,2
+356,58623386,958085,partnership,0.864938,organization,MC1,,organization,,2
+357,58623386,958085,partnership,0.903552,organization,MC1,,organization,,2
+358,34252,958085,partnership,0.816476,organization,MC1,,organization,,2
+359,34252,958085,partnership,0.916650,organization,MC1,,organization,,2
+360,Jasmine Camacho,Lindsey Palmer,family_relationship,0.831332,person,MC1,Country_271835,person,Country_271835,2
+361,Jasmine Camacho,Lindsey Palmer,family_relationship,0.927460,person,MC1,Country_271835,person,Country_271835,2
+362,70,Jessica Brown,membership,0.883237,person,MC1,Country_789037,organization,,2
+363,70,Jessica Brown,membership,0.822400,organization,MC1,,person,Country_789037,2
+364,979893388,usa,membership,0.819054,organization,MC1,,,,2
+365,979893388,usa,membership,0.872943,,MC1,,organization,,2
+366,979893388,Erica Hamilton,ownership,0.847196,organization,MC1,,person,Marebak,2
+367,979893388,Erica Hamilton,ownership,0.890057,person,MC1,Marebak,organization,,2
+368,979893388,c01c6a10-60c9-4f11-9409-aa04c3963826,partnership,0.908736,organization,MC1,,location,,2
+369,979893388,c01c6a10-60c9-4f11-9409-aa04c3963826,partnership,0.900007,location,MC1,,organization,,2
+370,c01c6a10-60c9-4f11-9409-aa04c3963826,f2aee915-d483-4823-a030-9aac5e44c1fe,partnership,0.951036,location,MC1,,location,,2
+371,c01c6a10-60c9-4f11-9409-aa04c3963826,f2aee915-d483-4823-a030-9aac5e44c1fe,partnership,0.897541,location,MC1,,location,,2
+372,119411,c01c6a10-60c9-4f11-9409-aa04c3963826,partnership,0.870117,organization,MC1,,location,,2
+373,119411,c01c6a10-60c9-4f11-9409-aa04c3963826,partnership,0.880451,location,MC1,,organization,,2
+374,David Mcfarland,Ryan Jones,family_relationship,0.885462,person,MC1,Country_907876,person,Country_907876,2
+375,David Mcfarland,Ryan Jones,family_relationship,0.858875,person,MC1,Country_907876,person,Country_907876,2
+376,76568,Mitsubishi,membership,0.833885,organization,MC1,,,,2
+377,76568,Mitsubishi,membership,0.923545,,MC1,,organization,,2
+378,Madison Franklin,bottom,ownership,0.916514,vessel,MC1,,person,Country_271835,2
+379,Madison Franklin,bottom,ownership,0.896293,person,MC1,Country_271835,vessel,,2
+380,2913,5421,partnership,0.922301,organization,MC1,,organization,,2
+381,2913,5421,partnership,0.918246,organization,MC1,,organization,,2
+382,2913,Benton Ltd. Liability Co,partnership,0.982843,organization,MC1,,company,Country_271835,2
+383,2913,Benton Ltd. Liability Co,partnership,0.882000,company,MC1,Country_271835,organization,,2
+384,Nautical Navigators Kga United,Scott Wright,partnership,0.833566,person,MC1,Country_271835,,,2
+385,Nautical Navigators Kga United,Scott Wright,partnership,0.812739,,MC1,,person,Country_271835,2
+386,4946,977,membership,0.910326,organization,MC1,,organization,,2
+387,4946,977,membership,0.856808,organization,MC1,,organization,,2
+388,54217974,838200939,partnership,0.904986,organization,MC1,,political_organization,,2
+389,54217974,838200939,partnership,0.806615,political_organization,MC1,,organization,,2
+390,1354,160,partnership,0.900367,organization,MC1,,organization,,2
+391,1354,160,partnership,0.921113,organization,MC1,,organization,,2
+392,160,Ocean Fisheries Llc,ownership,1.780200,organization,MC1,,,,2
+393,160,Ocean Fisheries Llc,ownership,1.731715,,MC1,,organization,,2
+394,160,903311212,ownership,0.871131,organization,MC1,,organization,,2
+395,160,903311212,ownership,0.880429,organization,MC1,,organization,,2
+396,60774,903311212,membership,0.861252,organization,MC1,,organization,,2
+397,60774,903311212,membership,0.921575,organization,MC1,,organization,,2
+398,Anna Smith,Michele Black,family_relationship,0.814554,person,MC1,Marebak,person,Oceanus,2
+399,Anna Smith,Michele Black,family_relationship,0.926160,person,MC1,Oceanus,person,Marebak,2
+400,903311212,Ocean Fisheries Llc,partnership,3.395222,organization,MC1,,,,2
+401,903311212,Ocean Fisheries Llc,partnership,2.475708,,MC1,,organization,,2
+402,903311212,Ocean Fisheries Llc,family_relationship,0.976110,organization,MC1,,,,2
+403,903311212,Ocean Fisheries Llc,family_relationship,0.829930,,MC1,,organization,,2
+404,903311212,Ocean Fisheries Llc,membership,5.351081,organization,MC1,,,,2
+405,903311212,Ocean Fisheries Llc,membership,5.095078,,MC1,,organization,,2
+406,903311212,Ocean Fisheries Llc,ownership,0.804519,organization,MC1,,,,2
+407,903311212,Ocean Fisheries Llc,ownership,1.657601,,MC1,,organization,,2
+408,903311212,SeaSpray Wave SRL Solutions,ownership,5.179104,organization,MC1,,,,2
+409,903311212,SeaSpray Wave SRL Solutions,ownership,5.186122,,MC1,,organization,,2
+410,903311212,SeaSpray Wave SRL Solutions,membership,5.029483,organization,MC1,,,,2
+411,903311212,SeaSpray Wave SRL Solutions,membership,8.522816,,MC1,,organization,,2
+412,903311212,SeaSpray Wave SRL Solutions,partnership,2.540757,organization,MC1,,,,2
+413,903311212,SeaSpray Wave SRL Solutions,partnership,1.629571,,MC1,,organization,,2
+414,903311212,Daniel Pruitt,membership,0.870419,organization,MC1,,person,Rio Isla,2
+415,903311212,Daniel Pruitt,membership,0.854619,person,MC1,Rio Isla,organization,,2
+416,Moo,âAs,partnership,0.856610,event,MC1,,,,2
+417,Moo,âAs,partnership,0.832815,,MC1,,event,,2
+418,Ricardo Gomez,The Salty Dog Tidepool Kga Transport,membership,0.844246,person,MC1,Country_271835,,,2
+419,Ricardo Gomez,The Salty Dog Tidepool Kga Transport,membership,0.876405,,MC1,,person,Country_271835,2
+420,75471,The Salty Dog Tidepool Kga Transport,membership,0.900602,organization,MC1,,,,2
+421,75471,The Salty Dog Tidepool Kga Transport,membership,0.847740,,MC1,,organization,,2
+422,75471,Linda Holden,partnership,0.912223,organization,MC1,,person,Country_271835,2
+423,75471,Linda Holden,partnership,0.899462,person,MC1,Country_271835,organization,,2
+424,4962642,McGovern BBB,partnership,0.867985,organization,MC1,,,,2
+425,4962642,McGovern BBB,partnership,0.825804,,MC1,,organization,,2
+426,858,941899076,membership,0.945229,organization,MC1,,organization,,2
+427,858,941899076,membership,0.925767,organization,MC1,,organization,,2
+428,941899076,Alyssa Gonzalez,membership,0.931099,organization,MC1,,person,Country_271835,2
+429,941899076,Alyssa Gonzalez,membership,0.907485,person,MC1,Country_271835,organization,,2
+430,6406914,Moo,partnership,0.856482,organization,MC1,,,,2
+431,6406914,Moo,partnership,0.890902,,MC1,,organization,,2
+432,64338295,81,ownership,0.831012,organization,MC1,,organization,,2
+433,64338295,81,ownership,0.872944,organization,MC1,,organization,,2
+434,81,Fresh On Time Seafood,membership,0.809391,organization,MC1,,,,2
+435,81,Fresh On Time Seafood,membership,0.811742,,MC1,,organization,,2
+436,805275,94361818,ownership,0.847569,organization,MC1,,organization,,2
+437,805275,94361818,ownership,0.938694,organization,MC1,,organization,,2
+438,Benjamin Snyder,b3de0895-285e-4ea8-99bb-ffdc763f7038,ownership,0.852326,person,MC1,Orvietea,location,,2
+439,Benjamin Snyder,b3de0895-285e-4ea8-99bb-ffdc763f7038,ownership,0.871765,location,MC1,,person,Orvietea,2
+440,7490484,Kari Padilla,partnership,0.839585,organization,MC1,,person,Country_271835,2
+441,7490484,Kari Padilla,partnership,0.808929,person,MC1,Country_271835,organization,,2
+442,Benton Ltd. Liability Co,ninety,partnership,0.912897,company,MC1,Country_271835,movement,,2
+443,Benton Ltd. Liability Co,ninety,partnership,0.958416,movement,MC1,,company,Country_271835,2
+444,Benton Ltd. Liability Co,dup90,partnership,0.937916,company,MC1,Country_271835,event,,2
+445,Benton Ltd. Liability Co,dup90,partnership,0.956565,event,MC1,,company,Country_271835,2
+446,Benton Ltd. Liability Co,sh rn y Corporation,partnership,0.918121,company,MC1,Country_271835,,,2
+447,Benton Ltd. Liability Co,sh rn y Corporation,partnership,0.958378,,MC1,,company,Country_271835,2
+448,822596165,Benton Ltd. Liability Co,partnership,0.944790,company,MC1,Country_271835,organization,,2
+449,822596165,Benton Ltd. Liability Co,partnership,0.981557,organization,MC1,,company,Country_271835,2
+450,5421,Benton Ltd. Liability Co,partnership,0.974924,company,MC1,Country_271835,organization,,2
+451,5421,Benton Ltd. Liability Co,partnership,0.982986,organization,MC1,,company,Country_271835,2
+452,Benton Ltd. Liability Co,Pez Dorado BV Logistics,partnership,0.923978,company,MC1,Country_271835,company,Country_271835,2
+453,Benton Ltd. Liability Co,Pez Dorado BV Logistics,partnership,0.982034,company,MC1,Country_271835,company,Country_271835,2
+454,019d89a8-36be-4402-bf3c-d13cb982cf3f,Benton Ltd. Liability Co,partnership,0.936091,company,MC1,Country_271835,location,,2
+455,019d89a8-36be-4402-bf3c-d13cb982cf3f,Benton Ltd. Liability Co,partnership,0.946715,location,MC1,,company,Country_271835,2
+456,5421,Pez Dorado BV Logistics,partnership,0.949536,organization,MC1,,company,Country_271835,2
+457,5421,Pez Dorado BV Logistics,partnership,0.924472,company,MC1,Country_271835,organization,,2
+458,019d89a8-36be-4402-bf3c-d13cb982cf3f,sh rn y Corporation,partnership,0.881960,location,MC1,,,,2
+459,019d89a8-36be-4402-bf3c-d13cb982cf3f,sh rn y Corporation,partnership,0.951401,,MC1,,location,,2
+460,9237588,William Murray,membership,0.816997,organization,MC1,,person,Country_271835,2
+461,9237588,William Murray,membership,0.855627,person,MC1,Country_271835,organization,,2
+462,93252,Erica Hamilton,ownership,0.925126,organization,MC1,,person,Marebak,2
+463,93252,Erica Hamilton,ownership,0.825904,person,MC1,Marebak,organization,,2
+464,464454263,Erica Hamilton,membership,0.880432,person,MC1,Marebak,organization,,2
+465,464454263,Erica Hamilton,membership,0.804233,organization,MC1,,person,Marebak,2
+466,Erica Hamilton,Sandra Martinez,family_relationship,0.844123,person,MC1,Marebak,person,Country_144251,2
+467,Erica Hamilton,Sandra Martinez,family_relationship,0.914195,person,MC1,Country_144251,person,Marebak,2
+468,1354,Erica Hamilton,partnership,0.907011,person,MC1,Marebak,organization,,2
+469,1354,Erica Hamilton,partnership,0.838156,organization,MC1,,person,Marebak,2
+470,52193,Erica Hamilton,partnership,0.820903,person,MC1,Marebak,organization,,2
+471,52193,Erica Hamilton,partnership,0.860474,organization,MC1,,person,Marebak,2
+472,Eva,Sandra Martinez,partnership,0.911984,person,MC1,Country_144251,,,2
+473,Eva,Sandra Martinez,partnership,0.948582,,MC1,,person,Country_144251,2
+474,4942,Sandra Martinez,partnership,0.858884,person,MC1,Country_144251,organization,,2
+475,4942,Sandra Martinez,partnership,0.914631,organization,MC1,,person,Country_144251,2
+476,Ht Shipping,Sandra Martinez,partnership,0.849263,person,MC1,Country_144251,,,2
+477,Ht Shipping,Sandra Martinez,partnership,0.862293,,MC1,,person,Country_144251,2
+478,52193,Sandra Martinez,partnership,0.884326,person,MC1,Country_144251,organization,,2
+479,52193,Sandra Martinez,partnership,0.861752,organization,MC1,,person,Country_144251,2
+480,52193,Austin Welch,partnership,0.885067,person,MC1,Country_271835,organization,,2
+481,52193,Austin Welch,partnership,0.880102,organization,MC1,,person,Country_271835,2
+482,464454263,Intrepid Navigators,membership,0.912917,organization,MC1,,,,2
+483,464454263,Intrepid Navigators,membership,0.900269,,MC1,,organization,,2
+484,1354,982519647,partnership,0.849103,organization,MC1,,organization,,2
+485,1354,982519647,partnership,0.930278,organization,MC1,,organization,,2
+486,1354,923825740,partnership,0.877179,organization,MC1,,organization,,2
+487,1354,923825740,partnership,0.856242,organization,MC1,,organization,,2
+488,Pontus Navigation Corp,Triton Navigation Corp,membership,0.829658,,MC1,,,,2
+489,Pontus Navigation Corp,Triton Navigation Corp,membership,0.814406,,MC1,,,,2
+490,52193,Laura Joseph,partnership,0.829694,organization,MC1,,person,Country_144251,2
+491,52193,Laura Joseph,partnership,0.885896,person,MC1,Country_144251,organization,,2
+492,52193,Ht Shipping,partnership,0.826174,organization,MC1,,,,2
+493,52193,Ht Shipping,partnership,0.884001,,MC1,,organization,,2
+494,52193,Thai Union Seafood,partnership,0.885085,organization,MC1,,,,2
+495,52193,Thai Union Seafood,partnership,0.882288,,MC1,,organization,,2
+496,Ht Shipping,Laura Joseph,partnership,0.825301,person,MC1,Country_144251,,,2
+497,Ht Shipping,Laura Joseph,partnership,0.816853,,MC1,,person,Country_144251,2
+498,James Horton,SeaSpray Wave SRL Solutions,membership,0.963734,person,MC1,Country_271835,,,2
+499,James Horton,SeaSpray Wave SRL Solutions,membership,0.841208,,MC1,,person,Country_271835,2
+500,17592,5d1f2e9c-f74a-41e9-974f-9b4e57edc9d7,family_relationship,0.871024,political_organization,MC1,,location,,2
+501,17592,5d1f2e9c-f74a-41e9-974f-9b4e57edc9d7,family_relationship,0.855463,location,MC1,,political_organization,,2
+502,1968776,James Stewart,membership,0.881318,person,MC1,Country_271835,organization,,2
+503,1968776,James Stewart,membership,0.855290,organization,MC1,,person,Country_271835,2
+504,460859346,Forwading S.A. de C.V.,partnership,0.823877,political_organization,MC1,,,,2
+505,460859346,Forwading S.A. de C.V.,partnership,0.892947,,MC1,,political_organization,,2
+506,Harold Strickland,Sandra Bullock,family_relationship,0.950694,person,MC1,Country_789455,person,Country_789455,2
+507,Harold Strickland,Sandra Bullock,family_relationship,0.912633,person,MC1,Country_789455,person,Country_789455,2
+508,John Hall,Sandra Bullock,family_relationship,0.940225,person,MC1,Country_789455,person,Country_789455,2
+509,John Hall,Sandra Bullock,family_relationship,0.940949,person,MC1,Country_789455,person,Country_789455,2
+510,Samuel Dunn,Sandra Bullock,family_relationship,0.878061,person,MC1,Country_789455,person,Country_990614,2
+511,Samuel Dunn,Sandra Bullock,family_relationship,0.888886,person,MC1,Country_990614,person,Country_789455,2
+512,Mark Garcia,Samuel Dunn,family_relationship,0.864373,person,MC1,Country_789455,person,Country_990614,2
+513,Mark Garcia,Samuel Dunn,family_relationship,0.853318,person,MC1,Country_990614,person,Country_789455,2
+514,Daniel Chang,Samuel Dunn,family_relationship,0.910186,person,MC1,Country_990614,person,Country_271835,2
+515,Daniel Chang,Samuel Dunn,family_relationship,0.878439,person,MC1,Country_271835,person,Country_990614,2
+516,Ocean Fisheries Llc,cc3c9a3e-9226-43e0-9c2e-2cabec77b0fc,membership,0.870217,location,MC1,,,,2
+517,Ocean Fisheries Llc,cc3c9a3e-9226-43e0-9c2e-2cabec77b0fc,membership,0.905230,,MC1,,location,,2
+518,Kevin Burnett,Mar de la Vida OJSC,partnership,0.812323,person,MC1,Country_271835,,,2
+519,Kevin Burnett,Mar de la Vida OJSC,partnership,0.884882,,MC1,,person,Country_271835,2
+520,6eda4eb1-cdb8-4d61-8c72-fae33deb91a7,Sea Breezes GmbH & Co. KG Lighthouse,partnership,0.889957,location,MC1,,,,2
+521,6eda4eb1-cdb8-4d61-8c72-fae33deb91a7,Sea Breezes GmbH & Co. KG Lighthouse,partnership,0.864057,,MC1,,location,,2
+522,6242224,Paul Johnson,partnership,0.827354,political_organization,MC1,,person,Country_271835,2
+523,6242224,Paul Johnson,partnership,0.822773,person,MC1,Country_271835,political_organization,,2
+524,Luis Jones,c01c6a10-60c9-4f11-9409-aa04c3963826,partnership,0.931699,person,MC1,Riodelsol,location,,2
+525,Luis Jones,c01c6a10-60c9-4f11-9409-aa04c3963826,partnership,0.983413,location,MC1,,person,Riodelsol,2
+526,156,c01c6a10-60c9-4f11-9409-aa04c3963826,partnership,0.916957,location,MC1,,political_organization,,2
+527,156,c01c6a10-60c9-4f11-9409-aa04c3963826,partnership,0.925574,political_organization,MC1,,location,,2
+528,1eb512b7-c4ce-4b7e-9965-2236bf1afc9e,c01c6a10-60c9-4f11-9409-aa04c3963826,partnership,0.919516,location,MC1,,location,,2
+529,1eb512b7-c4ce-4b7e-9965-2236bf1afc9e,c01c6a10-60c9-4f11-9409-aa04c3963826,partnership,0.911449,location,MC1,,location,,2
+530,51,c01c6a10-60c9-4f11-9409-aa04c3963826,partnership,0.967088,location,MC1,,political_organization,,2
+531,51,c01c6a10-60c9-4f11-9409-aa04c3963826,partnership,0.873646,political_organization,MC1,,location,,2
+532,William Rivera,c01c6a10-60c9-4f11-9409-aa04c3963826,membership,0.861662,location,MC1,,person,Country_214033,2
+533,William Rivera,c01c6a10-60c9-4f11-9409-aa04c3963826,membership,0.800649,person,MC1,Country_214033,location,,2
+534,Liibaan General Trading Co,c01c6a10-60c9-4f11-9409-aa04c3963826,membership,0.902913,location,MC1,,,,2
+535,Liibaan General Trading Co,c01c6a10-60c9-4f11-9409-aa04c3963826,membership,0.814153,,MC1,,location,,2
+536,Sonia Fisheries Pvt,c01c6a10-60c9-4f11-9409-aa04c3963826,ownership,0.921157,location,MC1,,,,2
+537,Sonia Fisheries Pvt,c01c6a10-60c9-4f11-9409-aa04c3963826,ownership,0.831570,,MC1,,location,,2
+538,Mark Hernandez PhD,Sarah Garcia,family_relationship,0.960829,person,MC1,Oceanterra,person,Country_271835,2
+539,Mark Hernandez PhD,Sarah Garcia,family_relationship,0.860166,person,MC1,Country_271835,person,Oceanterra,2
+540,Jessica James,Mark Hernandez PhD,family_relationship,0.949191,person,MC1,Oceanterra,person,Country_271835,2
+541,Jessica James,Mark Hernandez PhD,family_relationship,0.883072,person,MC1,Country_271835,person,Oceanterra,2
+542,5700,Mark Hernandez PhD,membership,0.840799,person,MC1,Oceanterra,organization,,2
+543,5700,Mark Hernandez PhD,membership,0.885765,organization,MC1,,person,Oceanterra,2
+544,93380783,Mark Hernandez PhD,membership,0.900548,person,MC1,Oceanterra,organization,,2
+545,93380783,Mark Hernandez PhD,membership,0.877211,organization,MC1,,person,Oceanterra,2
+546,19285,912077,membership,0.893741,political_organization,MC1,,organization,,2
+547,19285,912077,membership,0.828729,organization,MC1,,political_organization,,2
+548,05d471b4-0e8c-4879-80b2-ef600220e09d,Texasâ,ownership,0.823324,,MC1,,location,,2
+549,05d471b4-0e8c-4879-80b2-ef600220e09d,Texasâ,ownership,0.853588,location,MC1,,,,2
+550,46901627,55674,membership,0.836086,organization,MC1,,organization,,2
+551,46901627,55674,membership,0.810557,organization,MC1,,organization,,2
+552,55674,Nagaland Sea Ltd. Liability Co &,membership,0.832712,organization,MC1,,,,2
+553,55674,Nagaland Sea Ltd. Liability Co &,membership,0.817366,,MC1,,organization,,2
+554,John Brown,Nagaland Sea Ltd. Liability Co &,membership,0.815417,person,MC1,Country_746165,,,2
+555,John Brown,Nagaland Sea Ltd. Liability Co &,membership,0.868454,,MC1,,person,Country_746165,2
+556,0d6a2f35-fccd-4cbf-865e-3ed08abb6a95,All,family_relationship,0.852852,location,MC1,,,,2
+557,0d6a2f35-fccd-4cbf-865e-3ed08abb6a95,All,family_relationship,0.958898,,MC1,,location,,2
+558,Christopher Fields,Sonia Fisheries Pvt,ownership,0.905857,person,MC1,Country_470077,,,2
+559,Christopher Fields,Sonia Fisheries Pvt,ownership,0.868182,,MC1,,person,Country_470077,2
+560,353,Courtney Johnson,membership,0.859117,person,MC1,Marebak,organization,,2
+561,353,Courtney Johnson,membership,0.857526,organization,MC1,,person,Marebak,2
+562,6 Ray LLC Enterprises,AirPods,partnership,0.901007,vessel,MC1,,,,2
+563,6 Ray LLC Enterprises,AirPods,partnership,0.964768,,MC1,,vessel,,2
+564,Christopher Cunningham,Irish Sea Seaside GmbH & Co. KG Distribution,family_relationship,0.928294,person,MC1,Oceanus,,,2
+565,Christopher Cunningham,Irish Sea Seaside GmbH & Co. KG Distribution,family_relationship,2.595439,,MC1,,person,Oceanus,2
+566,Christopher Cunningham,Estrella de Coral Ltd. Corporation Logistics,partnership,0.854794,person,MC1,Oceanus,,,2
+567,Christopher Cunningham,Estrella de Coral Ltd. Corporation Logistics,partnership,0.800918,,MC1,,person,Oceanus,2
+568,Christopher Cunningham,b8567859-bf54-49fd-8332-5775e19c65af,membership,0.955442,person,MC1,Oceanus,location,,2
+569,Christopher Cunningham,b8567859-bf54-49fd-8332-5775e19c65af,membership,0.941091,location,MC1,,person,Oceanus,2
+570,Ancla Azul Company Solutions,Mar de la Vida OJSC,membership,0.900273,,MC1,,,,2
+571,Ancla Azul Company Solutions,Mar de la Vida OJSC,membership,0.933502,,MC1,,,,2
+572,Ocean Fisheries Llc,SeaSpray Wave SRL Solutions,family_relationship,2.659901,,MC1,,,,2
+573,Ocean Fisheries Llc,SeaSpray Wave SRL Solutions,family_relationship,1.770644,,MC1,,,,2
+574,Ocean Fisheries Llc,SeaSpray Wave SRL Solutions,partnership,5.916487,,MC1,,,,2
+575,Ocean Fisheries Llc,SeaSpray Wave SRL Solutions,partnership,0.849936,,MC1,,,,2
+576,Ocean Fisheries Llc,SeaSpray Wave SRL Solutions,membership,7.925211,,MC1,,,,2
+577,Ocean Fisheries Llc,SeaSpray Wave SRL Solutions,membership,6.815232,,MC1,,,,2
+578,Ocean Fisheries Llc,SeaSpray Wave SRL Solutions,ownership,2.456995,,MC1,,,,2
+579,Ocean Fisheries Llc,SeaSpray Wave SRL Solutions,ownership,6.033668,,MC1,,,,2
+580,Ocean Fisheries Llc,Tamil Nadu S.p.A.,membership,0.810284,,MC1,,,,2
+581,Ocean Fisheries Llc,Tamil Nadu S.p.A.,membership,0.833250,,MC1,,,,2
+582,SMILE,âIllegal,partnership,0.944864,,MC1,,,,2
+583,SMILE,âIllegal,partnership,0.989469,,MC1,,,,2
+584,Sea Harvest,Sea Products,membership,0.904079,,MC1,,,,2
+585,Sea Harvest,Sea Products,membership,0.960678,,MC1,,,,2
+586,Madhya Pradesh Market BV,Sea Harvest,family_relationship,0.838762,,MC1,,,,2
+587,Madhya Pradesh Market BV,Sea Harvest,family_relationship,0.855869,,MC1,,,,2
+588,Fresh On Time Seafood,Intrepid Navigators,membership,0.811744,,MC1,,,,2
+589,Fresh On Time Seafood,Intrepid Navigators,membership,0.841976,,MC1,,,,2

@@ -1,0 +1,1427 @@
+dup77
+key=0
+membership
+dup38
+key=0
+partnership
+Fisherman'sFriend Charter Boat S.A. de C.V. Freight 
+key=0
+ownership
+464454263
+key=0
+membership
+Erica Hamilton
+key=0
+partnership
+160
+key=0
+membership
+8327
+----------------------
+dup77
+key=0
+membership
+dup38
+key=0
+partnership
+Fisherman'sFriend Charter Boat S.A. de C.V. Freight 
+key=0
+ownership
+464454263
+key=0
+membership
+Erica Hamilton
+key=0
+ownership
+979893388
+----------------------
+dup77
+key=0
+membership
+dup38
+key=0
+partnership
+Fisherman'sFriend Charter Boat S.A. de C.V. Freight 
+key=0
+ownership
+464454263
+key=0
+membership
+Erica Hamilton
+key=0
+partnership
+1354
+key=0
+ownership
+48259
+key=0
+partnership
+143129355
+key=0
+ownership
+Spanish Shrimp  Carriers
+key=0
+membership
+Ancla Azul Company Solutions
+key=0
+membership
+Mar de la Vida OJSC
+----------------------
+dup77
+key=0
+membership
+dup38
+key=0
+partnership
+Fisherman'sFriend Charter Boat S.A. de C.V. Freight 
+key=0
+ownership
+464454263
+key=0
+membership
+Erica Hamilton
+key=0
+ownership
+979893388
+key=0
+ownership
+Oceanfront Oasis Inc Carriers
+----------------------
+water
+key=0
+membership
+7691
+key=0
+membership
+4764109
+key=0
+membership
+185040354
+key=0
+membership
+903311212
+key=0
+ownership
+160
+key=0
+membership
+8327
+----------------------
+water
+key=0
+membership
+7691
+key=0
+family_relationship
+Spanish Shrimp  Carriers
+key=0
+membership
+Mar del Oeste Pic
+key=8
+membership
+SeaSpray Wave SRL Solutions
+key=3
+family_relationship
+979893388
+----------------------
+water
+key=0
+membership
+7691
+key=0
+family_relationship
+Spanish Shrimp  Carriers
+key=0
+membership
+Ancla Azul Company Solutions
+key=0
+membership
+Mar de la Vida OJSC
+----------------------
+water
+key=0
+membership
+7691
+key=0
+family_relationship
+Spanish Shrimp  Carriers
+key=0
+membership
+Mar del Oeste Pic
+key=8
+membership
+SeaSpray Wave SRL Solutions
+key=3
+family_relationship
+979893388
+key=0
+ownership
+Oceanfront Oasis Inc Carriers
+----------------------
+Gulf
+key=0
+membership
+Christopher Cunningham
+key=0
+membership
+967900443
+key=0
+partnership
+47679
+key=0
+family_relationship
+903311212
+key=0
+ownership
+160
+key=0
+membership
+8327
+----------------------
+Gulf
+key=0
+ownership
+Ocean Fisheries Llc
+key=1
+membership
+png xi  Line
+key=9
+partnership
+SeaSpray Wave SRL Solutions
+key=3
+family_relationship
+979893388
+----------------------
+Gulf
+key=0
+membership
+Christopher Cunningham
+key=0
+partnership
+cefaf8b3-3aa2-4c59-b4aa-7974c8e1fe32
+key=0
+membership
+Ancla Azul Company Solutions
+key=0
+membership
+Mar de la Vida OJSC
+----------------------
+Gulf
+key=0
+ownership
+Ocean Fisheries Llc
+key=1
+membership
+png xi  Line
+key=9
+partnership
+SeaSpray Wave SRL Solutions
+key=3
+family_relationship
+979893388
+key=0
+ownership
+Oceanfront Oasis Inc Carriers
+----------------------
+salmon
+key=0
+ownership
+George Ramirez
+key=0
+ownership
+d5b94ebc-e03a-438e-872b-a15db349a748
+key=0
+membership
+903311212
+key=0
+ownership
+160
+key=0
+membership
+8327
+----------------------
+salmon
+key=0
+ownership
+George Ramirez
+key=0
+ownership
+d5b94ebc-e03a-438e-872b-a15db349a748
+key=0
+membership
+903311212
+key=2
+membership
+979893388
+----------------------
+salmon
+key=0
+ownership
+George Ramirez
+key=0
+ownership
+d5b94ebc-e03a-438e-872b-a15db349a748
+key=0
+membership
+Mar del Oeste Pic
+key=0
+ownership
+d4947401-8ec7-48b9-a66f-45d983d59e0a
+key=0
+membership
+9345
+key=0
+membership
+Mar de la Vida OJSC
+----------------------
+salmon
+key=0
+ownership
+George Ramirez
+key=0
+ownership
+d5b94ebc-e03a-438e-872b-a15db349a748
+key=0
+membership
+903311212
+key=2
+membership
+979893388
+key=0
+ownership
+Oceanfront Oasis Inc Carriers
+----------------------
+Plastic
+key=0
+partnership
+Patricia Hunter
+key=0
+partnership
+Kerala Market Corp Consulting
+key=0
+ownership
+3129
+key=0
+membership
+6780
+key=0
+partnership
+3506021
+key=0
+ownership
+185040354
+key=0
+membership
+903311212
+key=0
+ownership
+160
+key=0
+membership
+8327
+----------------------
+Plastic
+key=0
+partnership
+Daniel Middleton
+key=0
+family_relationship
+John Conley
+key=0
+ownership
+âHis
+key=0
+ownership
+Amanda Andrews
+key=0
+family_relationship
+Amanda Mckenzie
+key=0
+partnership
+Estrella de Coral Ltd. Corporation Logistics
+key=0
+family_relationship
+Mar del Oeste Pic
+key=8
+membership
+SeaSpray Wave SRL Solutions
+key=3
+family_relationship
+979893388
+----------------------
+Plastic
+key=0
+partnership
+Daniel Middleton
+key=0
+family_relationship
+John Conley
+key=0
+ownership
+âHis
+key=0
+ownership
+Amanda Andrews
+key=0
+family_relationship
+Amanda Mckenzie
+key=0
+family_relationship
+Jeremy Norris
+key=0
+partnership
+341411
+key=0
+membership
+Spanish Shrimp  Carriers
+key=0
+membership
+Ancla Azul Company Solutions
+key=0
+membership
+Mar de la Vida OJSC
+----------------------
+Plastic
+key=0
+partnership
+Daniel Middleton
+key=0
+family_relationship
+John Conley
+key=0
+ownership
+âHis
+key=0
+ownership
+Amanda Andrews
+key=0
+family_relationship
+Amanda Mckenzie
+key=0
+partnership
+Estrella de Coral Ltd. Corporation Logistics
+key=0
+family_relationship
+Mar del Oeste Pic
+key=8
+membership
+SeaSpray Wave SRL Solutions
+key=3
+family_relationship
+979893388
+key=0
+ownership
+Oceanfront Oasis Inc Carriers
+----------------------
+19
+key=0
+ownership
+903311212
+key=0
+ownership
+160
+key=0
+membership
+8327
+----------------------
+19
+key=0
+ownership
+SeaSpray Wave SRL Solutions
+key=3
+family_relationship
+979893388
+----------------------
+19
+key=0
+membership
+Faroe Islands Shrimp Shark
+key=0
+family_relationship
+Ancla Azul Company Solutions
+key=0
+membership
+Mar de la Vida OJSC
+----------------------
+19
+key=0
+ownership
+SeaSpray Wave SRL Solutions
+key=3
+family_relationship
+979893388
+key=0
+ownership
+Oceanfront Oasis Inc Carriers
+----------------------
+dup626
+key=0
+membership
+DOFâs
+key=0
+membership
+b8567859-bf54-49fd-8332-5775e19c65af
+key=0
+family_relationship
+7505050
+key=0
+membership
+435054320
+key=0
+membership
+8327
+----------------------
+dup626
+key=0
+membership
+DOFâs
+key=0
+membership
+b8567859-bf54-49fd-8332-5775e19c65af
+key=0
+family_relationship
+979893388
+----------------------
+dup626
+key=0
+membership
+DOFâs
+key=0
+partnership
+98332
+key=0
+partnership
+SeaSpray Wave SRL Solutions
+key=4
+ownership
+Mar del Oeste Pic
+key=0
+ownership
+d4947401-8ec7-48b9-a66f-45d983d59e0a
+key=0
+membership
+9345
+key=0
+membership
+Mar de la Vida OJSC
+----------------------
+dup626
+key=0
+membership
+DOFâs
+key=0
+membership
+b8567859-bf54-49fd-8332-5775e19c65af
+key=0
+family_relationship
+979893388
+key=0
+ownership
+Oceanfront Oasis Inc Carriers
+----------------------
+629
+key=0
+membership
+43685541
+key=0
+ownership
+7691
+key=0
+membership
+4764109
+key=0
+membership
+185040354
+key=0
+membership
+903311212
+key=0
+ownership
+160
+key=0
+membership
+8327
+----------------------
+629
+key=0
+membership
+43685541
+key=0
+partnership
+Amanda Mckenzie
+key=0
+ownership
+Mar del Oeste Pic
+key=8
+membership
+SeaSpray Wave SRL Solutions
+key=3
+family_relationship
+979893388
+----------------------
+629
+key=0
+membership
+43685541
+key=0
+partnership
+Amanda Mckenzie
+key=0
+ownership
+Mar del Oeste Pic
+key=0
+ownership
+d4947401-8ec7-48b9-a66f-45d983d59e0a
+key=0
+membership
+9345
+key=0
+membership
+Mar de la Vida OJSC
+----------------------
+629
+key=0
+membership
+43685541
+key=0
+partnership
+Amanda Mckenzie
+key=0
+ownership
+Mar del Oeste Pic
+key=8
+membership
+SeaSpray Wave SRL Solutions
+key=3
+family_relationship
+979893388
+key=0
+ownership
+Oceanfront Oasis Inc Carriers
+----------------------
+ocean
+key=0
+partnership
+png xi  Line
+key=0
+ownership
+7505050
+key=0
+membership
+435054320
+key=0
+membership
+8327
+----------------------
+ocean
+key=0
+partnership
+png xi  Line
+key=1
+partnership
+341411
+key=0
+membership
+19
+key=0
+ownership
+SeaSpray Wave SRL Solutions
+key=3
+family_relationship
+979893388
+----------------------
+ocean
+key=0
+partnership
+png xi  Line
+key=1
+partnership
+341411
+key=0
+membership
+Spanish Shrimp  Carriers
+key=0
+membership
+Ancla Azul Company Solutions
+key=0
+membership
+Mar de la Vida OJSC
+----------------------
+ocean
+key=0
+partnership
+png xi  Line
+key=1
+partnership
+341411
+key=0
+membership
+19
+key=0
+ownership
+SeaSpray Wave SRL Solutions
+key=3
+family_relationship
+979893388
+key=0
+ownership
+Oceanfront Oasis Inc Carriers
+----------------------
+bottom
+key=0
+membership
+7670
+key=0
+partnership
+Estrella de Coral Ltd. Corporation Logistics
+key=0
+partnership
+979893388
+key=0
+ownership
+Erica Hamilton
+key=0
+partnership
+160
+key=0
+membership
+8327
+----------------------
+bottom
+key=0
+membership
+7670
+key=0
+partnership
+Estrella de Coral Ltd. Corporation Logistics
+key=0
+partnership
+979893388
+----------------------
+bottom
+key=0
+membership
+7670
+key=0
+partnership
+Estrella de Coral Ltd. Corporation Logistics
+key=0
+family_relationship
+19285
+key=0
+membership
+Ancla Azul Company Solutions
+key=0
+membership
+Mar de la Vida OJSC
+----------------------
+bottom
+key=0
+membership
+7670
+key=0
+partnership
+Estrella de Coral Ltd. Corporation Logistics
+key=0
+partnership
+979893388
+key=0
+ownership
+Oceanfront Oasis Inc Carriers
+----------------------
+USS
+key=0
+ownership
+Gulf
+key=0
+membership
+Christopher Cunningham
+key=0
+membership
+967900443
+key=0
+partnership
+47679
+key=0
+family_relationship
+903311212
+key=0
+ownership
+160
+key=0
+membership
+8327
+----------------------
+USS
+key=0
+ownership
+Gulf
+key=0
+ownership
+Ocean Fisheries Llc
+key=1
+membership
+png xi  Line
+key=9
+partnership
+SeaSpray Wave SRL Solutions
+key=3
+family_relationship
+979893388
+----------------------
+USS
+key=0
+ownership
+Gulf
+key=0
+membership
+Christopher Cunningham
+key=0
+partnership
+cefaf8b3-3aa2-4c59-b4aa-7974c8e1fe32
+key=0
+membership
+Ancla Azul Company Solutions
+key=0
+membership
+Mar de la Vida OJSC
+----------------------
+USS
+key=0
+ownership
+Gulf
+key=0
+ownership
+Ocean Fisheries Llc
+key=1
+membership
+png xi  Line
+key=9
+partnership
+SeaSpray Wave SRL Solutions
+key=3
+family_relationship
+979893388
+key=0
+ownership
+Oceanfront Oasis Inc Carriers
+----------------------
+PC
+key=0
+membership
+185040354
+key=0
+membership
+903311212
+key=0
+ownership
+160
+key=0
+membership
+8327
+----------------------
+PC
+key=0
+membership
+185040354
+key=0
+membership
+903311212
+key=2
+membership
+979893388
+----------------------
+PC
+key=0
+membership
+185040354
+key=0
+partnership
+Faroe Islands Shrimp Shark
+key=0
+family_relationship
+Ancla Azul Company Solutions
+key=0
+membership
+Mar de la Vida OJSC
+----------------------
+PC
+key=0
+membership
+185040354
+key=0
+membership
+903311212
+key=2
+membership
+979893388
+key=0
+ownership
+Oceanfront Oasis Inc Carriers
+----------------------
+Oliver
+key=0
+partnership
+Wendy Crane
+key=0
+membership
+Faroe Islands Shrimp Shark
+key=0
+membership
+185040354
+key=0
+membership
+903311212
+key=0
+ownership
+160
+key=0
+membership
+8327
+----------------------
+Oliver
+key=0
+partnership
+Wendy Crane
+key=0
+family_relationship
+Abigail Foster
+key=0
+ownership
+ad8fe467-3759-4f53-bf6a-896a237d187f
+key=0
+family_relationship
+979893388
+----------------------
+Oliver
+key=0
+partnership
+Wendy Crane
+key=0
+family_relationship
+Abigail Foster
+key=0
+membership
+Spanish Shrimp  Carriers
+key=0
+membership
+Ancla Azul Company Solutions
+key=0
+membership
+Mar de la Vida OJSC
+----------------------
+Oliver
+key=0
+partnership
+Wendy Crane
+key=0
+family_relationship
+Abigail Foster
+key=0
+ownership
+ad8fe467-3759-4f53-bf6a-896a237d187f
+key=0
+family_relationship
+979893388
+key=0
+ownership
+Oceanfront Oasis Inc Carriers
+----------------------
+HMS Montrose
+key=0
+ownership
+b8567859-bf54-49fd-8332-5775e19c65af
+key=0
+partnership
+png xi  Line
+key=0
+ownership
+7505050
+key=0
+membership
+435054320
+key=0
+membership
+8327
+----------------------
+HMS Montrose
+key=0
+ownership
+b8567859-bf54-49fd-8332-5775e19c65af
+key=1
+partnership
+Faroe Islands Shrimp Shark
+key=0
+partnership
+979893388
+----------------------
+HMS Montrose
+key=0
+ownership
+b8567859-bf54-49fd-8332-5775e19c65af
+key=0
+membership
+Christopher Cunningham
+key=1
+membership
+341411
+key=0
+membership
+Spanish Shrimp  Carriers
+key=0
+membership
+Ancla Azul Company Solutions
+key=0
+membership
+Mar de la Vida OJSC
+----------------------
+HMS Montrose
+key=0
+ownership
+b8567859-bf54-49fd-8332-5775e19c65af
+key=1
+partnership
+Faroe Islands Shrimp Shark
+key=0
+partnership
+979893388
+key=0
+ownership
+Oceanfront Oasis Inc Carriers
+----------------------
+Talleyâs
+key=0
+membership
+Ocean Fisheries Llc
+key=5
+membership
+903311212
+key=0
+ownership
+160
+key=0
+membership
+8327
+----------------------
+Talleyâs
+key=0
+membership
+Ocean Fisheries Llc
+key=1
+membership
+png xi  Line
+key=9
+partnership
+SeaSpray Wave SRL Solutions
+key=3
+family_relationship
+979893388
+----------------------
+Talleyâs
+key=0
+membership
+Ocean Fisheries Llc
+key=5
+membership
+903311212
+key=8
+ownership
+Mar del Oeste Pic
+key=0
+ownership
+d4947401-8ec7-48b9-a66f-45d983d59e0a
+key=0
+membership
+9345
+key=0
+membership
+Mar de la Vida OJSC
+----------------------
+Talleyâs
+key=0
+membership
+Ocean Fisheries Llc
+key=1
+membership
+png xi  Line
+key=9
+partnership
+SeaSpray Wave SRL Solutions
+key=3
+family_relationship
+979893388
+key=0
+ownership
+Oceanfront Oasis Inc Carriers
+----------------------
+Ships
+key=0
+ownership
+222079892
+key=0
+ownership
+740111283
+key=0
+partnership
+cefaf8b3-3aa2-4c59-b4aa-7974c8e1fe32
+key=0
+membership
+Estrella de Coral Ltd. Corporation Logistics
+key=0
+family_relationship
+Mar del Oeste Pic
+key=10
+ownership
+903311212
+key=0
+ownership
+160
+key=0
+membership
+8327
+----------------------
+Ships
+key=0
+ownership
+222079892
+key=0
+ownership
+740111283
+key=0
+ownership
+341411
+key=0
+membership
+19
+key=0
+ownership
+SeaSpray Wave SRL Solutions
+key=3
+family_relationship
+979893388
+----------------------
+Ships
+key=0
+ownership
+222079892
+key=0
+ownership
+740111283
+key=0
+partnership
+cefaf8b3-3aa2-4c59-b4aa-7974c8e1fe32
+key=0
+membership
+Ancla Azul Company Solutions
+key=0
+membership
+Mar de la Vida OJSC
+----------------------
+Ships
+key=0
+ownership
+222079892
+key=0
+ownership
+740111283
+key=0
+ownership
+341411
+key=0
+membership
+19
+key=0
+ownership
+SeaSpray Wave SRL Solutions
+key=3
+family_relationship
+979893388
+key=0
+ownership
+Oceanfront Oasis Inc Carriers
+----------------------
+trucking
+key=0
+family_relationship
+425887173
+key=0
+family_relationship
+2262
+key=0
+family_relationship
+95
+key=0
+family_relationship
+185040354
+key=0
+membership
+903311212
+key=0
+ownership
+160
+key=0
+membership
+8327
+----------------------
+trucking
+key=0
+family_relationship
+425887173
+key=0
+family_relationship
+2262
+key=0
+partnership
+Spanish Shrimp  Carriers
+key=0
+membership
+Mar del Oeste Pic
+key=3
+ownership
+Ocean Fisheries Llc
+key=1
+membership
+png xi  Line
+key=9
+partnership
+SeaSpray Wave SRL Solutions
+key=3
+family_relationship
+979893388
+----------------------
+trucking
+key=0
+family_relationship
+425887173
+key=0
+family_relationship
+2262
+key=0
+partnership
+Spanish Shrimp  Carriers
+key=0
+membership
+Ancla Azul Company Solutions
+key=0
+membership
+Mar de la Vida OJSC
+----------------------
+trucking
+key=0
+family_relationship
+425887173
+key=0
+family_relationship
+2262
+key=0
+family_relationship
+Oceanfront Oasis Inc Carriers
+----------------------
+Deepwater Horizon
+key=0
+partnership
+Kerala Market Corp Consulting
+key=0
+ownership
+3129
+key=0
+membership
+6780
+key=0
+partnership
+3506021
+key=0
+ownership
+185040354
+key=0
+membership
+903311212
+key=0
+ownership
+160
+key=0
+membership
+8327
+----------------------
+Deepwater Horizon
+key=0
+partnership
+Kerala Market Corp Consulting
+key=0
+ownership
+3129
+key=0
+membership
+6780
+key=0
+membership
+Faroe Islands Shrimp Shark
+key=0
+ownership
+Sarah Garcia
+key=0
+family_relationship
+Jessica James
+key=0
+ownership
+c01c6a10-60c9-4f11-9409-aa04c3963826
+key=0
+partnership
+979893388
+----------------------
+Deepwater Horizon
+key=0
+partnership
+Kerala Market Corp Consulting
+key=0
+ownership
+3129
+key=0
+membership
+6780
+key=0
+partnership
+3506021
+key=0
+ownership
+Spanish Shrimp  Carriers
+key=0
+membership
+Ancla Azul Company Solutions
+key=0
+membership
+Mar de la Vida OJSC
+----------------------
+Deepwater Horizon
+key=0
+partnership
+Kerala Market Corp Consulting
+key=0
+ownership
+3129
+key=0
+membership
+6780
+key=0
+membership
+Faroe Islands Shrimp Shark
+key=0
+ownership
+Sarah Garcia
+key=0
+family_relationship
+Jessica James
+key=0
+ownership
+c01c6a10-60c9-4f11-9409-aa04c3963826
+key=0
+partnership
+979893388
+key=0
+ownership
+Oceanfront Oasis Inc Carriers
+----------------------
+Vessels
+key=0
+partnership
+Angela Chang
+key=0
+family_relationship
+Daniel Chang
+key=0
+family_relationship
+Samuel Dunn
+key=0
+family_relationship
+Richard Perkins
+key=0
+partnership
+png xi  Line
+key=0
+ownership
+7505050
+key=0
+membership
+435054320
+key=0
+membership
+8327
+----------------------
+Vessels
+key=0
+partnership
+Angela Chang
+key=0
+family_relationship
+Daniel Chang
+key=0
+family_relationship
+Samuel Dunn
+key=0
+family_relationship
+Richard Perkins
+key=0
+partnership
+png xi  Line
+key=9
+partnership
+SeaSpray Wave SRL Solutions
+key=3
+family_relationship
+979893388
+----------------------
+Vessels
+key=0
+partnership
+Angela Chang
+key=0
+family_relationship
+Daniel Chang
+key=0
+family_relationship
+Samuel Dunn
+key=0
+family_relationship
+Richard Perkins
+key=0
+partnership
+png xi  Line
+key=9
+membership
+Mar del Oeste Pic
+key=0
+ownership
+d4947401-8ec7-48b9-a66f-45d983d59e0a
+key=0
+membership
+9345
+key=0
+membership
+Mar de la Vida OJSC
+----------------------
+Vessels
+key=0
+partnership
+Angela Chang
+key=0
+family_relationship
+Daniel Chang
+key=0
+family_relationship
+Samuel Dunn
+key=0
+family_relationship
+Richard Perkins
+key=0
+partnership
+png xi  Line
+key=9
+partnership
+SeaSpray Wave SRL Solutions
+key=3
+family_relationship
+979893388
+key=0
+ownership
+Oceanfront Oasis Inc Carriers
+----------------------

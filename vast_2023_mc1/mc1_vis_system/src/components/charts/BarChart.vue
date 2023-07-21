@@ -20,7 +20,6 @@ const {title} =toRefs(props)
 
 const chart = function (){
   // d3.select("svg").remove();
-
   let data = [...rawData.value]
   for (let i = 0; i<data.length; i++) {
     data[i] = JSON.parse(JSON.stringify(data[i]))

@@ -1,0 +1,294 @@
+8327->dup77
+8327,membership,435054320
+family_relationship,Linda Sherman
+membership,dup77
+----------------------
+979893388->dup77
+979893388,family_relationship,Sept
+membership,Linda Sherman
+membership,dup77
+----------------------
+Mar de la Vida OJSC->dup77
+Mar de la Vida OJSC,family_relationship,b8567859-bf54-49fd-8332-5775e19c65af
+ownership,Mar del Oeste Pic
+family_relationship,Linda Sherman
+membership,dup77
+----------------------
+8327->water
+8327,membership,water
+----------------------
+979893388->water
+979893388,family_relationship,png xi  Line
+membership,water
+----------------------
+Mar de la Vida OJSC->water
+Mar de la Vida OJSC,family_relationship,b8567859-bf54-49fd-8332-5775e19c65af
+family_relationship,water
+----------------------
+8327->Gulf
+8327,ownership,weeks
+ownership,Playa del Cielo Kga
+membership,Gulf
+----------------------
+979893388->Gulf
+979893388,partnership,months
+membership,Playa del Cielo Kga
+membership,Gulf
+----------------------
+Mar de la Vida OJSC->Gulf
+Mar de la Vida OJSC,family_relationship,b8567859-bf54-49fd-8332-5775e19c65af
+family_relationship,Playa del Cielo Kga
+membership,Gulf
+----------------------
+8327->salmon
+8327,membership,435054320
+family_relationship,7298083
+membership,salmon
+----------------------
+979893388->salmon
+979893388,family_relationship,Sonia Fisheries Pvt
+ownership,salmon
+----------------------
+Mar de la Vida OJSC->salmon
+Mar de la Vida OJSC,family_relationship,b8567859-bf54-49fd-8332-5775e19c65af
+family_relationship,Sonia Fisheries Pvt
+ownership,salmon
+----------------------
+8327->Plastic
+8327,ownership,weeks
+ownership,Kari Zavala
+membership,Faroe Islands Shrimp Shark
+partnership,380
+membership,Plastic
+----------------------
+979893388->Plastic
+979893388,family_relationship,Faroe Islands Shrimp Shark
+partnership,380
+membership,Plastic
+----------------------
+Mar de la Vida OJSC->Plastic
+Mar de la Vida OJSC,family_relationship,b8567859-bf54-49fd-8332-5775e19c65af
+family_relationship,6731
+ownership,380
+membership,Plastic
+----------------------
+8327->19
+8327,membership,435054320
+membership,341411
+membership,19
+----------------------
+979893388->19
+979893388,partnership,Dana Goodwin
+ownership,19
+----------------------
+Mar de la Vida OJSC->19
+Mar de la Vida OJSC,family_relationship,b8567859-bf54-49fd-8332-5775e19c65af
+membership,341411
+membership,19
+----------------------
+8327->dup626
+8327,membership,435054320
+membership,Mar del Oeste Pic
+membership,Sierra Smith
+membership,dup626
+----------------------
+979893388->dup626
+979893388,family_relationship,Sonia Fisheries Pvt
+partnership,Sierra Smith
+membership,dup626
+----------------------
+Mar de la Vida OJSC->dup626
+Mar de la Vida OJSC,family_relationship,b8567859-bf54-49fd-8332-5775e19c65af
+family_relationship,Sonia Fisheries Pvt
+partnership,Sierra Smith
+membership,dup626
+----------------------
+8327->629
+8327,membership,water
+membership,7691
+membership,629
+----------------------
+979893388->629
+979893388,family_relationship,Faroe Islands Shrimp Shark
+partnership,7691
+membership,629
+----------------------
+Mar de la Vida OJSC->629
+Mar de la Vida OJSC,family_relationship,b8567859-bf54-49fd-8332-5775e19c65af
+family_relationship,water
+membership,7691
+membership,629
+----------------------
+8327->ocean
+8327,membership,435054320
+ownership,903311212
+family_relationship,ocean
+----------------------
+979893388->ocean
+979893388,partnership,2913
+family_relationship,903311212
+family_relationship,ocean
+----------------------
+Mar de la Vida OJSC->ocean
+Mar de la Vida OJSC,family_relationship,b8567859-bf54-49fd-8332-5775e19c65af
+family_relationship,47679
+family_relationship,903311212
+family_relationship,ocean
+----------------------
+8327->bottom
+8327,membership,water
+membership,7691
+membership,bottom
+----------------------
+979893388->bottom
+979893388,family_relationship,4
+family_relationship,Christopher Cunningham
+ownership,bottom
+----------------------
+Mar de la Vida OJSC->bottom
+Mar de la Vida OJSC,family_relationship,b8567859-bf54-49fd-8332-5775e19c65af
+membership,Christopher Cunningham
+ownership,bottom
+----------------------
+8327->USS
+8327,membership,435054320
+partnership,USS
+----------------------
+979893388->USS
+979893388,family_relationship,png xi  Line
+ownership,7505050
+membership,435054320
+partnership,USS
+----------------------
+Mar de la Vida OJSC->USS
+Mar de la Vida OJSC,family_relationship,b8567859-bf54-49fd-8332-5775e19c65af
+family_relationship,7505050
+membership,435054320
+partnership,USS
+----------------------
+8327->PC
+8327,membership,435054320
+family_relationship,7298083
+partnership,PC
+----------------------
+979893388->PC
+979893388,family_relationship,4
+partnership,PC
+----------------------
+Mar de la Vida OJSC->PC
+Mar de la Vida OJSC,family_relationship,b8567859-bf54-49fd-8332-5775e19c65af
+family_relationship,Faroe Islands Shrimp Shark
+partnership,PC
+----------------------
+8327->Oliver
+8327,membership,435054320
+membership,Oliver
+----------------------
+979893388->Oliver
+979893388,ownership,Erica Hamilton
+partnership,160
+ownership,Oliver
+----------------------
+Mar de la Vida OJSC->Oliver
+Mar de la Vida OJSC,family_relationship,b8567859-bf54-49fd-8332-5775e19c65af
+family_relationship,7505050
+membership,435054320
+membership,Oliver
+----------------------
+8327->HMS Montrose
+8327,membership,7505050
+membership,HMS Montrose
+----------------------
+979893388->HMS Montrose
+979893388,partnership,sh rn y Corporation
+membership,SeaSpray Wave SRL Solutions
+partnership,HMS Montrose
+----------------------
+Mar de la Vida OJSC->HMS Montrose
+Mar de la Vida OJSC,family_relationship,b8567859-bf54-49fd-8332-5775e19c65af
+family_relationship,7505050
+membership,HMS Montrose
+----------------------
+8327->Talleyâs
+8327,membership,435054320
+ownership,Master
+partnership,743225
+membership,Talleyâs
+----------------------
+979893388->Talleyâs
+979893388,partnership,dup90
+membership,ad8fe467-3759-4f53-bf6a-896a237d187f
+family_relationship,Talleyâs
+----------------------
+Mar de la Vida OJSC->Talleyâs
+Mar de la Vida OJSC,family_relationship,b8567859-bf54-49fd-8332-5775e19c65af
+ownership,DOFâs
+partnership,98332
+family_relationship,Talleyâs
+----------------------
+8327->Ships
+8327,membership,7505050
+ownership,Ships
+----------------------
+979893388->Ships
+979893388,family_relationship,png xi  Line
+ownership,7505050
+ownership,Ships
+----------------------
+Mar de la Vida OJSC->Ships
+Mar de la Vida OJSC,family_relationship,b8567859-bf54-49fd-8332-5775e19c65af
+family_relationship,7505050
+ownership,Ships
+----------------------
+8327->trucking
+8327,membership,435054320
+membership,Mar del Oeste Pic
+membership,trucking
+----------------------
+979893388->trucking
+979893388,family_relationship,Mar del Oeste Pic
+membership,trucking
+----------------------
+Mar de la Vida OJSC->trucking
+Mar de la Vida OJSC,family_relationship,b8567859-bf54-49fd-8332-5775e19c65af
+ownership,Mar del Oeste Pic
+membership,trucking
+----------------------
+8327->Deepwater Horizon
+8327,membership,435054320
+family_relationship,979893388
+partnership,23
+partnership,Deepwater Horizon
+----------------------
+979893388->Deepwater Horizon
+979893388,partnership,23
+partnership,Deepwater Horizon
+----------------------
+Mar de la Vida OJSC->Deepwater Horizon
+Mar de la Vida OJSC,family_relationship,b8567859-bf54-49fd-8332-5775e19c65af
+family_relationship,6731
+ownership,380
+partnership,Deepwater Horizon
+----------------------
+8327->Vessels
+8327,membership,435054320
+membership,341411
+partnership,860600018
+partnership,460859346
+partnership,Forwading S.A. de C.V.
+partnership,Vessels
+----------------------
+979893388->Vessels
+979893388,family_relationship,Faroe Islands Shrimp Shark
+membership,6731
+membership,460859346
+partnership,Forwading S.A. de C.V.
+partnership,Vessels
+----------------------
+Mar de la Vida OJSC->Vessels
+Mar de la Vida OJSC,family_relationship,b8567859-bf54-49fd-8332-5775e19c65af
+family_relationship,6731
+membership,460859346
+partnership,Forwading S.A. de C.V.
+partnership,Vessels
+----------------------

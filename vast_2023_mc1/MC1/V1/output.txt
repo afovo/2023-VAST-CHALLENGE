@@ -1,0 +1,1191 @@
+('18 wheelers',                    source       target            link_type    weight  \
+1765  Playa del Cielo Kga  18 wheelers  family_relationship  0.837381   
+1766  Playa del Cielo Kga  18 wheelers           membership  0.805367   
+
+     source_type source_country target_type target_country  
+1765     company       Rio Isla      vessel            NaN  
+1766     company       Rio Isla      vessel            NaN  )
+('19',                  source                      target            link_type  \
+200              341411                          19           membership   
+1498       png xi  Line                          19            ownership   
+2241  Mar del Oeste Pic                          19           membership   
+3223       Dana Goodwin                          19            ownership   
+4185             505943                          19          partnership   
+4577           56126935                          19           membership   
+5626    Gabriela Graham                          19  family_relationship   
+5627      Joseph Newman                          19  family_relationship   
+8029        Mark Norton                          19           membership   
+4148                 19                          48          partnership   
+4151                 19                       93865            ownership   
+4153                 19              Daniel Vasquez           membership   
+4155                 19               William James           membership   
+4156                 19                Suzanne Reed           membership   
+4157                 19  Faroe Islands Shrimp Shark           membership   
+4158                 19                   903311212            ownership   
+4159                 19                   903311212           membership   
+4160                 19           Mar del Oeste Pic           membership   
+
+        weight   source_type  source_country   target_type  target_country  
+200   0.886846  organization             NaN        vessel             NaN  
+1498  0.803236       company  Country_628643        vessel             NaN  
+2241  0.804742       company    Vesperlandia        vessel             NaN  
+3223  0.935461        person         Marebak        vessel             NaN  
+4185  0.847012  organization             NaN        vessel             NaN  
+4577  0.831322  organization             NaN        vessel             NaN  
+5626  0.838926        person  Country_271835        vessel             NaN  
+5627  0.816167        person  Country_271835        vessel             NaN  
+8029  0.884121        person  Puerto del Mar        vessel             NaN  
+4148  0.819888        vessel             NaN  organization             NaN  
+4151  0.837160        vessel             NaN  organization             NaN  
+4153  0.881792        vessel             NaN        person  Country_271835  
+4155  0.881235        vessel             NaN        person  Country_271835  
+4156  0.922037        vessel             NaN        person  Country_271835  
+4157  0.923316        vessel             NaN       company        Rio Isla  
+4158  1.738573        vessel             NaN  organization             NaN  
+4159  0.849791        vessel             NaN  organization             NaN  
+4160  1.662240        vessel             NaN       company    Vesperlandia  )
+('629',             source            target   link_type    weight   source_type  \
+1177         21538               629  membership  0.852833  organization   
+2417          7691               629  membership  0.911694  organization   
+4730  Sierra Smith               629  membership  0.877199        person   
+5039           629          43685541  membership  0.828894        vessel   
+5041           629  Amanda Contreras  membership  0.889623        vessel   
+
+     source_country   target_type  target_country  
+1177            NaN        vessel             NaN  
+2417            NaN        vessel             NaN  
+4730    Osterivaria        vessel             NaN  
+5039            NaN  organization             NaN  
+5041            NaN        person  Country_271835  )
+('ARA Bouchard',        source        target   link_type    weight   source_type  \
+5405  7548555  ARA Bouchard  membership  0.936761  organization   
+
+     source_country target_type target_country  
+5405            NaN      vessel            NaN  )
+('ARA Contraalmirante Cordero',          source                       target    link_type    weight  \
+4837  979893388  ARA Contraalmirante Cordero  partnership  0.831604   
+5403    7548555  ARA Contraalmirante Cordero    ownership  0.936183   
+
+       source_type source_country target_type target_country  
+4837  organization            NaN      vessel            NaN  
+5403  organization            NaN      vessel            NaN  )
+('Aerial',      source  target    link_type    weight   source_type source_country  \
+2391   8787  Aerial  partnership  0.921991  organization            NaN   
+
+     target_type target_country  
+2391      vessel            NaN  )
+('Aine',          source target   link_type    weight   source_type source_country  \
+6164  903311212   Aine  membership  0.834712  organization            NaN   
+
+     target_type target_country  
+6164      vessel            NaN  )
+('Amphibious Warships',          source               target    link_type    weight   source_type  \
+2297  222848436  Amphibious Warships  partnership  0.887334  organization   
+6105  903311212  Amphibious Warships  partnership  0.875053  organization   
+
+     source_country target_type target_country  
+2297            NaN      vessel            NaN  
+6105            NaN      vessel            NaN  )
+('Bulk Carrier',          source        target    link_type    weight   source_type  \
+6212  903311212  Bulk Carrier  partnership  0.842472  organization   
+
+     source_country target_type target_country  
+6212            NaN      vessel            NaN  )
+('Chinook',          source   target    link_type  weight   source_type source_country  \
+4357  555217629  Chinook  partnership  0.8013  organization            NaN   
+
+     target_type target_country  
+4357      vessel            NaN  )
+('Coast Guard Cutter Edgar Culbertson',               source                               target    link_type  \
+1237       435054320  Coast Guard Cutter Edgar Culbertson  partnership   
+4250  Abigail Foster  Coast Guard Cutter Edgar Culbertson  partnership   
+4358       555217629  Coast Guard Cutter Edgar Culbertson  partnership   
+
+        weight   source_type  source_country target_type target_country  
+1237  0.890974  organization             NaN      vessel            NaN  
+4250  0.844031        person  Country_895471      vessel            NaN  
+4358  0.870923  organization             NaN      vessel            NaN  )
+('Craftâ\x80\x93Law',            source       target            link_type    weight   source_type  \
+1258    435054320  CraftâLaw            ownership  0.806146  organization   
+6969  CraftâLaw   Ryan Perez  family_relationship  0.848644        vessel   
+6971  CraftâLaw      6567453  family_relationship  0.905985        vessel   
+
+     source_country   target_type  target_country  
+1258            NaN        vessel             NaN  
+6969            NaN        person  Country_271835  
+6971            NaN  organization             NaN  )
+('Cutter',          source  target   link_type    weight   source_type source_country  \
+1213  435054320  Cutter  membership  0.819232  organization            NaN   
+2320   40213337  Cutter  membership  0.933615  organization            NaN   
+6667   13249468  Cutter  membership  0.868583  organization            NaN   
+
+     target_type target_country  
+1213      vessel            NaN  
+2320      vessel            NaN  
+6667      vessel            NaN  )
+('CutterOliverHenry',               source             target  link_type    weight source_type  \
+5749  Andre Phillips  CutterOliverHenry  ownership  0.845132      person   
+
+      source_country target_type target_country  
+5749  Country_271835      vessel            NaN  )
+('Cutters',          source   target   link_type    weight   source_type source_country  \
+1181      21538  Cutters   ownership  0.825175  organization            NaN   
+1256  435054320  Cutters  membership  0.854350  organization            NaN   
+
+     target_type target_country  
+1181      vessel            NaN  
+1256      vessel            NaN  )
+('DDG',      source target  link_type    weight   source_type source_country  \
+5499    891    DDG  ownership  0.843527  organization            NaN   
+
+     target_type target_country  
+5499      vessel            NaN  )
+('Deepwater Horizon',                source             target    link_type    weight   source_type  \
+976               380  Deepwater Horizon  partnership  0.835602  organization   
+1477               23  Deepwater Horizon  partnership  0.844040  organization   
+8801  Patricia Hunter  Deepwater Horizon  partnership  0.823157        person   
+8804           455617  Deepwater Horizon  partnership  0.809156  organization   
+
+      source_country target_type target_country  
+976              NaN      vessel            NaN  
+1477             NaN      vessel            NaN  
+8801  Country_271835      vessel            NaN  
+8804             NaN      vessel            NaN  )
+('Explorer',              source    target            link_type    weight source_type  \
+941  Jeremy Cordova  Explorer  family_relationship  0.804101      person   
+
+     source_country target_type target_country  
+941  Country_271835      vessel            NaN  )
+('FV Snake',                  source           target    link_type    weight source_type  \
+6057  Gary Crawford PhD         FV Snake  partnership  0.898774      person   
+6063           FV Snake  Amanda Mckenzie  partnership  0.809549      vessel   
+
+      source_country target_type target_country  
+6057  Country_980042      vessel            NaN  
+6063             NaN      person        Oceanus  )
+('FV Thunder',                  source           target    link_type    weight source_type  \
+6059  Gary Crawford PhD       FV Thunder  partnership  0.883928      person   
+6070         FV Thunder  Amanda Mckenzie  partnership  0.846706      vessel   
+
+      source_country target_type target_country  
+6059  Country_980042      vessel            NaN  
+6070             NaN      person        Oceanus  )
+('FV Viking',                  source     target    link_type    weight source_type  \
+6058  Gary Crawford PhD  FV Viking  partnership  0.901946      person   
+
+      source_country target_type target_country  
+6058  Country_980042      vessel            NaN  )
+('Feng',             source target   link_type    weight   source_type source_country  \
+968            380   Feng  membership  0.887252  organization            NaN   
+5936  Brooke Garza   Feng  membership  0.885801        person        Marebak   
+
+     target_type target_country  
+968       vessel            NaN  
+5936      vessel            NaN  )
+('Gulf',                    source                  target   link_type    weight  \
+1764  Playa del Cielo Kga                    Gulf  membership  0.827717   
+5500                  891                    Gulf   ownership  0.826701   
+4000                 Gulf  Christopher Cunningham  membership  0.891350   
+
+       source_type source_country target_type target_country  
+1764       company       Rio Isla      vessel            NaN  
+5500  organization            NaN      vessel            NaN  
+4000        vessel            NaN      person        Oceanus  )
+('HMS',             source         target   link_type    weight source_type  \
+3947  Erin Simmons            HMS  membership  0.822624      person   
+9028           HMS  John Campbell  membership  0.842774      vessel   
+
+     source_country target_type  target_country  
+3947        Oceanus      vessel             NaN  
+9028            NaN      person  Country_271835  )
+('HMS Medway',              source      target    link_type    weight   source_type  \
+493   Jason Cameron  HMS Medway  partnership  0.837687        person   
+6622       80737369  HMS Medway   membership  0.882680  organization   
+
+     source_country target_type target_country  
+493         Oceanus      vessel            NaN  
+6622            NaN      vessel            NaN  )
+('HMS Montrose',        source        target   link_type    weight   source_type  \
+2363  7505050  HMS Montrose  membership  0.852776  organization   
+
+     source_country target_type target_country  
+2363            NaN      vessel            NaN  )
+('Hang',              source     target   link_type    weight source_type  \
+4934  Dylan Roberts       Hang  membership  0.919793      person   
+4936           Hang  860600018  membership  0.856078      vessel   
+
+      source_country   target_type target_country  
+4934  Country_271835        vessel            NaN  
+4936             NaN  organization            NaN  )
+('Kenworth 18-wheeler',                    source                      target  link_type    weight  \
+8913       Sarah Williams         Kenworth 18-wheeler  ownership  0.836954   
+8923  Kenworth 18-wheeler  Faroe Islands Shrimp Shark  ownership  0.880770   
+
+     source_type  source_country target_type target_country  
+8913      person  Country_271835      vessel            NaN  
+8923      vessel             NaN     company       Rio Isla  )
+('Leng 999 Gal',        source        target  link_type    weight   source_type source_country  \
+2354  7505050  Leng 999 Gal  ownership  0.814962  organization            NaN   
+
+     target_type target_country  
+2354      vessel            NaN  )
+('MBTs',                 source target    link_type    weight   source_type  \
+5316           6758207   MBTs  partnership  0.957723  organization   
+6785  Christian Ashley   MBTs  partnership  0.958404        person   
+6809       Kelly James   MBTs  partnership  0.935130        person   
+
+     source_country target_type target_country  
+5316            NaN      vessel            NaN  
+6785      Uzilandor      vessel            NaN  
+6809      Uzilandor      vessel            NaN  )
+('Manned',      source  target    link_type   weight   source_type source_country  \
+2390   8787  Manned  partnership  0.90894  organization            NaN   
+
+     target_type target_country  
+2390      vessel            NaN  )
+('Motor Vessel',                  source        target            link_type    weight  \
+2246  Mar del Oeste Pic  Motor Vessel           membership  0.882407   
+6216          903311212  Motor Vessel           membership  1.831770   
+7259               1354  Motor Vessel  family_relationship  0.934054   
+8910              24996  Motor Vessel           membership  0.947696   
+
+       source_type source_country target_type target_country  
+2246       company   Vesperlandia      vessel            NaN  
+6216  organization            NaN      vessel            NaN  
+7259  organization            NaN      vessel            NaN  
+8910  organization            NaN      vessel            NaN  )
+('Ocean Patrol',        source        target   link_type    weight   source_type  \
+5404  7548555  Ocean Patrol  membership  0.876719  organization   
+
+     source_country target_type target_country  
+5404            NaN      vessel            NaN  )
+('Oliver',          source          target    link_type    weight   source_type  \
+1243  435054320          Oliver   membership  0.802843  organization   
+5703        160          Oliver    ownership  0.872676  organization   
+5659     Oliver   Amanda Becker   membership  0.809780        vessel   
+5660     Oliver     Wendy Crane  partnership  0.832412        vessel   
+5661     Oliver  Danielle Perry  partnership  0.889185        vessel   
+
+     source_country target_type  target_country  
+1243            NaN      vessel             NaN  
+5703            NaN      vessel             NaN  
+5659            NaN      person  Country_271835  
+5660            NaN      person  Country_913963  
+5661            NaN      person  Country_271835  )
+('PC',                           source     target            link_type    weight  \
+136   Faroe Islands Shrimp Shark         PC          partnership  0.843721   
+406                            4         PC          partnership  0.844177   
+813                      7298083         PC          partnership  0.856329   
+3253                   262157542         PC          partnership  0.801934   
+5806                   760219951         PC          partnership  0.836659   
+6854               Danielle Sosa         PC  family_relationship  0.827508   
+6858                Jerry Miller         PC  family_relationship  0.825037   
+6860                    15758645         PC           membership  0.846542   
+8828                       62532         PC            ownership  0.827095   
+8829                   649009867         PC            ownership  0.820913   
+5513                          PC       1559          partnership  0.915221   
+5514                          PC  185040354           membership  0.910681   
+5516                          PC        366            ownership  0.939468   
+5517                          PC        612           membership  0.941509   
+5518                          PC  379284134            ownership  0.909646   
+5519                          PC   99661834            ownership  0.838111   
+5520                          PC   39033859            ownership  0.839739   
+
+       source_type  source_country   target_type target_country  
+136        company        Rio Isla        vessel            NaN  
+406   organization             NaN        vessel            NaN  
+813   organization             NaN        vessel            NaN  
+3253  organization             NaN        vessel            NaN  
+5806  organization             NaN        vessel            NaN  
+6854        person  Country_996415        vessel            NaN  
+6858        person  Country_271835        vessel            NaN  
+6860  organization             NaN        vessel            NaN  
+8828  organization             NaN        vessel            NaN  
+8829  organization             NaN        vessel            NaN  
+5513        vessel             NaN  organization            NaN  
+5514        vessel             NaN  organization            NaN  
+5516        vessel             NaN  organization            NaN  
+5517        vessel             NaN  organization            NaN  
+5518        vessel             NaN  organization            NaN  
+5519        vessel             NaN  organization            NaN  
+5520        vessel             NaN  organization            NaN  )
+('Perch',             source target   link_type    weight source_type  source_country  \
+1604  png xi  Line  Perch  membership  0.851217     company  Country_628643   
+
+     target_type target_country  
+1604      vessel            NaN  )
+('Plastic',        source            target    link_type    weight   source_type  \
+973       380           Plastic   membership  0.834214  organization   
+4140  Plastic       Sergio Ross  partnership  0.807820        vessel   
+4141  Plastic  Daniel Middleton  partnership  0.829329        vessel   
+4143  Plastic   Patricia Hunter  partnership  0.833812        vessel   
+
+     source_country target_type  target_country  
+973             NaN      vessel             NaN  
+4140            NaN      person  Country_271835  
+4141            NaN      person  Country_271835  
+4143            NaN      person  Country_271835  )
+('Rapido beam',                       source        target   link_type    weight source_type  \
+2190       Mar del Oeste Pic   Rapido beam  membership  0.918621     company   
+6408        Madison Franklin   Rapido beam  membership  0.970912      person   
+9307  Christopher Cunningham   Rapido beam  membership  0.972284      person   
+6411             Rapido beam  Mary Montoya  membership  0.879681      vessel   
+
+      source_country target_type  target_country  
+2190    Vesperlandia      vessel             NaN  
+6408  Country_271835      vessel             NaN  
+9307         Oceanus      vessel             NaN  
+6411             NaN      person  Country_271835  )
+('Rapido beam trawler',                    source               target    link_type    weight  \
+6410     Madison Franklin  Rapido beam trawler    ownership  0.976632   
+6412  Rapido beam trawler         Mary Montoya  partnership  0.863405   
+
+     source_type  source_country target_type  target_country  
+6410      person  Country_271835      vessel             NaN  
+6412      vessel             NaN      person  Country_271835  )
+('SSN',                source        target            link_type    weight  \
+328   William Bradley           SSN  family_relationship  0.860517   
+5774   Michelle Singh           SSN  family_relationship  0.825017   
+5776              SSN  Tyler Palmer            ownership  0.897492   
+
+     source_type  source_country target_type  target_country  
+328       person  Country_271835      vessel             NaN  
+5774      person  Country_271835      vessel             NaN  
+5776      vessel             NaN      person  Country_271835  )
+('Ship2Report',                                  source       target            link_type  \
+2031                              70873  Ship2Report  family_relationship   
+2033  Estrella de Mar Ltd. Liability Co  Ship2Report  family_relationship   
+2035                              90562  Ship2Report  family_relationship   
+5672                                160  Ship2Report  family_relationship   
+
+        weight   source_type  source_country target_type target_country  
+2031  0.918794  organization             NaN      vessel            NaN  
+2033  0.946956       company  Country_338740      vessel            NaN  
+2035  0.902265  organization             NaN      vessel            NaN  
+5672  0.946192  organization             NaN      vessel            NaN  )
+('Ships',         source       target    link_type    weight   source_type  \
+2368   7505050        Ships    ownership  0.930644  organization   
+6861  15758645        Ships  partnership  0.851352  organization   
+6929     Ships         9697  partnership  0.910665        vessel   
+6930     Ships         2919    ownership  0.929603        vessel   
+6931     Ships  Dana Montes    ownership  0.840488        vessel   
+6932     Ships    222079892    ownership  0.899380        vessel   
+
+     source_country   target_type  target_country  
+2368            NaN        vessel             NaN  
+6861            NaN        vessel             NaN  
+6929            NaN  organization             NaN  
+6930            NaN  organization             NaN  
+6931            NaN        person  Country_271835  
+6932            NaN  organization             NaN  )
+('Talleyâ\x80\x99s',           source      target            link_type    weight   source_type  \
+1915      743225  Talleyâs           membership  0.837956  organization   
+2437       98332  Talleyâs  family_relationship  0.948509  organization   
+6724    34285153  Talleyâs           membership  0.812852  organization   
+6730       40974  Talleyâs           membership  0.801969  organization   
+6726  Talleyâs  Dana Knapp           membership  0.854410        vessel   
+
+     source_country target_type target_country  
+1915            NaN      vessel            NaN  
+2437            NaN      vessel            NaN  
+6724            NaN      vessel            NaN  
+6730            NaN      vessel            NaN  
+6726            NaN      person      Islavaria  )
+('USCGC',             source target  link_type    weight   source_type source_country  \
+1035          6731  USCGC  ownership  0.809896  organization            NaN   
+1234     435054320  USCGC  ownership  0.810096  organization            NaN   
+3228  Dana Goodwin  USCGC  ownership  0.828149        person        Marebak   
+5497           891  USCGC  ownership  0.869284  organization            NaN   
+5701           160  USCGC  ownership  0.882744  organization            NaN   
+
+     target_type target_country  
+1035      vessel            NaN  
+1234      vessel            NaN  
+3228      vessel            NaN  
+5497      vessel            NaN  
+5701      vessel            NaN  )
+('USCGâ\x80\x99s',               source       target  link_type    weight source_type  \
+5748  Andre Phillips     USCGâs  ownership  0.880115      person   
+5752        USCGâs  Scott Solis  ownership  0.813915      vessel   
+
+      source_country target_type  target_country  
+5748  Country_271835      vessel             NaN  
+5752             NaN      person  Country_271835  )
+('USS',          source          target            link_type    weight   source_type  \
+1263  435054320             USS          partnership  0.804821  organization   
+5509        USS  Michelle Singh  family_relationship  0.860642        vessel   
+5511        USS    Tyler Palmer  family_relationship  0.912655        vessel   
+
+     source_country target_type  target_country  
+1263            NaN      vessel             NaN  
+5509            NaN      person  Country_271835  
+5511            NaN      person  Country_271835  )
+('USS Hershel',        source       target            link_type    weight   source_type  \
+571    750975  USS Hershel  family_relationship  0.970677  organization   
+1159      947  USS Hershel  family_relationship  0.969566  organization   
+1168  4348721  USS Hershel  family_relationship  0.970060  organization   
+
+     source_country target_type target_country  
+571             NaN      vessel            NaN  
+1159            NaN      vessel            NaN  
+1168            NaN      vessel            NaN  )
+('Viking fishing',      source          target            link_type    weight   source_type  \
+271  341411  Viking fishing  family_relationship  0.887489  organization   
+
+    source_country target_type target_country  
+271            NaN      vessel            NaN  )
+('boatâ\x80\x99s',                  source    target   link_type    weight   source_type  \
+2181  Mar del Oeste Pic  boatâs  membership  0.879853       company   
+4678    Christine Jones  boatâs  membership  0.943208        person   
+6021              53792  boatâs  membership  0.910869  organization   
+6583           55394387  boatâs  membership  0.851485  organization   
+
+      source_country target_type target_country  
+2181    Vesperlandia      vessel            NaN  
+4678  Country_271835      vessel            NaN  
+6021             NaN      vessel            NaN  
+6583             NaN      vessel            NaN  )
+('bottom',                       source            target   link_type    weight  \
+2425                    7691            bottom  membership  0.832157   
+6407        Madison Franklin            bottom   ownership  0.896293   
+9306  Christopher Cunningham            bottom   ownership  0.896017   
+5281                  bottom              7670  membership  0.882840   
+5283                  bottom      Mary Montoya  membership  0.920939   
+5284                  bottom  Madison Franklin   ownership  0.916514   
+
+       source_type  source_country   target_type  target_country  
+2425  organization             NaN        vessel             NaN  
+6407        person  Country_271835        vessel             NaN  
+9306        person         Oceanus        vessel             NaN  
+5281        vessel             NaN  organization             NaN  
+5283        vessel             NaN        person  Country_271835  
+5284        vessel             NaN        person  Country_271835  )
+('coastguard',                                        source      target   link_type  \
+5449  Caracola Azul Limited Liability Company  coastguard  membership   
+5452                          Viento y Mar BV  coastguard  membership   
+
+        weight source_type  source_country target_type target_country  
+5449  0.953224     company        Ariuzima      vessel            NaN  
+5452  0.940828     company  Country_271835      vessel            NaN  )
+('cutter James',         source        target    link_type    weight   source_type  \
+2319  40213337  cutter James  partnership  0.828357  organization   
+
+     source_country target_type target_country  
+2319            NaN      vessel            NaN  )
+('cutters',          source   target   link_type    weight   source_type source_country  \
+240      341411  cutters   ownership  0.890596  organization            NaN   
+1217  435054320  cutters   ownership  0.908015  organization            NaN   
+2291       8327  cutters   ownership  0.907795  organization            NaN   
+2316   40213337  cutters  membership  0.925673  organization            NaN   
+
+     target_type target_country  
+240       vessel            NaN  
+1217      vessel            NaN  
+2291      vessel            NaN  
+2316      vessel            NaN  )
+('driftnets',           source     target   link_type   weight source_type  source_country  \
+5355  Vicki Owen  driftnets  membership  0.95765      person  Country_271835   
+
+     target_type target_country  
+5355      vessel            NaN  )
+('dup18',                    source        target            link_type    weight  \
+1702  Playa del Cielo Kga         dup18  family_relationship  0.821612   
+1363                dup18  png xi  Line            ownership  0.914159   
+
+     source_type source_country target_type  target_country  
+1702     company       Rio Isla      vessel             NaN  
+1363      vessel            NaN     company  Country_628643  )
+('dup626',             source  target   link_type    weight source_type source_country  \
+4728  Sierra Smith  dup626  membership  0.808667      person    Osterivaria   
+
+     target_type target_country  
+4728      vessel            NaN  )
+('dup77',                  source                target   link_type    weight  \
+4619      Linda Sherman                 dup77  membership  0.880302   
+6294           23990411                 dup77  membership  0.865855   
+7602            9979944                 dup77  membership  0.838699   
+7689    Stephanie Wiley                 dup77  membership  0.837435   
+7700          Lisa Ward                 dup77  membership  0.909314   
+7709  William Fernandez                 dup77  membership  0.881687   
+792               dup77            Ryan Lewis  membership  0.899432   
+793               dup77      Christina Chavez  membership  0.880288   
+795               dup77  Jessica Figueroa DDS  membership  0.897909   
+
+       source_type  source_country target_type  target_country  
+4619        person  Country_887466      vessel             NaN  
+6294  organization             NaN      vessel             NaN  
+7602  organization             NaN      vessel             NaN  
+7689        person  Country_271835      vessel             NaN  
+7700        person        Nalakond      vessel             NaN  
+7709        person        Nalakond      vessel             NaN  
+792         vessel             NaN      person  Country_271835  
+793         vessel             NaN      person  Country_271835  
+795         vessel             NaN      person  Country_271835  )
+('electric',             source    target            link_type    weight   source_type  \
+1622  png xi  Line  electric           membership  1.728806       company   
+6195     903311212  electric  family_relationship  0.851152  organization   
+6979      electric    570683            ownership  0.864641        vessel   
+
+      source_country   target_type target_country  
+1622  Country_628643        vessel            NaN  
+6195             NaN        vessel            NaN  
+6979             NaN  organization            NaN  )
+('electric cars',                  source         target   link_type    weight source_type  \
+2226  Mar del Oeste Pic  electric cars  membership  0.951021     company   
+
+     source_country target_type target_country  
+2226   Vesperlandia      vessel            NaN  )
+('motor',            source target   link_type   weight   source_type  source_country  \
+8720     79521144  motor  membership  0.84059  organization             NaN   
+8732  Tyler Jones  motor  membership  0.88307        person  Country_271835   
+
+     target_type target_country  
+8720      vessel            NaN  
+8732      vessel            NaN  )
+('ocean',                 source        target            link_type    weight  \
+2381              8787         ocean           membership  0.817638   
+6182         903311212         ocean  family_relationship  0.826241   
+7380  Rebecca Caldwell         ocean            ownership  0.824237   
+5249             ocean    Alan Wells            ownership  0.856383   
+5250             ocean      90411963            ownership  0.905502   
+5251             ocean  png xi  Line          partnership  0.813188   
+
+       source_type source_country   target_type  target_country  
+2381  organization            NaN        vessel             NaN  
+6182  organization            NaN        vessel             NaN  
+7380        person        Oceanus        vessel             NaN  
+5249        vessel            NaN        person         Marebak  
+5250        vessel            NaN  organization             NaN  
+5251        vessel            NaN       company  Country_628643  )
+('oceanâ\x80\x99s',          source     target    link_type    weight   source_type  \
+1430        924  oceanâs  partnership  0.894708  organization   
+6167  903311212  oceanâs   membership  0.819195  organization   
+
+     source_country target_type target_country  
+1430            NaN      vessel            NaN  
+6167            NaN      vessel            NaN  )
+('pilot',          source   target   link_type    weight   source_type source_country  \
+65    143129355    pilot  membership  0.811439  organization            NaN   
+2112   46510923    pilot  membership  0.818007  organization            NaN   
+2120      pilot  9699687  membership  0.822544        vessel            NaN   
+
+       target_type target_country  
+65          vessel            NaN  
+2112        vessel            NaN  
+2120  organization            NaN  )
+('river',               source target   link_type    weight   source_type  \
+5371        39048624  river  membership  0.869896  organization   
+5373  Rhonda Johnson  river  membership  0.889045        person   
+
+      source_country target_type target_country  
+5371             NaN      vessel            NaN  
+5373  Country_271835      vessel            NaN  )
+('sailboat Freeport',         source             target   link_type    weight   source_type  \
+2324  40213337  sailboat Freeport  membership  0.921259  organization   
+
+     source_country target_type target_country  
+2324            NaN      vessel            NaN  )
+('salmon',             source          target    link_type    weight   source_type  \
+805        7298083          salmon   membership  0.802064  organization   
+1114      89772543          salmon  partnership  0.869433  organization   
+1593  png xi  Line          salmon   membership  0.808885       company   
+6113     903311212          salmon  partnership  0.812945  organization   
+4007        salmon  George Ramirez    ownership  0.896064        vessel   
+
+      source_country target_type  target_country  
+805              NaN      vessel             NaN  
+1114             NaN      vessel             NaN  
+1593  Country_628643      vessel             NaN  
+6113             NaN      vessel             NaN  
+4007             NaN      person  Country_271835  )
+('scooter',                  source   target   link_type    weight source_type  \
+2252  Mar del Oeste Pic  scooter  membership  0.835728     company   
+
+     source_country target_type target_country  
+2252   Vesperlandia      vessel            NaN  )
+('shrimper',                                        source    target  link_type    weight  \
+5448  Caracola Azul Limited Liability Company  shrimper  ownership  0.847881   
+
+     source_type source_country target_type target_country  
+5448     company       Ariuzima      vessel            NaN  )
+('trucking',                  source     target            link_type    weight source_type  \
+2231  Mar del Oeste Pic   trucking           membership  0.801555     company   
+8472           trucking  425887173  family_relationship  0.808024      vessel   
+
+     source_country   target_type target_country  
+2231   Vesperlandia        vessel            NaN  
+8472            NaN  organization            NaN  )
+('water',                               source                          target  \
+1090                             665                           water   
+1521                    png xi  Line                           water   
+2286               Mr. Gregory Brown                           water   
+2295                            8327                           water   
+4705  Tshikwea Corp Marine sanctuary                           water   
+4740                       519994690                           water   
+5699                             160                           water   
+2448                           water                       519994690   
+2449                           water  Tshikwea Corp Marine sanctuary   
+2450                           water                            7691   
+
+                link_type    weight   source_type  source_country  \
+1090  family_relationship  0.913610  organization             NaN   
+1521           membership  0.881147       company  Country_628643   
+2286          partnership  0.816823        person  Country_271835   
+2295           membership  0.906220  organization             NaN   
+4705          partnership  0.905055       company         Marebak   
+4740           membership  0.919487  organization             NaN   
+5699           membership  0.928598  organization             NaN   
+2448           membership  0.830469        vessel             NaN   
+2449          partnership  0.936138        vessel             NaN   
+2450           membership  0.819435        vessel             NaN   
+
+       target_type target_country  
+1090        vessel            NaN  
+1521        vessel            NaN  
+2286        vessel            NaN  
+2295        vessel            NaN  
+4705        vessel            NaN  
+4740        vessel            NaN  
+5699        vessel            NaN  
+2448  organization            NaN  
+2449       company        Marebak  
+2450  organization            NaN  )
+('watercraft',                   source      target            link_type    weight  \
+2187   Mar del Oeste Pic  watercraft  family_relationship  0.890506   
+5591                  46  watercraft  family_relationship  0.870914   
+6593  Matthew Pennington  watercraft          partnership  0.822839   
+6702            34757443  watercraft          partnership  0.825105   
+
+       source_type source_country target_type target_country  
+2187       company   Vesperlandia      vessel            NaN  
+5591  organization            NaN      vessel            NaN  
+6593        person        Oceanus      vessel            NaN  
+6702  organization            NaN      vessel            NaN  )
+('waterâ\x80\x99s',                   source     target            link_type    weight  \
+6594  Matthew Pennington  waterâs  family_relationship  0.915387   
+
+     source_type source_country target_type target_country  
+6594      person        Oceanus      vessel            NaN  )
+('Abrams MIA2',            source            target    link_type    weight source_type  \
+6796  Abrams MIA2  Christian Ashley  partnership  0.883142      vessel   
+6797  Abrams MIA2       Kelly James  partnership  0.920181      vessel   
+6798  Abrams MIA2           6758207  partnership  0.851207      vessel   
+
+     source_country   target_type target_country  
+6796            NaN        person      Uzilandor  
+6797            NaN        person      Uzilandor  
+6798            NaN  organization            NaN  )
+('Boat',      source                    target            link_type    weight  \
+4002   Boat                  40213337  family_relationship  0.940142   
+4003   Boat             Teresa Rivera  family_relationship  0.944566   
+4004   Boat  Spanish Shrimp  Carriers  family_relationship  0.858422   
+
+     source_type source_country   target_type  target_country  
+4002      vessel            NaN  organization             NaN  
+4003      vessel            NaN        person  Country_271835  
+4004      vessel            NaN       company        Nalakond  )
+('Boston',       source           target    link_type    weight source_type  \
+6586  Boston        381051499   membership  0.800734      vessel   
+6587  Boston      Karen Burns  partnership  0.831401      vessel   
+6588  Boston  Rachel Campbell  partnership  0.916857      vessel   
+
+     source_country   target_type  target_country  
+6586            NaN  organization             NaN  
+6587            NaN        person  Country_271835  
+6588            NaN        person  Country_271835  )
+('Coast',      source         target            link_type    weight source_type  \
+2331  Coast       40213337            ownership  0.855674      vessel   
+2332  Coast           8327            ownership  0.823488      vessel   
+2334  Coast      435054320            ownership  0.846329      vessel   
+2337  Coast    Tyler Brown           membership  0.865165      vessel   
+2338  Coast  Teresa Rivera  family_relationship  0.970224      vessel   
+2340  Coast      860600018           membership  0.898755      vessel   
+2342  Coast   Jenna Barton           membership  0.876887      vessel   
+2347  Coast     Ryan Perez  family_relationship  0.906656      vessel   
+2349  Coast        6567453  family_relationship  0.947027      vessel   
+
+     source_country   target_type  target_country  
+2331            NaN  organization             NaN  
+2332            NaN  organization             NaN  
+2334            NaN  organization             NaN  
+2337            NaN        person  Country_271835  
+2338            NaN        person  Country_271835  
+2340            NaN  organization             NaN  
+2342            NaN        person  Country_271835  
+2347            NaN        person  Country_271835  
+2349            NaN  organization             NaN  )
+('Deckhands',          source       target   link_type    weight source_type source_country  \
+5583  Deckhands  Bruce Bates  membership  0.931843      vessel            NaN   
+
+     target_type  target_country  
+5583      person  Country_271835  )
+('FV',      source             target    link_type    weight source_type  \
+6051     FV  Gary Crawford PhD  partnership  0.896571      vessel   
+
+     source_country target_type  target_country  
+6051            NaN      person  Country_980042  )
+('HMAS',      source           target            link_type    weight source_type  \
+5777   HMAS  Michael Bullock            ownership  0.866285      vessel   
+5779   HMAS   Michelle Singh  family_relationship  0.839823      vessel   
+5781   HMAS     Tyler Palmer  family_relationship  0.898637      vessel   
+
+     source_country target_type  target_country  
+5777            NaN      person  Country_271835  
+5779            NaN      person  Country_271835  
+5781            NaN      person  Country_271835  )
+('HawkEye',        source          target            link_type    weight source_type  \
+6766  HawkEye  Jordan Mcbride  family_relationship  0.858378      vessel   
+6767  HawkEye            7575            ownership  0.840483      vessel   
+
+     source_country   target_type  target_country  
+6766            NaN        person  Country_271835  
+6767            NaN  organization             NaN  )
+('Long Xing 629',              source          target  link_type    weight source_type  \
+5562  Long Xing 629    Charles Hart  ownership  0.829022      vessel   
+5563  Long Xing 629  Amanda Andrews  ownership  0.922454      vessel   
+
+     source_country target_type  target_country  
+5562            NaN      person  Country_271835  
+5563            NaN      person  Country_271835  )
+('Marine',      source           target            link_type    weight source_type  \
+728  Marine             4063            ownership  0.908637      vessel   
+729  Marine           740523  family_relationship  0.862822      vessel   
+731  Marine      Amy Mcclure            ownership  0.819721      vessel   
+732  Marine  Jessica Mullins            ownership  0.839423      vessel   
+733  Marine      John Martin            ownership  0.818249      vessel   
+734  Marine           341411  family_relationship  0.862580      vessel   
+735  Marine     png xi  Line          partnership  0.835425      vessel   
+
+    source_country   target_type  target_country  
+728            NaN  organization             NaN  
+729            NaN  organization             NaN  
+731            NaN        person  Country_271835  
+732            NaN        person  Country_271835  
+733            NaN        person  Country_271835  
+734            NaN  organization             NaN  
+735            NaN       company  Country_628643  )
+('Maru',      source        target   link_type    weight source_type source_country  \
+5170   Maru  Sara Jenkins  membership  0.920113      vessel            NaN   
+5172   Maru  Lisa Lambert  membership  0.916370      vessel            NaN   
+
+     target_type  target_country  
+5170      person  Country_271835  
+5172      person  Country_271835  )
+('Michelle',         source        target            link_type    weight source_type  \
+6523  Michelle  Tyler Flores  family_relationship  0.884625      vessel   
+6524  Michelle          2466            ownership  0.854187      vessel   
+
+     source_country   target_type  target_country  
+6523            NaN        person  Country_271835  
+6524            NaN  organization             NaN  )
+('Ocean Tuna',           source     target    link_type    weight source_type source_country  \
+3247  Ocean Tuna  262157542  partnership  0.855244      vessel            NaN   
+3248  Ocean Tuna      46194  partnership  0.822915      vessel            NaN   
+
+       target_type target_country  
+3247  organization            NaN  
+3248  organization            NaN  )
+('Oceans',       source target    link_type    weight source_type source_country  \
+4960  Oceans   7691  partnership  0.844204      vessel            NaN   
+4961  Oceans    380  partnership  0.835700      vessel            NaN   
+
+       target_type target_country  
+4960  organization            NaN  
+4961  organization            NaN  )
+('Spaceflight',            source target    link_type    weight source_type source_country  \
+6762  Spaceflight     93  partnership  0.828858      vessel            NaN   
+
+       target_type target_country  
+6762  organization            NaN  )
+('Spy',      source     target  link_type    weight source_type source_country  \
+4307    Spy  903311212  ownership  0.830997      vessel            NaN   
+
+       target_type target_country  
+4307  organization            NaN  )
+('Vehicle Land',             source               target    link_type    weight source_type  \
+6937  Vehicle Land  Playa del Cielo Kga  partnership  0.850353      vessel   
+
+     source_country target_type target_country  
+6937            NaN     company       Rio Isla  )
+('Vessels',        source        target    link_type    weight source_type source_country  \
+9084  Vessels  Angela Chang  partnership  0.952323      vessel            NaN   
+
+     target_type  target_country  
+9084      person  Country_271835  )
+('Water',      source     target    link_type    weight source_type source_country  \
+3904  Water  737137552  partnership  0.924451      vessel            NaN   
+
+       target_type target_country  
+3904  organization            NaN  )
+('boat',      source            target   link_type   weight source_type source_country  \
+4951   boat  Michelle Hancock  membership  0.85517      vessel            NaN   
+
+     target_type target_country  
+4951      person     Syrithania  )
+('bottom otter trawler',                     source        target   link_type    weight source_type  \
+6434  bottom otter trawler  png xi  Line  membership  1.881825      vessel   
+
+     source_country target_type  target_country  
+6434            NaN     company  Country_628643  )
+('bulker',       source                            target   link_type    weight  \
+7017  bulker  Kariba Dam  Corporation Nautical  membership  0.934269   
+
+     source_type source_country target_type  target_country  
+7017      vessel            NaN     company  Country_271835  )
+('diesel',       source             target   link_type    weight source_type  \
+6432  diesel  Mar del Oeste Pic  membership  0.938083      vessel   
+6433  diesel          903311212  membership  0.909201      vessel   
+
+     source_country   target_type target_country  
+6432            NaN       company   Vesperlandia  
+6433            NaN  organization            NaN  )
+('dup23',      source          target  link_type    weight source_type source_country  \
+8909  dup23  Amanda Jenkins  ownership  0.865155      vessel            NaN   
+
+     target_type  target_country  
+8909      person  Country_271835  )
+('dup621',       source target    link_type    weight source_type source_country  \
+5064  dup621  98332  partnership  0.810721      vessel            NaN   
+
+       target_type target_country  
+5064  organization            NaN  )
+('truck',      source     target   link_type    weight source_type source_country  \
+8787  truck  903311212  membership  0.847176      vessel            NaN   
+
+       target_type target_country  
+8787  organization            NaN  )
+('underwater',           source        target            link_type    weight source_type  \
+6661  underwater  png xi  Line  family_relationship  0.889623      vessel   
+6662  underwater  png xi  Line           membership  0.860667      vessel   
+
+     source_country target_type  target_country  
+6661            NaN     company  Country_628643  
+6662            NaN     company  Country_628643  )
+('whales',       source             target   link_type    weight source_type  \
+6748  whales  Michelle Campbell  membership  0.886858      vessel   
+
+     source_country target_type  target_country  
+6748            NaN      person  Country_271835  )
+('wheeler',        source  target  link_type    weight source_type source_country  \
+6982  wheeler  570683  ownership  0.896473      vessel            NaN   
+
+       target_type target_country  
+6982  organization            NaN  )
+(('water fishing', ['Ocean Fisheries Llc']),                         source                        target  \
+59    Spanish Shrimp  Carriers           Ocean Fisheries Llc   
+60    Spanish Shrimp  Carriers           Ocean Fisheries Llc   
+321                     341411           Ocean Fisheries Llc   
+368            Elizabeth Welch           Ocean Fisheries Llc   
+427                       4975           Ocean Fisheries Llc   
+...                        ...                           ...   
+9848       Ocean Fisheries Llc                           160   
+9851       Ocean Fisheries Llc                       9820523   
+9852       Ocean Fisheries Llc  Scania Seafaring SRL Express   
+9853       Ocean Fisheries Llc                       5246016   
+9854       Ocean Fisheries Llc                      64667049   
+
+                link_type    weight   source_type  source_country  \
+59              ownership  0.807017       company        Nalakond   
+60    family_relationship  0.800742       company        Nalakond   
+321            membership  0.838622  organization             NaN   
+368            membership  0.873562        person  Country_712875   
+427             ownership  0.860070  organization             NaN   
+...                   ...       ...           ...             ...   
+9848            ownership  1.731715           NaN             NaN   
+9851            ownership  0.840319           NaN             NaN   
+9852            ownership  0.803554           NaN             NaN   
+9853           membership  0.806040           NaN             NaN   
+9854           membership  0.972721           NaN             NaN   
+
+       target_type  target_country  
+59             NaN             NaN  
+60             NaN             NaN  
+321            NaN             NaN  
+368            NaN             NaN  
+427            NaN             NaN  
+...            ...             ...  
+9848  organization             NaN  
+9851  organization             NaN  
+9852       company  Country_271835  
+9853  organization             NaN  
+9854  organization             NaN  
+
+[186 rows x 8 columns])
+(('reefers', ['Tuna Vietnam', '77b46bc7-7e31-41a0-973c-e633011d21b0']),                                     source  \
+37                Spanish Shrimp  Carriers   
+85                               185040354   
+395                                      4   
+496   77b46bc7-7e31-41a0-973c-e633011d21b0   
+497   77b46bc7-7e31-41a0-973c-e633011d21b0   
+498   77b46bc7-7e31-41a0-973c-e633011d21b0   
+500   77b46bc7-7e31-41a0-973c-e633011d21b0   
+503   77b46bc7-7e31-41a0-973c-e633011d21b0   
+504   77b46bc7-7e31-41a0-973c-e633011d21b0   
+505   77b46bc7-7e31-41a0-973c-e633011d21b0   
+506   77b46bc7-7e31-41a0-973c-e633011d21b0   
+508   77b46bc7-7e31-41a0-973c-e633011d21b0   
+509   77b46bc7-7e31-41a0-973c-e633011d21b0   
+510                                      7   
+962                                    380   
+2157                     Mar del Oeste Pic   
+4617                         Linda Sherman   
+5230                                  6391   
+5522                           Tara Hanson   
+
+                                    target            link_type    weight  \
+37    77b46bc7-7e31-41a0-973c-e633011d21b0           membership  0.887946   
+85    77b46bc7-7e31-41a0-973c-e633011d21b0          partnership  0.908239   
+395   77b46bc7-7e31-41a0-973c-e633011d21b0          partnership  0.875740   
+496                                      7          partnership  0.840743   
+497                                     35            ownership  0.853543   
+498             Faroe Islands Shrimp Shark          partnership  0.862915   
+500                              290834957           membership  0.916300   
+503                               43685541          partnership  0.907594   
+504                                  79538          partnership  0.863258   
+505                        Amanda Mckenzie          partnership  0.912572   
+506                       Danielle Camacho          partnership  0.907998   
+508                         Wesley Vasquez            ownership  0.828966   
+509                         Kelly Mccarthy          partnership  0.873651   
+510   77b46bc7-7e31-41a0-973c-e633011d21b0  family_relationship  0.930710   
+962   77b46bc7-7e31-41a0-973c-e633011d21b0           membership  0.915019   
+2157  77b46bc7-7e31-41a0-973c-e633011d21b0  family_relationship  0.823278   
+4617  77b46bc7-7e31-41a0-973c-e633011d21b0           membership  0.869223   
+5230  77b46bc7-7e31-41a0-973c-e633011d21b0           membership  0.807252   
+5522  77b46bc7-7e31-41a0-973c-e633011d21b0            ownership  0.819525   
+
+       source_type  source_country   target_type  target_country  
+37         company        Nalakond      location             NaN  
+85    organization             NaN      location             NaN  
+395   organization             NaN      location             NaN  
+496       location             NaN  organization             NaN  
+497       location             NaN  organization             NaN  
+498       location             NaN       company        Rio Isla  
+500       location             NaN  organization             NaN  
+503       location             NaN  organization             NaN  
+504       location             NaN  organization             NaN  
+505       location             NaN        person         Oceanus  
+506       location             NaN        person  Country_271835  
+508       location             NaN        person  Country_271835  
+509       location             NaN        person  Country_271835  
+510   organization             NaN      location             NaN  
+962   organization             NaN      location             NaN  
+2157       company    Vesperlandia      location             NaN  
+4617        person  Country_887466      location             NaN  
+5230  organization             NaN      location             NaN  
+5522        person  Country_271835      location             NaN  )
+(('USS Hurricane', ['PC']),                           source     target            link_type    weight  \
+136   Faroe Islands Shrimp Shark         PC          partnership  0.843721   
+406                            4         PC          partnership  0.844177   
+813                      7298083         PC          partnership  0.856329   
+3253                   262157542         PC          partnership  0.801934   
+5513                          PC       1559          partnership  0.915221   
+5514                          PC  185040354           membership  0.910681   
+5516                          PC        366            ownership  0.939468   
+5517                          PC        612           membership  0.941509   
+5518                          PC  379284134            ownership  0.909646   
+5519                          PC   99661834            ownership  0.838111   
+5520                          PC   39033859            ownership  0.839739   
+5806                   760219951         PC          partnership  0.836659   
+6854               Danielle Sosa         PC  family_relationship  0.827508   
+6858                Jerry Miller         PC  family_relationship  0.825037   
+6860                    15758645         PC           membership  0.846542   
+8828                       62532         PC            ownership  0.827095   
+8829                   649009867         PC            ownership  0.820913   
+
+       source_type  source_country   target_type target_country  
+136        company        Rio Isla        vessel            NaN  
+406   organization             NaN        vessel            NaN  
+813   organization             NaN        vessel            NaN  
+3253  organization             NaN        vessel            NaN  
+5513        vessel             NaN  organization            NaN  
+5514        vessel             NaN  organization            NaN  
+5516        vessel             NaN  organization            NaN  
+5517        vessel             NaN  organization            NaN  
+5518        vessel             NaN  organization            NaN  
+5519        vessel             NaN  organization            NaN  
+5520        vessel             NaN  organization            NaN  
+5806  organization             NaN        vessel            NaN  
+6854        person  Country_996415        vessel            NaN  
+6858        person  Country_271835        vessel            NaN  
+6860  organization             NaN        vessel            NaN  
+8828  organization             NaN        vessel            NaN  
+8829  organization             NaN        vessel            NaN  )
+(('Tian', ['dup18']),                    source        target            link_type    weight  \
+1363                dup18  png xi  Line            ownership  0.914159   
+1702  Playa del Cielo Kga         dup18  family_relationship  0.821612   
+
+     source_type source_country target_type  target_country  
+1363      vessel            NaN     company  Country_628643  
+1702     company       Rio Isla      vessel             NaN  )
+(('Tian', ['dup18']),                    source        target            link_type    weight  \
+1363                dup18  png xi  Line            ownership  0.914159   
+1702  Playa del Cielo Kga         dup18  family_relationship  0.821612   
+
+     source_type source_country target_type  target_country  
+1363      vessel            NaN     company  Country_628643  
+1702     company       Rio Isla      vessel             NaN  )
+(('vesselâ\x80\x99s', ['Marine']),      source           target            link_type    weight source_type  \
+728  Marine             4063            ownership  0.908637      vessel   
+729  Marine           740523  family_relationship  0.862822      vessel   
+731  Marine      Amy Mcclure            ownership  0.819721      vessel   
+732  Marine  Jessica Mullins            ownership  0.839423      vessel   
+733  Marine      John Martin            ownership  0.818249      vessel   
+734  Marine           341411  family_relationship  0.862580      vessel   
+735  Marine     png xi  Line          partnership  0.835425      vessel   
+
+    source_country   target_type  target_country  
+728            NaN  organization             NaN  
+729            NaN  organization             NaN  
+731            NaN        person  Country_271835  
+732            NaN        person  Country_271835  
+733            NaN        person  Country_271835  
+734            NaN  organization             NaN  
+735            NaN       company  Country_628643  )
+(('Montrose', ['d0123474-8425-4ab0-90d5-175920158638', 'HMS Montrose']),                                     source  \
+210                                 341411   
+695   d0123474-8425-4ab0-90d5-175920158638   
+697   d0123474-8425-4ab0-90d5-175920158638   
+699   d0123474-8425-4ab0-90d5-175920158638   
+702   d0123474-8425-4ab0-90d5-175920158638   
+703   d0123474-8425-4ab0-90d5-175920158638   
+704   d0123474-8425-4ab0-90d5-175920158638   
+705   d0123474-8425-4ab0-90d5-175920158638   
+707   d0123474-8425-4ab0-90d5-175920158638   
+2363                               7505050   
+5548                                  7480   
+9177                                  1518   
+
+                                    target            link_type    weight  \
+210   d0123474-8425-4ab0-90d5-175920158638  family_relationship  0.942264   
+695                        William Bradley  family_relationship  0.858485   
+697                         Michelle Singh  family_relationship  0.902643   
+699                           Tyler Palmer  family_relationship  0.944605   
+702                              425887173  family_relationship  0.887111   
+703                          Andrea Gibson           membership  0.887323   
+704                               64338295            ownership  0.930328   
+705                                     81            ownership  0.839514   
+707                           png xi  Line          partnership  0.851063   
+2363                          HMS Montrose           membership  0.852776   
+5548  d0123474-8425-4ab0-90d5-175920158638           membership  0.862494   
+9177  d0123474-8425-4ab0-90d5-175920158638           membership  0.885181   
+
+       source_type source_country   target_type  target_country  
+210   organization            NaN      location             NaN  
+695       location            NaN        person  Country_271835  
+697       location            NaN        person  Country_271835  
+699       location            NaN        person  Country_271835  
+702       location            NaN  organization             NaN  
+703       location            NaN        person         Oceanus  
+704       location            NaN  organization             NaN  
+705       location            NaN  organization             NaN  
+707       location            NaN       company  Country_628643  
+2363  organization            NaN        vessel             NaN  
+5548  organization            NaN      location             NaN  
+9177  organization            NaN      location             NaN  )
+(('operated vehicle', ['underwater', 'SeaSpray Wave SRL Solutions']),                            source                       target  \
+56       Spanish Shrimp  Carriers  SeaSpray Wave SRL Solutions   
+82                        2591586  SeaSpray Wave SRL Solutions   
+183    Faroe Islands Shrimp Shark  SeaSpray Wave SRL Solutions   
+184    Faroe Islands Shrimp Shark  SeaSpray Wave SRL Solutions   
+319                        341411  SeaSpray Wave SRL Solutions   
+...                           ...                          ...   
+9695  SeaSpray Wave SRL Solutions                        11353   
+9696  SeaSpray Wave SRL Solutions               Xavier Sanchez   
+9697  SeaSpray Wave SRL Solutions                        19285   
+9698  SeaSpray Wave SRL Solutions                James Calhoun   
+9699  SeaSpray Wave SRL Solutions                          435   
+
+                link_type    weight   source_type source_country  \
+56             membership  0.882458       company       Nalakond   
+82             membership  0.813039  organization            NaN   
+183             ownership  1.764709       company       Rio Isla   
+184   family_relationship  0.820287       company       Rio Isla   
+319           partnership  0.806234  organization            NaN   
+...                   ...       ...           ...            ...   
+9695  family_relationship  0.807024           NaN            NaN   
+9696          partnership  0.862130           NaN            NaN   
+9697            ownership  0.812153           NaN            NaN   
+9698  family_relationship  0.804008           NaN            NaN   
+9699          partnership  0.825985           NaN            NaN   
+
+       target_type  target_country  
+56             NaN             NaN  
+82             NaN             NaN  
+183            NaN             NaN  
+184            NaN             NaN  
+319            NaN             NaN  
+...            ...             ...  
+9695  organization             NaN  
+9696        person      Syrithania  
+9697  organization             NaN  
+9698        person  Country_697428  
+9699  organization             NaN  
+
+[182 rows x 8 columns])
+(('Snow Crab', ['Ocean Fisheries Llc']),                         source                        target  \
+59    Spanish Shrimp  Carriers           Ocean Fisheries Llc   
+60    Spanish Shrimp  Carriers           Ocean Fisheries Llc   
+321                     341411           Ocean Fisheries Llc   
+368            Elizabeth Welch           Ocean Fisheries Llc   
+427                       4975           Ocean Fisheries Llc   
+...                        ...                           ...   
+9848       Ocean Fisheries Llc                           160   
+9851       Ocean Fisheries Llc                       9820523   
+9852       Ocean Fisheries Llc  Scania Seafaring SRL Express   
+9853       Ocean Fisheries Llc                       5246016   
+9854       Ocean Fisheries Llc                      64667049   
+
+                link_type    weight   source_type  source_country  \
+59              ownership  0.807017       company        Nalakond   
+60    family_relationship  0.800742       company        Nalakond   
+321            membership  0.838622  organization             NaN   
+368            membership  0.873562        person  Country_712875   
+427             ownership  0.860070  organization             NaN   
+...                   ...       ...           ...             ...   
+9848            ownership  1.731715           NaN             NaN   
+9851            ownership  0.840319           NaN             NaN   
+9852            ownership  0.803554           NaN             NaN   
+9853           membership  0.806040           NaN             NaN   
+9854           membership  0.972721           NaN             NaN   
+
+       target_type  target_country  
+59             NaN             NaN  
+60             NaN             NaN  
+321            NaN             NaN  
+368            NaN             NaN  
+427            NaN             NaN  
+...            ...             ...  
+9848  organization             NaN  
+9851  organization             NaN  
+9852       company  Country_271835  
+9853  organization             NaN  
+9854  organization             NaN  
+
+[186 rows x 8 columns])
+(('AirPods', ['6 Ray LLC Enterprises']),                       source         target  link_type    weight source_type  \
+10521  6 Ray LLC Enterprises  Michael Brock  ownership  0.861336         NaN   
+
+      source_country target_type  target_country  
+10521            NaN      person  Country_461742  )
+(('AirPods', ['6 Ray LLC Enterprises']),                       source         target  link_type    weight source_type  \
+10521  6 Ray LLC Enterprises  Michael Brock  ownership  0.861336         NaN   
+
+      source_country target_type  target_country  
+10521            NaN      person  Country_461742  )
+(('Wartsila', '373a8a11-c7a0-4e9b-8397-9d824974259a', '87ea830d-be41-4317-8b1b-142f23da70d7'),                                     source              target  \
+4173  87ea830d-be41-4317-8b1b-142f23da70d7              662118   
+4174  87ea830d-be41-4317-8b1b-142f23da70d7        Stephen Lowe   
+4175  87ea830d-be41-4317-8b1b-142f23da70d7  Nicholas Hernandez   
+4176  87ea830d-be41-4317-8b1b-142f23da70d7  Stephanie Robinson   
+
+                link_type    weight source_type source_country   target_type  \
+4173          partnership  0.828132    location            NaN  organization   
+4174            ownership  0.821836    location            NaN        person   
+4175           membership  0.837715    location            NaN        person   
+4176  family_relationship  0.861455    location            NaN        person   
+
+      target_country  
+4173             NaN  
+4174  Country_271835  
+4175  Country_271835  
+4176  Country_271835  )

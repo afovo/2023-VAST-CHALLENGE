@@ -1,0 +1,123 @@
+{
+  "0": [
+    "unity_company_own0",
+    "unity_organization_own42"
+  ],
+  "1": [
+    "unity_company_own0",
+    "unity_organization_own42",
+    "unity_organization_own1",
+    "unity_organization_own19"
+  ],
+  "2": [
+    "unity_company_own0",
+    "unity_organization_own42",
+    "unity_organization_own1",
+    "unity_organization_own5",
+    "unity_organization_own19"
+  ],
+  "3": [
+    "unity_company_own0",
+    "unity_organization_own42",
+    "unity_organization_own1",
+    "unity_organization_own2"
+  ],
+  "4": [
+    "unity_company_own0",
+    "unity_organization_own42",
+    "unity_organization_own1",
+    "unity_organization_own0",
+    "unity_organization_own5",
+    "unity_organization_own19"
+  ],
+  "5": [
+    "unity_company_own0",
+    "unity_organization_own42",
+    "unity_organization_own1",
+    "unity_organization_own0"
+  ],
+  "6": [
+    "unity_company_own0",
+    "unity_organization_own42",
+    "unity_organization_own1"
+  ],
+  "7": [
+    "unity_company_own0",
+    "unity_organization_own0",
+    "unity_organization_own5",
+    "unity_organization_own19"
+  ],
+  "8": [
+    "unity_company_own0",
+    "unity_organization_own0",
+    "unity_organization_own5",
+    "unity_organization_own1",
+    "unity_organization_own19"
+  ],
+  "9": [
+    "unity_company_own0",
+    "unity_organization_own0",
+    "unity_organization_own5",
+    "unity_organization_own1",
+    "unity_organization_own2"
+  ],
+  "10": [
+    "unity_company_own0",
+    "unity_organization_own0",
+    "unity_organization_own5",
+    "unity_organization_own1"
+  ],
+  "11": [
+    "unity_company_own0",
+    "unity_organization_own0"
+  ],
+  "12": [
+    "unity_company_own0",
+    "unity_organization_own1",
+    "unity_organization_own19"
+  ],
+  "13": [
+    "unity_company_own0",
+    "unity_organization_own1",
+    "unity_organization_own5",
+    "unity_organization_own19"
+  ],
+  "14": [
+    "unity_company_own0",
+    "unity_organization_own1",
+    "unity_organization_own2"
+  ],
+  "15": [
+    "unity_company_own0",
+    "unity_organization_own1",
+    "unity_organization_own0",
+    "unity_organization_own5",
+    "unity_organization_own19"
+  ],
+  "16": [
+    "unity_company_own0",
+    "unity_organization_own1",
+    "unity_organization_own0"
+  ],
+  "17": [
+    "unity_company_own0",
+    "unity_organization_own1"
+  ],
+  "18": [
+    "unity_organization_own1",
+    "unity_organization_own26"
+  ],
+  "19": [
+    "unity_organization_own1",
+    "unity_organization_own5"
+  ],
+  "20": [
+    "unity_organization_own1",
+    "unity_organization_own2"
+  ],
+  "21": [
+    "unity_organization_own1",
+    "unity_organization_own0",
+    "unity_organization_own5"
+  ]
+}

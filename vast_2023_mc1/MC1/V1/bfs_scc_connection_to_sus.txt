@@ -1,0 +1,476 @@
+dup77->8327
+dup77,membership,dup38
+partnership,Fisherman'sFriend Charter Boat S.A. de C.V. Freight 
+ownership,464454263
+membership,Erica Hamilton
+partnership,160
+membership,8327
+----------------------
+dup77->979893388
+dup77,membership,dup38
+partnership,Fisherman'sFriend Charter Boat S.A. de C.V. Freight 
+ownership,464454263
+membership,Erica Hamilton
+ownership,979893388
+----------------------
+dup77->Mar de la Vida OJSC
+dup77,membership,dup38
+partnership,Fisherman'sFriend Charter Boat S.A. de C.V. Freight 
+ownership,464454263
+membership,Erica Hamilton
+ownership,979893388
+family_relationship,Faroe Islands Shrimp Shark
+family_relationship,Ancla Azul Company Solutions
+membership,Mar de la Vida OJSC
+----------------------
+dup77->Oceanfront Oasis Inc Carriers
+dup77,membership,dup38
+partnership,Fisherman'sFriend Charter Boat S.A. de C.V. Freight 
+ownership,464454263
+membership,Erica Hamilton
+ownership,979893388
+ownership,Oceanfront Oasis Inc Carriers
+----------------------
+water->8327
+water,membership,7691
+family_relationship,Spanish Shrimp  Carriers
+ownership,160
+membership,8327
+----------------------
+water->979893388
+water,partnership,Tshikwea Corp Marine sanctuary
+membership,665
+partnership,979893388
+----------------------
+water->Mar de la Vida OJSC
+water,membership,7691
+family_relationship,Spanish Shrimp  Carriers
+membership,Ancla Azul Company Solutions
+membership,Mar de la Vida OJSC
+----------------------
+water->Oceanfront Oasis Inc Carriers
+water,partnership,Tshikwea Corp Marine sanctuary
+membership,665
+partnership,979893388
+ownership,Oceanfront Oasis Inc Carriers
+----------------------
+Gulf->8327
+Gulf,ownership,Ocean Fisheries Llc
+ownership,160
+membership,8327
+----------------------
+Gulf->979893388
+Gulf,ownership,Ocean Fisheries Llc
+ownership,979893388
+----------------------
+Gulf->Mar de la Vida OJSC
+Gulf,membership,Christopher Cunningham
+partnership,cefaf8b3-3aa2-4c59-b4aa-7974c8e1fe32
+membership,Ancla Azul Company Solutions
+membership,Mar de la Vida OJSC
+----------------------
+Gulf->Oceanfront Oasis Inc Carriers
+Gulf,ownership,Ocean Fisheries Llc
+ownership,979893388
+ownership,Oceanfront Oasis Inc Carriers
+----------------------
+salmon->8327
+salmon,ownership,George Ramirez
+ownership,d5b94ebc-e03a-438e-872b-a15db349a748
+membership,903311212
+ownership,160
+membership,8327
+----------------------
+salmon->979893388
+salmon,ownership,George Ramirez
+ownership,d5b94ebc-e03a-438e-872b-a15db349a748
+membership,903311212
+family_relationship,979893388
+----------------------
+salmon->Mar de la Vida OJSC
+salmon,ownership,George Ramirez
+ownership,d5b94ebc-e03a-438e-872b-a15db349a748
+membership,903311212
+family_relationship,Spanish Shrimp  Carriers
+membership,Ancla Azul Company Solutions
+membership,Mar de la Vida OJSC
+----------------------
+salmon->Oceanfront Oasis Inc Carriers
+salmon,ownership,George Ramirez
+ownership,d5b94ebc-e03a-438e-872b-a15db349a748
+membership,903311212
+family_relationship,979893388
+ownership,Oceanfront Oasis Inc Carriers
+----------------------
+Plastic->8327
+Plastic,partnership,Daniel Middleton
+family_relationship,John Conley
+family_relationship,Amanda Andrews
+family_relationship,Amanda Mckenzie
+ownership,Mar del Oeste Pic
+ownership,Today
+membership,8327
+----------------------
+Plastic->979893388
+Plastic,partnership,Kerala Market Corp Consulting
+ownership,3129
+membership,6780
+membership,Faroe Islands Shrimp Shark
+partnership,979893388
+----------------------
+Plastic->Mar de la Vida OJSC
+Plastic,partnership,Kerala Market Corp Consulting
+ownership,3129
+membership,6780
+membership,Faroe Islands Shrimp Shark
+family_relationship,Ancla Azul Company Solutions
+membership,Mar de la Vida OJSC
+----------------------
+Plastic->Oceanfront Oasis Inc Carriers
+Plastic,partnership,Kerala Market Corp Consulting
+ownership,3129
+membership,6780
+partnership,3506021
+ownership,2262
+family_relationship,Oceanfront Oasis Inc Carriers
+----------------------
+19->8327
+19,ownership,903311212
+ownership,160
+membership,8327
+----------------------
+19->979893388
+19,membership,67a59fab-710a-4992-b6d0-d581fd9dceba
+membership,979893388
+----------------------
+19->Mar de la Vida OJSC
+19,membership,Faroe Islands Shrimp Shark
+family_relationship,Ancla Azul Company Solutions
+membership,Mar de la Vida OJSC
+----------------------
+19->Oceanfront Oasis Inc Carriers
+19,membership,67a59fab-710a-4992-b6d0-d581fd9dceba
+membership,979893388
+ownership,Oceanfront Oasis Inc Carriers
+----------------------
+dup626->8327
+dup626,membership,DOFâs
+membership,b8567859-bf54-49fd-8332-5775e19c65af
+family_relationship,7505050
+membership,8327
+----------------------
+dup626->979893388
+dup626,membership,DOFâs
+partnership,98332
+membership,979893388
+----------------------
+dup626->Mar de la Vida OJSC
+dup626,membership,DOFâs
+membership,b8567859-bf54-49fd-8332-5775e19c65af
+family_relationship,Faroe Islands Shrimp Shark
+family_relationship,Ancla Azul Company Solutions
+membership,Mar de la Vida OJSC
+----------------------
+dup626->Oceanfront Oasis Inc Carriers
+dup626,membership,DOFâs
+partnership,98332
+membership,979893388
+ownership,Oceanfront Oasis Inc Carriers
+----------------------
+629->8327
+629,membership,43685541
+partnership,Mar del Oeste Pic
+ownership,Today
+membership,8327
+----------------------
+629->979893388
+629,membership,43685541
+partnership,Mar del Oeste Pic
+membership,979893388
+----------------------
+629->Mar de la Vida OJSC
+629,membership,43685541
+ownership,7691
+family_relationship,Spanish Shrimp  Carriers
+membership,Ancla Azul Company Solutions
+membership,Mar de la Vida OJSC
+----------------------
+629->Oceanfront Oasis Inc Carriers
+629,membership,43685541
+partnership,Mar del Oeste Pic
+membership,979893388
+ownership,Oceanfront Oasis Inc Carriers
+----------------------
+ocean->8327
+ocean,partnership,png xi  Line
+ownership,7505050
+membership,8327
+----------------------
+ocean->979893388
+ocean,partnership,png xi  Line
+membership,979893388
+----------------------
+ocean->Mar de la Vida OJSC
+ocean,partnership,png xi  Line
+membership,Faroe Islands Shrimp Shark
+family_relationship,Ancla Azul Company Solutions
+membership,Mar de la Vida OJSC
+----------------------
+ocean->Oceanfront Oasis Inc Carriers
+ocean,partnership,png xi  Line
+family_relationship,2262
+family_relationship,Oceanfront Oasis Inc Carriers
+----------------------
+bottom->8327
+bottom,membership,7670
+partnership,Estrella de Coral Ltd. Corporation Logistics
+family_relationship,Mar del Oeste Pic
+ownership,Today
+membership,8327
+----------------------
+bottom->979893388
+bottom,membership,7670
+partnership,Estrella de Coral Ltd. Corporation Logistics
+partnership,979893388
+----------------------
+bottom->Mar de la Vida OJSC
+bottom,membership,7670
+partnership,Estrella de Coral Ltd. Corporation Logistics
+partnership,cefaf8b3-3aa2-4c59-b4aa-7974c8e1fe32
+membership,Ancla Azul Company Solutions
+membership,Mar de la Vida OJSC
+----------------------
+bottom->Oceanfront Oasis Inc Carriers
+bottom,membership,7670
+partnership,Estrella de Coral Ltd. Corporation Logistics
+partnership,979893388
+ownership,Oceanfront Oasis Inc Carriers
+----------------------
+USS->8327
+USS,ownership,Gulf
+ownership,Ocean Fisheries Llc
+ownership,160
+membership,8327
+----------------------
+USS->979893388
+USS,ownership,Gulf
+ownership,Ocean Fisheries Llc
+ownership,979893388
+----------------------
+USS->Mar de la Vida OJSC
+USS,ownership,Gulf
+membership,Christopher Cunningham
+partnership,cefaf8b3-3aa2-4c59-b4aa-7974c8e1fe32
+membership,Ancla Azul Company Solutions
+membership,Mar de la Vida OJSC
+----------------------
+USS->Oceanfront Oasis Inc Carriers
+USS,ownership,Gulf
+ownership,Ocean Fisheries Llc
+ownership,979893388
+ownership,Oceanfront Oasis Inc Carriers
+----------------------
+PC->8327
+PC,membership,185040354
+membership,903311212
+ownership,160
+membership,8327
+----------------------
+PC->979893388
+PC,membership,185040354
+partnership,4
+family_relationship,979893388
+----------------------
+PC->Mar de la Vida OJSC
+PC,membership,185040354
+partnership,Faroe Islands Shrimp Shark
+family_relationship,Ancla Azul Company Solutions
+membership,Mar de la Vida OJSC
+----------------------
+PC->Oceanfront Oasis Inc Carriers
+PC,membership,185040354
+ownership,2262
+family_relationship,Oceanfront Oasis Inc Carriers
+----------------------
+Oliver->8327
+Oliver,partnership,Wendy Crane
+membership,Ocean Fisheries Llc
+ownership,160
+membership,8327
+----------------------
+Oliver->979893388
+Oliver,partnership,Wendy Crane
+family_relationship,Abigail Foster
+membership,979893388
+----------------------
+Oliver->Mar de la Vida OJSC
+Oliver,partnership,Wendy Crane
+membership,Faroe Islands Shrimp Shark
+family_relationship,Ancla Azul Company Solutions
+membership,Mar de la Vida OJSC
+----------------------
+Oliver->Oceanfront Oasis Inc Carriers
+Oliver,partnership,Wendy Crane
+family_relationship,Abigail Foster
+membership,979893388
+ownership,Oceanfront Oasis Inc Carriers
+----------------------
+HMS Montrose->8327
+HMS Montrose,ownership,b8567859-bf54-49fd-8332-5775e19c65af
+family_relationship,7505050
+membership,8327
+----------------------
+HMS Montrose->979893388
+HMS Montrose,ownership,b8567859-bf54-49fd-8332-5775e19c65af
+family_relationship,979893388
+----------------------
+HMS Montrose->Mar de la Vida OJSC
+HMS Montrose,ownership,b8567859-bf54-49fd-8332-5775e19c65af
+family_relationship,Faroe Islands Shrimp Shark
+family_relationship,Ancla Azul Company Solutions
+membership,Mar de la Vida OJSC
+----------------------
+HMS Montrose->Oceanfront Oasis Inc Carriers
+HMS Montrose,ownership,b8567859-bf54-49fd-8332-5775e19c65af
+family_relationship,2262
+family_relationship,Oceanfront Oasis Inc Carriers
+----------------------
+Talleyâs->8327
+Talleyâs,membership,Ocean Fisheries Llc
+ownership,160
+membership,8327
+----------------------
+Talleyâs->979893388
+Talleyâs,membership,Ocean Fisheries Llc
+ownership,979893388
+----------------------
+Talleyâs->Mar de la Vida OJSC
+Talleyâs,membership,Ocean Fisheries Llc
+family_relationship,Faroe Islands Shrimp Shark
+family_relationship,Ancla Azul Company Solutions
+membership,Mar de la Vida OJSC
+----------------------
+Talleyâs->Oceanfront Oasis Inc Carriers
+Talleyâs,membership,Ocean Fisheries Llc
+ownership,979893388
+ownership,Oceanfront Oasis Inc Carriers
+----------------------
+Ships->8327
+Ships,ownership,222079892
+ownership,740111283
+ownership,341411
+membership,Spanish Shrimp  Carriers
+ownership,160
+membership,8327
+----------------------
+Ships->979893388
+Ships,ownership,222079892
+ownership,740111283
+partnership,cefaf8b3-3aa2-4c59-b4aa-7974c8e1fe32
+membership,Estrella de Coral Ltd. Corporation Logistics
+partnership,979893388
+----------------------
+Ships->Mar de la Vida OJSC
+Ships,ownership,222079892
+ownership,740111283
+partnership,cefaf8b3-3aa2-4c59-b4aa-7974c8e1fe32
+membership,Ancla Azul Company Solutions
+membership,Mar de la Vida OJSC
+----------------------
+Ships->Oceanfront Oasis Inc Carriers
+Ships,ownership,222079892
+ownership,740111283
+partnership,cefaf8b3-3aa2-4c59-b4aa-7974c8e1fe32
+membership,Estrella de Coral Ltd. Corporation Logistics
+partnership,979893388
+ownership,Oceanfront Oasis Inc Carriers
+----------------------
+trucking->8327
+trucking,family_relationship,425887173
+family_relationship,2262
+partnership,Spanish Shrimp  Carriers
+ownership,160
+membership,8327
+----------------------
+trucking->979893388
+trucking,family_relationship,425887173
+family_relationship,2262
+family_relationship,Abigail Foster
+membership,979893388
+----------------------
+trucking->Mar de la Vida OJSC
+trucking,family_relationship,425887173
+family_relationship,2262
+partnership,Spanish Shrimp  Carriers
+membership,Ancla Azul Company Solutions
+membership,Mar de la Vida OJSC
+----------------------
+trucking->Oceanfront Oasis Inc Carriers
+trucking,family_relationship,425887173
+family_relationship,2262
+family_relationship,Oceanfront Oasis Inc Carriers
+----------------------
+Deepwater Horizon->8327
+Deepwater Horizon,partnership,Kerala Market Corp Consulting
+ownership,3129
+membership,6780
+partnership,3506021
+ownership,Spanish Shrimp  Carriers
+ownership,160
+membership,8327
+----------------------
+Deepwater Horizon->979893388
+Deepwater Horizon,partnership,Kerala Market Corp Consulting
+ownership,3129
+membership,6780
+membership,Faroe Islands Shrimp Shark
+partnership,979893388
+----------------------
+Deepwater Horizon->Mar de la Vida OJSC
+Deepwater Horizon,partnership,Kerala Market Corp Consulting
+ownership,3129
+membership,6780
+membership,Faroe Islands Shrimp Shark
+family_relationship,Ancla Azul Company Solutions
+membership,Mar de la Vida OJSC
+----------------------
+Deepwater Horizon->Oceanfront Oasis Inc Carriers
+Deepwater Horizon,partnership,Kerala Market Corp Consulting
+ownership,3129
+membership,6780
+partnership,3506021
+ownership,2262
+family_relationship,Oceanfront Oasis Inc Carriers
+----------------------
+Vessels->8327
+Vessels,partnership,Angela Chang
+family_relationship,Daniel Chang
+family_relationship,Samuel Dunn
+partnership,png xi  Line
+ownership,7505050
+membership,8327
+----------------------
+Vessels->979893388
+Vessels,partnership,Angela Chang
+family_relationship,Daniel Chang
+family_relationship,Samuel Dunn
+partnership,png xi  Line
+membership,979893388
+----------------------
+Vessels->Mar de la Vida OJSC
+Vessels,partnership,Angela Chang
+family_relationship,Daniel Chang
+family_relationship,Samuel Dunn
+partnership,png xi  Line
+membership,Faroe Islands Shrimp Shark
+family_relationship,Ancla Azul Company Solutions
+membership,Mar de la Vida OJSC
+----------------------
+Vessels->Oceanfront Oasis Inc Carriers
+Vessels,partnership,Angela Chang
+family_relationship,Daniel Chang
+family_relationship,Samuel Dunn
+partnership,png xi  Line
+family_relationship,2262
+family_relationship,Oceanfront Oasis Inc Carriers
+----------------------

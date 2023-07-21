@@ -1,0 +1,103 @@
+,source,target,link_type,weight,source_type,dataset_x,source_country,target_type,target_country,count
+0,12744,Spanish Shrimp  Carriers,ownership,0.900140,company,MC1,Nalakond,organization,,2
+1,12744,Spanish Shrimp  Carriers,ownership,0.917011,organization,MC1,,company,Nalakond,2
+2,3506021,Spanish Shrimp  Carriers,ownership,0.964213,company,MC1,Nalakond,organization,,2
+3,3506021,Spanish Shrimp  Carriers,ownership,0.889810,organization,MC1,,company,Nalakond,2
+10,185040354,3506021,ownership,0.841343,organization,MC1,,organization,,2
+11,185040354,3506021,ownership,0.968845,organization,MC1,,organization,,2
+12,185040354,505943,ownership,0.827212,organization,MC1,,organization,,2
+13,185040354,505943,ownership,0.931467,organization,MC1,,organization,,2
+28,Faroe Islands Shrimp Shark,SeaSpray Wave SRL Solutions,ownership,1.764709,company,MC1,Rio Isla,,,2
+29,Faroe Islands Shrimp Shark,SeaSpray Wave SRL Solutions,ownership,0.837742,,MC1,,company,Rio Isla,2
+56,341411,Playa del Cielo Kga,ownership,0.816223,organization,MC1,,company,Rio Isla,2
+57,341411,Playa del Cielo Kga,ownership,0.818714,company,MC1,Rio Isla,organization,,2
+66,128692,5441,ownership,0.888788,organization,MC1,,organization,,2
+67,128692,5441,ownership,0.863453,organization,MC1,,organization,,2
+84,47679,829,ownership,0.870605,organization,MC1,,organization,,2
+85,47679,829,ownership,0.828440,organization,MC1,,organization,,2
+96,Amanda Mckenzie,Mar del Oeste Pic,ownership,0.913723,person,MC1,Oceanus,company,Vesperlandia,2
+97,Amanda Mckenzie,Mar del Oeste Pic,ownership,0.827603,company,MC1,Vesperlandia,person,Oceanus,2
+112,78135,79139,ownership,0.831885,organization,MC1,,organization,,2
+113,78135,79139,ownership,0.802004,organization,MC1,,organization,,2
+134,1560,829,ownership,0.880239,organization,MC1,,organization,,2
+135,1560,829,ownership,0.841754,organization,MC1,,organization,,2
+148,57,f810c631-9f7d-4219-ade0-b44c4c9abf62,ownership,0.926083,political_organization,MC1,,location,,2
+149,57,f810c631-9f7d-4219-ade0-b44c4c9abf62,ownership,0.942602,location,MC1,,political_organization,,2
+150,57,Melissa Norman,ownership,0.829233,political_organization,MC1,,person,Country_615819,2
+151,57,Melissa Norman,ownership,0.888378,person,MC1,Country_615819,political_organization,,2
+152,Tian,dup18,ownership,0.826983,vessel,MC1,,vessel,,2
+153,Tian,dup18,ownership,0.820332,vessel,MC1,,vessel,,2
+164,903311212,png xi  Line,ownership,2.631742,company,MC1,Country_628643,organization,,2
+165,903311212,png xi  Line,ownership,2.637258,organization,MC1,,company,Country_628643,2
+178,Ocean Fisheries Llc,png xi  Line,ownership,1.646378,company,MC1,Country_628643,,,2
+179,Ocean Fisheries Llc,png xi  Line,ownership,3.349665,,MC1,,company,Country_628643,2
+182,SeaSpray Wave SRL Solutions,png xi  Line,ownership,2.500367,company,MC1,Country_628643,,,2
+183,SeaSpray Wave SRL Solutions,png xi  Line,ownership,0.851496,,MC1,,company,Country_628643,2
+188,Mar del Oeste Pic,png xi  Line,ownership,2.452251,company,MC1,Country_628643,company,Vesperlandia,2
+189,Mar del Oeste Pic,png xi  Line,ownership,1.635207,company,MC1,Vesperlandia,company,Country_628643,2
+192,Seafood,png xi  Line,ownership,0.859600,company,MC1,Country_628643,,,2
+193,Seafood,png xi  Line,ownership,0.870866,,MC1,,company,Country_628643,2
+198,Playa del Cielo Kga,days,ownership,0.930204,company,MC1,Rio Isla,movement,,2
+199,Playa del Cielo Kga,days,ownership,0.809262,movement,MC1,,company,Rio Isla,2
+200,Morgan Bell,Playa del Cielo Kga,ownership,0.852945,company,MC1,Rio Isla,person,Country_895471,2
+201,Morgan Bell,Playa del Cielo Kga,ownership,0.912526,person,MC1,Country_895471,company,Rio Isla,2
+204,511915273,Playa del Cielo Kga,ownership,0.815597,company,MC1,Rio Isla,organization,,2
+205,511915273,Playa del Cielo Kga,ownership,0.856240,organization,MC1,,company,Rio Isla,2
+206,April,Playa del Cielo Kga,ownership,0.877371,company,MC1,Rio Isla,event,,2
+207,April,Playa del Cielo Kga,ownership,0.857083,event,MC1,,company,Rio Isla,2
+208,Playa del Cielo Kga,b03a6fc7-507a-4328-9814-57561acb4fc6,ownership,0.820523,company,MC1,Rio Isla,location,,2
+209,Playa del Cielo Kga,b03a6fc7-507a-4328-9814-57561acb4fc6,ownership,0.834354,location,MC1,,company,Rio Isla,2
+218,41398ea8-d14a-4666-80e8-6a212684d871,Estrella de Coral Ltd. Corporation Logistics,ownership,0.824552,location,MC1,,,,2
+219,41398ea8-d14a-4666-80e8-6a212684d871,Estrella de Coral Ltd. Corporation Logistics,ownership,0.866879,,MC1,,location,,2
+224,43454,86590543,ownership,0.837745,organization,MC1,,organization,,2
+225,43454,86590543,ownership,0.840853,organization,MC1,,organization,,2
+226,Mar del Oeste Pic,Ocean Fisheries Llc,ownership,6.059590,company,MC1,Vesperlandia,,,2
+227,Mar del Oeste Pic,Ocean Fisheries Llc,ownership,2.576547,,MC1,,company,Vesperlandia,2
+238,Mar del Oeste Pic,SeaSpray Wave SRL Solutions,ownership,3.446472,company,MC1,Vesperlandia,,,2
+239,Mar del Oeste Pic,SeaSpray Wave SRL Solutions,ownership,1.731548,,MC1,,company,Vesperlandia,2
+248,903311212,Mar del Oeste Pic,ownership,3.499780,company,MC1,Vesperlandia,organization,,2
+249,903311212,Mar del Oeste Pic,ownership,4.480122,organization,MC1,,company,Vesperlandia,2
+296,829,995899,ownership,0.890938,organization,MC1,,organization,,2
+297,829,995899,ownership,0.879302,organization,MC1,,organization,,2
+298,47249,829,ownership,0.870103,organization,MC1,,organization,,2
+299,47249,829,ownership,0.832437,organization,MC1,,organization,,2
+300,23399545,829,ownership,0.847215,organization,MC1,,organization,,2
+301,23399545,829,ownership,0.888434,organization,MC1,,organization,,2
+306,626,Morgan Bell,ownership,0.907553,person,MC1,Country_895471,political_organization,,2
+307,626,Morgan Bell,ownership,0.812901,political_organization,MC1,,person,Country_895471,2
+316,440994840,Bryan Johnston,ownership,0.806910,person,MC1,Oceanus,political_organization,,2
+317,440994840,Bryan Johnston,ownership,0.860050,political_organization,MC1,,person,Oceanus,2
+326,Estrella de Coral Ltd. Corporation Logistics,Mario Richardson,ownership,0.875480,person,MC1,Country_459036,,,2
+327,Estrella de Coral Ltd. Corporation Logistics,Mario Richardson,ownership,0.918860,,MC1,,person,Country_459036,2
+328,Estrella de Coral Ltd. Corporation Logistics,Peter Oliver,ownership,0.807503,person,MC1,Country_895471,,,2
+329,Estrella de Coral Ltd. Corporation Logistics,Peter Oliver,ownership,0.831237,,MC1,,person,Country_895471,2
+334,Scott Brown,days,ownership,0.834631,person,MC1,Country_271835,movement,,2
+335,Scott Brown,days,ownership,0.943014,movement,MC1,,person,Country_271835,2
+366,979893388,Erica Hamilton,ownership,0.847196,organization,MC1,,person,Marebak,2
+367,979893388,Erica Hamilton,ownership,0.890057,person,MC1,Marebak,organization,,2
+378,Madison Franklin,bottom,ownership,0.916514,vessel,MC1,,person,Country_271835,2
+379,Madison Franklin,bottom,ownership,0.896293,person,MC1,Country_271835,vessel,,2
+392,160,Ocean Fisheries Llc,ownership,1.780200,organization,MC1,,,,2
+393,160,Ocean Fisheries Llc,ownership,1.731715,,MC1,,organization,,2
+394,160,903311212,ownership,0.871131,organization,MC1,,organization,,2
+395,160,903311212,ownership,0.880429,organization,MC1,,organization,,2
+406,903311212,Ocean Fisheries Llc,ownership,0.804519,organization,MC1,,,,2
+407,903311212,Ocean Fisheries Llc,ownership,1.657601,,MC1,,organization,,2
+408,903311212,SeaSpray Wave SRL Solutions,ownership,5.179104,organization,MC1,,,,2
+409,903311212,SeaSpray Wave SRL Solutions,ownership,5.186122,,MC1,,organization,,2
+432,64338295,81,ownership,0.831012,organization,MC1,,organization,,2
+433,64338295,81,ownership,0.872944,organization,MC1,,organization,,2
+436,805275,94361818,ownership,0.847569,organization,MC1,,organization,,2
+437,805275,94361818,ownership,0.938694,organization,MC1,,organization,,2
+438,Benjamin Snyder,b3de0895-285e-4ea8-99bb-ffdc763f7038,ownership,0.852326,person,MC1,Orvietea,location,,2
+439,Benjamin Snyder,b3de0895-285e-4ea8-99bb-ffdc763f7038,ownership,0.871765,location,MC1,,person,Orvietea,2
+462,93252,Erica Hamilton,ownership,0.925126,organization,MC1,,person,Marebak,2
+463,93252,Erica Hamilton,ownership,0.825904,person,MC1,Marebak,organization,,2
+536,Sonia Fisheries Pvt,c01c6a10-60c9-4f11-9409-aa04c3963826,ownership,0.921157,location,MC1,,,,2
+537,Sonia Fisheries Pvt,c01c6a10-60c9-4f11-9409-aa04c3963826,ownership,0.831570,,MC1,,location,,2
+548,05d471b4-0e8c-4879-80b2-ef600220e09d,Texasâ,ownership,0.823324,,MC1,,location,,2
+549,05d471b4-0e8c-4879-80b2-ef600220e09d,Texasâ,ownership,0.853588,location,MC1,,,,2
+558,Christopher Fields,Sonia Fisheries Pvt,ownership,0.905857,person,MC1,Country_470077,,,2
+559,Christopher Fields,Sonia Fisheries Pvt,ownership,0.868182,,MC1,,person,Country_470077,2
+578,Ocean Fisheries Llc,SeaSpray Wave SRL Solutions,ownership,2.456995,,MC1,,,,2
+579,Ocean Fisheries Llc,SeaSpray Wave SRL Solutions,ownership,6.033668,,MC1,,,,2
